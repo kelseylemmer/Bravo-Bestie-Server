@@ -1,0 +1,83 @@
+[
+  {
+    "model": "bravoapi.franchise",
+    "pk": 1,
+    "fields": {
+      "label": "The Real Housewives of Beverly Hills",
+      "abbreviation": "RHOBH",
+      "series_premier": "10-14-2010"
+    }
+  },
+  {
+    "model": "bravoapi.franchise",
+    "pk": 2,
+    "fields": {
+      "label": "Vanderpump Rules",
+      "abbreviation": "VPR",
+      "series_premier": "01-07-2013"
+    }
+  },
+  {
+    "model": "bravoapi.franchise",
+    "pk": 3,
+    "fields": {
+      "label": "The Real Housewives of Miami",
+      "abbreviation": "RHOM",
+      "series_premier": "02-22-2011"
+    }
+  },
+  {
+    "model": "bravoapi.franchise",
+    "pk": 4,
+    "fields": {
+      "label": "The Real Housewives of Potomac",
+      "abbreviation": "RHOP",
+      "series_premier": "01-17-2016"
+    }
+  },
+  {
+    "model": "bravoapi.franchise",
+    "pk": 5,
+    "fields": {
+      "label": "The Real Housewives of Salt Lake City",
+      "abbreviation": "RHOSLC",
+      "series_premier": "11-11-2022"
+    }
+  },
+  {
+    "model": "bravoapi.franchise",
+    "pk": 6,
+    "fields": {
+      "label": "The Real Housewives of New Jersey",
+      "abbreviation": "RHONJ",
+      "series_premier": "05-12-2009"
+    }
+  },
+  {
+    "model": "bravoapi.franchise",
+    "pk": 7,
+    "fields": {
+      "label": "The Real Housewives of New York",
+      "abbreviation": "RHONY",
+      "series_premier": "03-04-2008"
+    }
+  },
+  {
+    "model": "bravoapi.franchise",
+    "pk": 8,
+    "fields": {
+      "label": "The Real Housewives of Atlanta",
+      "abbreviation": "RHOA",
+      "series_premier": "10-07-2008"
+    }
+  },
+  {
+    "model": "bravoapi.franchise",
+    "pk": 9,
+    "fields": {
+      "label": "The Real Housewives of Orange County",
+      "abbreviation": "RHOC",
+      "series_premier": "03-21-2006"
+    }
+  }
+]
