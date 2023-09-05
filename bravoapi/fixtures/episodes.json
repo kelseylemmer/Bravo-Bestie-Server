@@ -3407,4 +3407,244 @@
       "air_date": "02/17/2014"
     }
   },
+  {
+    "model": "bravoapi.episode",
+    "pk": 285,
+    "fields": {
+      "title": "Instafight",
+      "synopsis": "In the Season 3 premiere, Lisa Vanderpump still rules over everything at SUR, but no longer rules over Stassi, who returns from New York to find everything has changed between her and her former friends. Meanwhile, Jax prepares for plastic surgery, Scheana plans her perfect birthday party, and Tom Sandoval sparks a romance with Ariana, but all happiness is jeopardized when Kristen digs up a secret that will rock everyone.",
+      "runtime": 44,
+      "season_id": 15,
+      "episode": 1,
+      "air_date": "11/03/2014"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 286,
+    "fields": {
+      "title": "All Fired Up",
+      "synopsis": "On the eve of her largest restaurant opening yet, Lisa must dole out harsh punishments to the SUR staff for their appalling behavior at Scheana's birthday party. Jax tries to do the right thing by choosing between his two girlfriends, but finds honesty has its downfalls. Stassi coaches Tom Schwartz on how to charm Lisa into giving him a fair shot at his new job at PUMP.",
+      "runtime": 44,
+      "season_id": 15,
+      "episode": 2,
+      "air_date": "11/10/2014"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 287,
+    "fields": {
+      "title": "Grand Opening and Closure",
+      "synopsis": "After going over the budget and past schedule, Lisa struggles to make the grand opening of PUMP a huge success. Stassi confronts Scheana over her mean-spirited tweets, but Scheana maintains she only retweeted what someone else already said. Kristen seeks closure with Tom Sandoval, but watching Ariana take her place triggers her innermost feelings for her ex-boyfriend.",
+      "runtime": 44,
+      "season_id": 15,
+      "episode": 3,
+      "air_date": "11/17/2014"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 288,
+    "fields": {
+      "title": "Jax 'Nose' Best",
+      "synopsis": "Stassi reconnects with the SUR crowd at a Hollywood party, but Scheana and Kristen make sure she doesn't enjoy a happy homecoming. Jax learns who his real friends are when he undergoes a painful nose job. Tom Schwartz suffers a panic attack and runs out on his job at PUMP, infuriating both Katie and Lisa Vanderpump.",
+      "runtime": 44,
+      "season_id": 15,
+      "episode": 4,
+      "air_date": "11/24/2014"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 289,
+    "fields": {
+      "title": "In the Doghouse",
+      "synopsis": "Kristen and Tom Sandoval return to SUR after their suspensions. Tom Schwartz adopts a puppy to delay marriage talks with Katie, but their relationship is tested when Jax spreads rumors that Katie cheated. And Lisa gives Stassi a special opportunity to style her for a cover photo shoot, which ends up with both women feeling underappreciated by the other.",
+      "runtime": 44,
+      "season_id": 15,
+      "episode": 5,
+      "air_date": "12/01/2014"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 290,
+    "fields": {
+      "title": "Kiss and Tell",
+      "synopsis": "Kristen reveals that Tom Schwartz may be cheating on Katie. Katie interrogates the SUR staff about Schwartz's infidelity and discovers they know more than expected. Lisa hosts the '50 Gay Mayors' event at PUMP.",
+      "runtime": 44,
+      "season_id": 15,
+      "episode": 6,
+      "air_date": "12/08/2014"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 291,
+    "fields": {
+      "title": "New Girl, Old Grudges",
+      "synopsis": "With Gay Pride coming up, Lisa hires a new hostess named Vail, who immediately catches the attention of Jax. Stassi slams Tom Schwartz for remaining friends with Jax, but Schwartz believes her anger is just a grudge against her ex-boyfriend. James feels the strain of Kristen's ongoing obsession with Tom and Ariana.",
+      "runtime": 44,
+      "season_id": 15,
+      "episode": 7,
+      "air_date": "12/15/2014"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 292,
+    "fields": {
+      "title": "Mind the Jax",
+      "synopsis": "Jax pursues new SUR hostess Vail, but gets caught up in a lie about his current girlfriend. James tries to clear the air with Tom Sandoval before Scheana's bachelorette party in Miami, but Kristen's lingering obsession is too much for them to overcome. Katie and Tom seek couples' therapy to save their relationship.",
+      "runtime": 44,
+      "season_id": 15,
+      "episode": 8,
+      "air_date": "12/22/2014"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 293,
+    "fields": {
+      "title": "What Happens in San Diego",
+      "synopsis": "Lisa advises Scheana to invite Stassi and Katie to her bachelorette party in Miami, but Stassi wants to boycott the celebration. Jax's girlfriend Tiffany hooks the guys up with a VIP weekend in San Diego; however, a night of drinking and debauchery leaves Tom Sandoval accusing Jax of going too far.",
+      "runtime": 44,
+      "season_id": 15,
+      "episode": 9,
+      "air_date": "12/29/2014"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 294,
+    "fields": {
+      "title": "Bachelorette Beach Part",
+      "synopsis": "The SUR crew puts aside their differences to celebrate Scheana's bachelorette party in Miami with sun, sand, and a lot of liquor. Jax pursues Vail, but Tom Sandoval calls him out for his lying, womanizing ways. When a PUMP manager quits, Lisa calls on the one person she knows can fill the important role: her daughter, Pandora.",
+      "runtime": 44,
+      "season_id": 15,
+      "episode": 10,
+      "air_date": "01/05/2015"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 295,
+    "fields": {
+      "title": "Tears Over Miami",
+      "synopsis": "Jax reunites with an old friend at Scheana's Miami Beach bachelorette party, making the group wonder if Jax is hiding secrets about his sexual past. Tom Sandoval makes a tearful plea to Kristen to stop harassing Ariana, and Lisa confronts Stassi for cutting Katie out of her life.",
+      "runtime": 44,
+      "season_id": 15,
+      "episode": 11,
+      "air_date": "01/12/2015"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 296,
+    "fields": {
+      "title": "A Stand Against Stassi",
+      "synopsis": "When Stassi refuses to forgive Katie for attending Scheana's bachelorette party, Katie must either fight for her friendship or cut Stassi out of her life. Peter mistakes Vail's flirting for interest and asks her on a date that quickly turns awkward. Kristen connects with the girl Tom Sandoval allegedly cheated with in hopes of finally breaking up his relationship with Ariana.",
+      "runtime": 44,
+      "season_id": 15,
+      "episode": 12,
+      "air_date": "01/19/2015"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 297,
+    "fields": {
+      "title": "Miami Vices",
+      "synopsis": "Kristen creates chaos at SUR when she ambushes Tom Sandoval with the girl he allegedly slept with in Miami. Scheana erupts at Kristen over her actions, causing a huge scene in front of customers. Lisa jumps to action to keep SUR running and discipline her staff after Miami Girl's disruption. Katie adjusts to life without Stassi.",
+      "runtime": 44,
+      "season_id": 15,
+      "episode": 13,
+      "air_date": "01/26/2015"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 298,
+    "fields": {
+      "title": "Judgment Day",
+      "synopsis": "Lisa confronts Kristen over her disrespect of management and arrives at a final decision on her future at SUR. Tom Schwartz makes a shocking revelation to Katie about the past. Scheana debates whether to disinvite Kristen from her wedding.",
+      "runtime": 44,
+      "season_id": 15,
+      "episode": 14,
+      "air_date": "02/02/2015"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 299,
+    "fields": {
+      "title": "For Better or Worse",
+      "synopsis": "The SUR crew comes together for Scheana's wedding, but Scheana melts down as the day of her dreams spirals into a nightmare. James confronts Kristen over her continued obsession with Tom Sandoval. Jax, Tom Sandoval, and Tom Schwartz debate the merits of marriage.",
+      "runtime": 44,
+      "season_id": 15,
+      "episode": 15,
+      "air_date": "02/09/2015"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 300,
+    "fields": {
+      "title": "Ring on a String",
+      "synopsis": "Scheana breaks down when her plan for a perfect wedding falls apart. Kristen lives up to everyone's worst expectations when she fights with James at the reception. Tom Schwartz makes a bad situation worse when his apology gift to Katie leads to tears.",
+      "runtime": 44,
+      "season_id": 15,
+      "episode": 16,
+      "air_date": "02/16/2015"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 301,
+    "fields": {
+      "title": "Jax Cracks",
+      "synopsis": "Jax struggles to stay loyal to Tom, but Stassi teaches Kristen how to make Jax reveal Tom's alleged cheating. James apologizes to Kristen to salvage their relationship. Lisa teams up with Lance Bass to host a puppy adoption at PUMP.",
+      "runtime": 44,
+      "season_id": 15,
+      "episode": 17,
+      "air_date": "02/23/2015"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 302,
+    "fields": {
+      "title": "Dethroned",
+      "synopsis": "In the Season 3 finale, SUR's annual photo shoot turns tense as Tom Sandoval confronts Jax for stabbing him in the back. Katie forces Tom Schwartz to take action in their relationship, while Tom Sandoval and Ariana take their own relationship to a whole new level. While Stassi accepts Lisa's invitation to the restaurant's anniversary party, she finds returning to SUR more tense than nostalgic.",
+      "runtime": 44,
+      "season_id": 15,
+      "episode": 18,
+      "air_date": "03/02/2015"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 303,
+    "fields": {
+      "title": "Reunion Part 1",
+      "synopsis": "When Andy Cohen brings Lisa Vanderpump and her staff together at SUR, Kristen reveals a shocking new friendship, Tom Sandoval defends his fight with James at Scheana's birthday, Jax addresses his rumored romantic past with a man from Miami, and Stassi comes face-to-face with Jax for the first time in over a year.",
+      "runtime": 44,
+      "season_id": 15,
+      "episode": 19,
+      "air_date": "03/09/2015"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 304,
+    "fields": {
+      "title": "Reunion Part 2",
+      "synopsis": "In part two of the Vanderpump Rules Reunion, Lisa and the SUR staff open up to Andy Cohen about their issues with Stassi. Tom Sandoval and Ariana confront Kristen over 'Miami Girl,' Tom Schwartz responds to Katie's six-month marriage ultimatum, and Stassi reveals the real reason she is no longer friends with Scheana.",
+      "runtime": 44,
+      "season_id": 15,
+      "episode": 20,
+      "air_date": "03/16/2015"
+    }
+  }
 ]
