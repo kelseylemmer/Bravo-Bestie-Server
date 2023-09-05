@@ -3061,7 +3061,7 @@
   },
   {
     "model": "bravoapi.episode",
-    "pk": 257,
+    "pk": 256,
     "fields": {
       "title": "Not My Sister's Keeper",
       "synopsis": "Garcelle celebrates her success with a big party and makes an even bigger purchase with some encouragement from Sutton and Crystal. Lisa's refusal to accept Kathy's apology leaves Kyle holding the bag for her sister. As the ladies are draped in diamonds at Kyle's charity gala, stories swirl in the tabloids and Dorit wonders if there is a leak in their circle. Erika and Lisa continue to call out Kathy, leaving Kyle to question if any of her friends can truly be trusted.",
@@ -3073,7 +3073,7 @@
   },
   {
     "model": "bravoapi.episode",
-    "pk": 258,
+    "pk": 257,
     "fields": {
       "title": "Reunion Part 1",
       "synopsis": "A surprise visit from a special guest kicks off the chicest Beverly Hills reunion yet. Dorit revisits trauma from her home invasion. Kyle, Lisa and Erika challenge Crystal's contradictory statements about Sutton's dark comments. Garcelle admits to bad deeds. Tempers boil over when Kyle comes to Diana's defense.",
@@ -3085,7 +3085,7 @@
   },
   {
     "model": "bravoapi.episode",
-    "pk": 259,
+    "pk": 258,
     "fields": {
       "title": "Reunion Part 2",
       "synopsis": "As the reunion continues, Garcelle and Diana hit a point of no return in their already frayed friendship. Sutton reflects on her ongoing tension with Lisa, who updates the women on her grieving process. Garcelle discovers the trashy truth behind Erika's book review. As Kyle anxiously anticipates her sister's arrival, Kathy Hilton arrives with tequila in tow.",
@@ -3097,7 +3097,7 @@
   },
   {
     "model": "bravoapi.episode",
-    "pk": 260,
+    "pk": 259,
     "fields": {
       "title": "Reunion Part 3",
       "synopsis": "The reunion concludes as Erika is tasked with answering for her questionable decisions, both legally and otherwise. Kathy finally comes face to face with Erika and Lisa to confront their allegations over what went down in Aspen. Kyle gets drawn into the middle of a battle between her friends and her sister. The dynamic between Kathy and Kyle takes center stage as their relationship hangs in the balance.",
