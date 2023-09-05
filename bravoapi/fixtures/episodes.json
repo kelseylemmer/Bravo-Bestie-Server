@@ -4210,5 +4210,293 @@
       "episode": 24,
       "air_date": "04/17/2017"
     }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 352,
+    "fields": {
+      "title": "Masquerade",
+      "synopsis": "In the Season Six premiere, freshly divorced Scheana throws a lavish masquerade birthday party to show off her new boyfriend, but things get tense when she leaves Katie and Stassi off the guest list. Sandoval jeopardizes his and Schwartz's new restaurant partnership with Lisa when she overhears him complaining about her management style. Finally, a vicious rumor circulates that could destroy a relationship for good.",
+      "runtime": 44,
+      "season_id": 18,
+      "episode": 1,
+      "air_date": "12/04/2017"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 353,
+    "fields": {
+      "title": "Unfaithful",
+      "synopsis": "A painful revelation makes Brittany flee L.A., leaving her relationship with Jax in question. Stassi reconnects with her ex-boyfriend Patrick and ex-boss Lisa Vanderpump, while James attempts to reclaim his DJ job at SUR. Lisa proudly serves as grand marshal of the Long Beach Gay Pride parade, where Sandoval discovers a new fetish he hopes will revive his and Ariana's lagging sex life.",
+      "runtime": 44,
+      "season_id": 18,
+      "episode": 2,
+      "air_date": "12/11/2017"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 354,
+    "fields": {
+      "title": "Back in the Saddle",
+      "synopsis": "Brittany's girlfriends put aside their differences and throw a Kentucky-themed party to help cure her heartache, but the group learns Jax's indiscretion may not have been a one-time thing. When Ariana gets thrown off of her horse during practice, she must learn how to get back in the saddle. Lala returns to SUR to ask for Lisa's forgiveness—and her old job.",
+      "runtime": 44,
+      "season_id": 18,
+      "episode": 3,
+      "air_date": "12/18/2017"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 355,
+    "fields": {
+      "title": "Absinthe-Minded",
+      "synopsis": "When Lala learns Katie has been talking about her relationship again, she drops a bombshell that could break Katie's heart. Schwartz and Sandoval try to prove their commitment to partnering with Lisa Vanderpump by making the biggest investment of their lives. Stassi struggles as SUR's new event planner, while Jax and James forge an unlikely friendship with the help of some absinthe.",
+      "runtime": 44,
+      "season_id": 18,
+      "episode": 4,
+      "air_date": "01/01/2018"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 356,
+    "fields": {
+      "title": "Sex, Lies, and Audiotape",
+      "synopsis": "Jax convinces Brittany to host a housewarming party in an attempt to prove their relationship is mended, but the evening devolves into madness when a devastating audio recording surfaces. Lisa and Katie take Schwartz to task after his latest drunken blackout, while Kristen must tell Scheana that her boyfriend Rob may not be as perfect as he seems. Finally, Ariana reveals the heartbreaking reason for her body image struggles.",
+      "runtime": 44,
+      "season_id": 18,
+      "episode": 5,
+      "air_date": "01/08/2018"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 357,
+    "fields": {
+      "title": "See You Next Tuesday",
+      "synopsis": "Ariana's role in releasing Jax's scandalous audio recording leads to a fight with Sandoval that threatens their relationship, while Scheana and Katie strike a truce to stay out of each other's relationships. At SUR, James hustles to make sure his first DJ event is a smashing success, Lisa marvels at Brittany’s dedication to Jax, and Lala bonds with Billie, the restaurant's new hostess.",
+      "runtime": 44,
+      "season_id": 18,
+      "episode": 6,
+      "air_date": "01/15/2018"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 358,
+    "fields": {
+      "title": "It's Not About the Pasta",
+      "synopsis": "Scheana spirals out of control when she suspects Rob is pulling away, forcing Lisa to come to her rescue. Stassi assists in dressing the staff for SUR's annual Gay Pride celebration, while James erupts on Lala after she insults his girlfriend. Jax turns to an unlikely form of therapy in order to come to terms with his anger and infidelity.",
+      "runtime": 44,
+      "season_id": 18,
+      "episode": 7,
+      "air_date": "01/22/2018"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 359,
+    "fields": {
+      "title": "Best Mates",
+      "synopsis": "Kristen tests Jax's patience when she flies out Brittany's mom for a visit, especially when it turns out that she has another surprise up her sleeve. Lala finds her inner feminist and schemes to repair Scheana and Katie's friendship, Lisa rewards Peter for years of loyal service, and a salacious rumor about James and his best friend makes the rounds at SUR.",
+      "runtime": 44,
+      "season_id": 18,
+      "episode": 8,
+      "air_date": "01/29/2018"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 360,
+    "fields": {
+      "title": "Call Me Jason",
+      "synopsis": "Stassi helps organize a party to honor Lisa Vanderpump's new role at Beverly Hills Lifestyle magazine, but struggles to convince her bitter ex-coworkers to lend a hand. Schwartz's triplet brothers come for a visit and a Tom Sandoval makeover, Jax's anger issues send him running back to reiki therapy, and Katie finds herself the victim of body-shaming comments. Lisa must find a way to reopen SUR after a fire nearly puts the restaurant permanently out of commission.",
+      "runtime": 44,
+      "season_id": 18,
+      "episode": 9,
+      "air_date": "02/05/2018"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 361,
+    "fields": {
+      "title": "Screams and Queens",
+      "synopsis": "Birthday twins and perpetual rivals Stassi and Ariana plan extravagant parties on the same night, but while Ariana shines as the belle of the ball, an embarrassed Stassi runs off in tears. Meanwhile, Schwartz and Sandoval celebrate the approval of TomTom's permits by writing hefty checks, Lisa punishes Jax for ruining her big night, and Sandoval and Ariana work through their intimacy issues.",
+      "runtime": 44,
+      "season_id": 18,
+      "episode": 10,
+      "air_date": "02/12/2018"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 362,
+    "fields": {
+      "title": "It's All Happening",
+      "synopsis": "Lisa channels all her energy into restoring SUR after the devastating fire. On the heels of her birthday meltdown, Stassi consults a tarot card reader about her future with Patrick, while Scheana invites a select group of friends to visit Rob's prized cabin in Big Bear. James makes a startling admission about his feelings for with Lala, and Jax feels left behind in the wake of Tom and Tom's success.",
+      "runtime": 44,
+      "season_id": 18,
+      "episode": 11,
+      "air_date": "02/19/2018"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 363,
+    "fields": {
+      "title": "Wishful Sinking",
+      "synopsis": "In Big Bear, Jax cheats death when an attempt to show off goes horribly wrong. Raquel questions whether James still harbors romantic feelings for Lala, Ariana gets upset when Sandoval doesn't invite her on a business trip to Las Vegas, and Rob reveals that he doesn't tell Scheana he loves her - providing Jax with fresh gossip to spread. Back in Los Angeles, Stassi interviews Lisa for her podcast, and Katie and Schwartz share date night.",
+      "runtime": 44,
+      "season_id": 18,
+      "episode": 12,
+      "air_date": "02/26/2018"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 364,
+    "fields": {
+      "title": "Vegas! Baby?",
+      "synopsis": "Lisa takes Sandoval and Schwartz on a business trip to Las Vegas to design their new bar, but when the guys focus more on partying than professionalism, Lisa questions the whole partnership. Meanwhile in Vegas, Brittany tells Katie and Ariana she needs to take a pregnancy test, and everyone is shocked by Jax's reaction to the results. Back in L.A., Lala reaches out to former frenemy, Stassi, to help plan her debut musical event, and Stassi urges Lala to confront the wildcard that could sabotage her performance, James Kennedy.",
+      "runtime": 44,
+      "season_id": 18,
+      "episode": 13,
+      "air_date": "03/04/2018"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 365,
+    "fields": {
+      "title": "Watch Your Back",
+      "synopsis": "Brittany spoils Jax on his 38th birthday, but he shows his lack of maturity when confronted with a reminder of his infidelity. Seeking revenge on Jax for telling people Rob doesn't love her, Scheana sets Brittany up with SUR's hottest new model and bartender. Ariana's brother asks out new SUR hostess Billie Lee, but when Stassi questions Jeremy's character, Ariana responds with fierce sisterly protection. James has an emotional reunion with his Dad, and Sandoval and Schwartz must redeem themselves with Lisa after a disastrous Vegas business trip.",
+      "runtime": 44,
+      "season_id": 18,
+      "episode": 14,
+      "air_date": "03/12/2018"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 366,
+    "fields": {
+      "title": "Nothing Here for Me",
+      "synopsis": "Brittany tries to get her relationship back on track by taking the group to Mexico for Jax's birthday, but Jax blindsides Brittany with the news he's considering moving to Florida for a job. James delights in being invited on Jax's trip, Sandoval and Schwartz finally impress Lisa by creating innovative cocktails for TomTom, and Stassi and Lala take Jax to task for always putting his needs above Brittany's.",
+      "runtime": 44,
+      "season_id": 18,
+      "episode": 15,
+      "air_date": "03/19/2018"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 367,
+    "fields": {
+      "title": "SUR Going South",
+      "synopsis": "The Mexico adventure continues as the group explores a natural water park, Playa del Carmen nightlife, and a little local spot called 'SUR.' James tries to remain in Jax's favor by exposing Scheana's role in hooking up Brittany with the hot new barback, Stassi and Kristen clash over Kristen's vacation meltdowns, and Lisa predicts that a volatile romantic triangle at SUR will end explosively.",
+      "runtime": 44,
+      "season_id": 18,
+      "episode": 16,
+      "air_date": "03/26/2018"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 368,
+    "fields": {
+      "title": "The Smoking Gun",
+      "synopsis": "The Playa del Carmen party continues as James takes over the DJ booth at a Mexican club, and Jax confronts Scheana for setting up Brittany with another man. Meanwhile, Lisa adopts a new dog, Schwartz horrifies Katie with a drunken blackout, Stassi realizes her relationship is in trouble, and the rumor mill works overtime when exes Kristen and James share a night on the beach.",
+      "runtime": 44,
+      "season_id": 18,
+      "episode": 17,
+      "air_date": "04/02/2018"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 369,
+    "fields": {
+      "title": "Karma's a Bitch",
+      "synopsis": "After returning to LA, Kristen must tell her boyfriend about the night she spent with James. Sandoval convinces Lisa to throw a 'progress party' to show off the TomTom space, and Jax confronts Brittany's admirer. Tensions finally come to a head at SUR, where Jax has an epic meltdown in front of staff, customers, and Lisa herself.",
+      "runtime": 44,
+      "season_id": 18,
+      "episode": 18,
+      "air_date": "04/09/2018"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 370,
+    "fields": {
+      "title": "Reiki Breaky Heart",
+      "synopsis": "Ariana and Brittany seek relationship advice from Lisa, while Stassi throws a party to relaunch Katie's beauty blog. Kristen's boyfriend Carter questions Sandoval about her night in Mexico with James. Katie and Tom celebrate their first wedding anniversary, while Jax and Brittany's relationship takes a surprising turn.",
+      "runtime": 44,
+      "season_id": 18,
+      "episode": 19,
+      "air_date": "04/16/2018"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 371,
+    "fields": {
+      "title": "Lost Cause",
+      "synopsis": "After a painful breakup, Brittany bounces back with new swagger, a new outlook, and her sights set on a new man. Ariana blows up at Sandoval for choosing to support Jax over spending time with her, Lisa gives Stassi relationship advice, and Kristen tries to convince Carter of her loyalty. Finally, Lala takes the stage with James for the biggest musical performance of her career.",
+      "runtime": 44,
+      "season_id": 18,
+      "episode": 20,
+      "air_date": "04/23/2018"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 372,
+    "fields": {
+      "title": "Welcome to Tom Tom",
+      "synopsis": "In the Season Six finale, Sandoval and Schwartz give their friends a sneak peek at Tom Tom, but a cloud hangs over the party as Lisa must decide Jax's future at SUR. Scheana makes a last-ditch effort to connect with Rob, James receives huge news about his DJ career, and Stassi introduces Lisa to her boyfriend with catastrophically awkward results. Finally, Brittany unleashes three months of pent up anger and frustration at Jax.",
+      "runtime": 44,
+      "season_id": 18,
+      "episode": 21,
+      "air_date": "04/30/2018"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 373,
+    "fields": {
+      "title": "Reunion Part 1",
+      "synopsis": "The three-part reunion starts off with a bang as host Andy Cohen uncovers the real stories behind Jax cheating on Brittany, the rumor that James slept with his best friend Logan, and the status of Stassi's relationship with Patrick. Lisa Vanderpump sets Sandoval and Schwartz straight on their roles at TomTom, Jax shares the heartbreaking details of his father's passing, Ariana opens up about her body issues, and Scheana breaks down when Jax attacks her for sabotaging his relationship.",
+      "runtime": 44,
+      "season_id": 18,
+      "episode": 22,
+      "air_date": "05/07/2018"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 374,
+    "fields": {
+      "title": "Reunion Part 2",
+      "synopsis": "In Part Two of the Vanderpump Rules reunion, host Andy Cohen recaps Katie and Schwartz's rollercoaster first year of marriage, the group questions Jax's relationship with his reiki healer, and Lala reveals more about her mysterious boyfriend than ever before. SUR's newest hostess Billie Lee joins the group and opens up about life as a transgender woman, while Stassi and Ariana revisit their argument about Stassi's controversial podcast comments. Finally, Kristen defends her decision to fly out Brittany's mom for a surprise visit, and the girls band together to celebrate Lala's special brand of feminism.",
+      "runtime": 44,
+      "season_id": 18,
+      "episode": 23,
+      "air_date": "05/14/2018"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 375,
+    "fields": {
+      "title": "Reunion Part 3",
+      "synopsis": "As the three-part reunion concludes, Andy Cohen explores Jax's epic meltdown at SUR and his decision to break up with Brittany. Lala and James examine the intermittent flirting and fighting in their relationship, Kristen takes Sandoval to task for spreading the rumor that she hooked up with James, and Stassi recounts her embarrassing encounter with Patrick and Lisa Vanderpump at the TomTom progress party. Finally, Katie and Schwartz discuss the prospect of having children, Ariana reveals the latest on her struggles with body image issues, and Jax discusses his future with Brittany.",
+      "runtime": 44,
+      "season_id": 18,
+      "episode": 24,
+      "air_date": "05/21/2018"
+    }
   }
 ]
