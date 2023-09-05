@@ -3214,5 +3214,197 @@
       "episode": 9,
       "air_date": "03/04/2013"
     }
-  }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 269,
+    "fields": {
+      "title": "Toothless in Los Angeles",
+      "synopsis": "In the Season Two premiere, Lisa Vanderpump struggles to keep the unpredictable staff of SUR in line as they cater a Beverly Hills party for Kyle Richards. Jax works to win Stassi back, Kristen deals with a shocking revelation in her relationship with Tom, and Scheana's birthday ends in a fight that once again turns SUR against her.",
+      "runtime": 44,
+      "season_id": 14,
+      "episode": 1,
+      "air_date": "11/04/2013"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 270,
+    "fields": {
+      "title": "Branded",
+      "synopsis": "Jax gets a tattoo of Stassi's name to prove his love, but before the ink is even dry, a romantic dinner turns into a shouting match when Stassi reveals there's another guy in her life. Later, Stassi attacks Scheana for turning Lisa against her, and Tom attempts to put together the pieces of his broken relationship with Kristen but finds the instructions hard to follow.",
+      "runtime": 44,
+      "season_id": 14,
+      "episode": 2,
+      "air_date": "11/11/2013"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 271,
+    "fields": {
+      "title": "Only the Lonely",
+      "synopsis": "Stassi rekindles her romance with Jax when the SUR staff heads to her mom's house in Lake Arrowhead. Tom prepares for the biggest performance of his career, but a late-night battle with Kristen threatens to derail the weekend. When Scheana complains of yet another injury, Lisa smacks her down for playing the sympathy card.",
+      "runtime": 44,
+      "season_id": 14,
+      "episode": 3,
+      "air_date": "11/18/2013"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 272,
+    "fields": {
+      "title": "Rumors",
+      "synopsis": "When Stassi finds out about Jax's sexy photo shoot with a female model, she questions whether she can trust him enough to ever love him again. Just when Kristen's work life and love life appear to be back on track, Lisa brings in a sexy female bartender who may have a romantic past with Tom.",
+      "runtime": 44,
+      "season_id": 14,
+      "episode": 4,
+      "air_date": "11/25/2013"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 273,
+    "fields": {
+      "title": "Surlesque",
+      "synopsis": "Lisa enlists Stassi and Katie to perform a sexy dance at Guillermo's surprise burlesque birthday party. Jax is confronted with a health scare but receives scorn instead of sympathy from Stassi. Then, Kristen picks a fight to stop the gossiping about Tom and the new bartender.",
+      "runtime": 44,
+      "season_id": 14,
+      "episode": 5,
+      "air_date": "12/02/2013"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 274,
+    "fields": {
+      "title": "Lisa's Angels",
+      "synopsis": "Lisa and the SUR staff take part in the Gay Pride Parade. Things turn ugly when Stassi finds out that Jax is back to his womanizing ways. Kristen finds new evidence about Tom and Ariana's relationship and confronts them both.",
+      "runtime": 44,
+      "season_id": 14,
+      "episode": 6,
+      "air_date": "12/09/2013"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 275,
+    "fields": {
+      "title": "Addicted",
+      "synopsis": "Lisa tries to wish Peter a happy 30th birthday, but when Scheana gives Peter an inappropriate lap dance, Katie and Kristen pick a fight and run Scheana out of the party. Stassi accuses Jax of being a sex addict, only to learn that Jax may have slept with one of her best friends.",
+      "runtime": 44,
+      "season_id": 14,
+      "episode": 7,
+      "air_date": "12/16/2013"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 276,
+    "fields": {
+      "title": "Sherlock Stassi",
+      "synopsis": "After Katie reveals the rumor that Kristen slept with Jax, Stassi hatches an elaborate plan to trick them into confessing. Lisa hires a 'secret diner' to evaluate the service at SUR, but the staff is more focused on rumors than customers.",
+      "runtime": 44,
+      "season_id": 14,
+      "episode": 8,
+      "air_date": "12/23/2013"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 277,
+    "fields": {
+      "title": "Rich People Annoy Me",
+      "synopsis": "When The Real Housewives of Beverly Hills gather for a dinner party at SUR, Stassi and Jax witness firsthand that Lisa's high-class friends can be just as spiteful and vicious as their own. Kristen's obsession over rumors that Tom is hooking up with the pretty new bartender leads to a five-girl shouting match on the night of Lisa's dinner.",
+      "runtime": 44,
+      "season_id": 14,
+      "episode": 9,
+      "air_date": "12/30/2013"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 278,
+    "fields": {
+      "title": "Sur of the Border",
+      "synopsis": "Lisa's staff heads to Cabo for Stassi's 25th birthday, but a vulgar comment from Scheana turns the celebration into a catfight. When a drunken argument ends with a drink thrown in Katie's face, Stassi lashes out at her friends for taking the spotlight away from her birthday.",
+      "runtime": 44,
+      "season_id": 14,
+      "episode": 10,
+      "air_date": "01/06/2014"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 279,
+    "fields": {
+      "title": "The Ultimatum",
+      "synopsis": "Stassi's Cabo birthday continues to unravel as Jax crashes her booze cruise and brings uninvited guests. Kristen gives Lisa an ultimatum that doesn't sit well with her boss. After a final night of drinking, Kristen's shocking decision forever changes her friendships.",
+      "runtime": 44,
+      "season_id": 14,
+      "episode": 11,
+      "air_date": "01/13/2014"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 280,
+    "fields": {
+      "title": "Til Death Do Us Part",
+      "synopsis": "Lisa and Stassi throw Scheana the perfect surprise engagement. Tom lashes out at Jax for his part in the cheating rumors, but later shocks Stassi with his own news. Kristen's meltdown at SUR causes her friends to retreat and support her archrival, Ariana.",
+      "runtime": 44,
+      "season_id": 14,
+      "episode": 12,
+      "air_date": "01/20/2014"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 281,
+    "fields": {
+      "title": "Bitch Slap",
+      "synopsis": "When Stassi believes that Kristen committed the ultimate betrayal, she devises a plan to expose her in front of all of her friends. Lisa struggles to keep SUR's working dynamics under control when tensions between Jax, Tom, Stassi and Kristen reach all-time highs.",
+      "runtime": 44,
+      "season_id": 14,
+      "episode": 13,
+      "air_date": "01/27/2014"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 282,
+    "fields": {
+      "title": "I Lied",
+      "synopsis": "In the season finale, SUR's sexy annual photo shoot turns tearful as Stassi attacks Jax for his womanizing, and Lisa helps Tom deal with the growing evidence of Kristen's infidelity. Things come to an explosive head at Scheana's engagement party when Kristen and Tom finally face off with Stassi and Jax.",
+      "runtime": 44,
+      "season_id": 14,
+      "episode": 14,
+      "air_date": "02/03/2014"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 283,
+    "fields": {
+      "title": "Reunion Part 1",
+      "synopsis": "Andy Cohen brings Lisa Vanderpump and her sexy staff together at SUR for the first time since the shocking season finale. Stassi faces off against Kristen, Tom makes a surprise revelation about his relationship with Ariana, and Jax and Tom confront each other for the first time since their fight. Andy uncovers who's been dumped, who's sleeping with whom, and who might be leaving SUR for good.",
+      "runtime": 44,
+      "season_id": 14,
+      "episode": 15,
+      "air_date": "02/10/2014"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 284,
+    "fields": {
+      "title": "Reunion Part 2",
+      "synopsis": "In part two of the Vanderpump Rules Reunion, the SUR staff open up to Andy Cohen about why Kristen slept with Jax, why Jax has no remorse towards his old friend Tom, and whether Stassi can overcome the hurt and betrayal. Nothing has been the same since the explosive finale, and Lisa reveals how she's been keeping it together at SUR, where old friendships and couples have split, and as always new, even more controversial alliances and romances have taken their place.",
+      "runtime": 44,
+      "season_id": 14,
+      "episode": 16,
+      "air_date": "02/17/2014"
+    }
+  },
 ]
