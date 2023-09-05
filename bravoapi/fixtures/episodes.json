@@ -4498,5 +4498,293 @@
       "episode": 24,
       "air_date": "05/21/2018"
     }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 376,
+    "fields": {
+      "title": "A Decent Proposal",
+      "synopsis": "In the season seven premiere, Lisa Vanderpump finds herself behind schedule on TomTom, the new bar she's opening with Tom Sandoval and Tom Schwartz. James finds himself in hot water with the group after he insults Brittany with an offensive rap, Scheana settles into single life, and Stassi revels in the 'honeymoon phase' of her new romance. Finally, Jax makes a grand gesture to prove he's a new man when he proposes marriage to Brittany.",
+      "runtime": 44,
+      "season_id": 19,
+      "episode": 1,
+      "air_date": "12/03/2018"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 377,
+    "fields": {
+      "title": "Hope and Pride",
+      "synopsis": "Stassi plans an epic surprise party to celebrate Jax and Brittany's engagement, but Sandoval and Ariana question Jax's ability to commit to one woman for the rest of his life. James attempts to work his way back into the group's good graces, unaware that Kristen has hatched a plan that might ruin his romance and banish him for good. Stassi seeks Lisa's approval for her new beau Beau, and Lisa must decide whether Jax deserves another chance to work at SUR.",
+      "runtime": 44,
+      "season_id": 19,
+      "episode": 2,
+      "air_date": "12/10/2018"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 378,
+    "fields": {
+      "title": "Either Him or Me",
+      "synopsis": "James spirals out of control after being ambushed by Kristen at Pride, while his girlfriend Raquel struggles to accept new rumors about his alleged infidelity. Jax and Brittany decide to start a beer cheese company together, Tom Schwartz takes James to task for insulting Katie, and Scheana feels threatened by Stassi and Ariana's newfound friendship. When Katie is the victim of body-shaming comments, she gives Lisa Vanderpump an ultimatum that will send reverberations throughout the SUR community.",
+      "runtime": 44,
+      "season_id": 19,
+      "episode": 3,
+      "air_date": "12/16/2018"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 379,
+    "fields": {
+      "title": "Lisa's Dilemma",
+      "synopsis": "Katie's ultimatum forces Lisa Vanderpump to reconsider employing James at SUR, while Scheana tries to prove her loyalty to Katie, Kristen and Stassi by cutting ties with him. Tom Schwartz and Tom Sandoval differ in their methods of interviewing potential TomTom staff, Jax and Brittany host a dinner party to debut their beer cheese, and Lala resents having to return to the hostess stand after enjoying a glamorous life outside of SUR.",
+      "runtime": 44,
+      "season_id": 19,
+      "episode": 4,
+      "air_date": "12/23/2018"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 380,
+    "fields": {
+      "title": "Ice Queens",
+      "synopsis": "Stassi and Ariana put their rivalry aside to throw an epic winter-themed birthday party, but Stassi's new boyfriend Beau gets his first taste of Stassi's famously bad birthday behavior. Jax confronts Tom Sandoval for questioning his engagement to Brittany, while Scheana finds herself attracted to her 'best friend' Adam Spott. James Kennedy finds himself cut off from everyone at SUR, but Lisa vows not to give up on her former DJ.",
+      "runtime": 44,
+      "season_id": 19,
+      "episode": 5,
+      "air_date": "01/07/2019"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 381,
+    "fields": {
+      "title": "Love Thy Mother",
+      "synopsis": "Stassi struggles to make amends with Beau after her birthday meltdown, while a newly sober James attempts to rekindle his friendship with Lala. Kristen celebrates the relaunch of her t-shirt line, Jax causes trouble at a SUR staff meeting, and the Toms present their cocktails to Lisa in hopes of getting them on the TomTom menu. Finally, when Katie, Kristen, and Stassi's mothers all come to town, the girls learn growing older doesn't always mean growing up.",
+      "runtime": 44,
+      "season_id": 19,
+      "episode": 6,
+      "air_date": "01/14/2019"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 382,
+    "fields": {
+      "title": "Girls' Night In",
+      "synopsis": "Katie convinces Lisa to let her host a 'Girls' Night In' party on James's former night, but Billie Lee lashes out at Katie for not including her in the planning. Brittany throws an unexpected tantrum, causing her friends to speculate she's stressed over her engagement to Jax. Lala decides James is moving too fast in rebuilding their friendship, and Stassi creates her own personal holiday: National Outfit of the Day Day.",
+      "runtime": 44,
+      "season_id": 19,
+      "episode": 7,
+      "air_date": "01/21/2019"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 383,
+    "fields": {
+      "title": "A Housewarming Divided",
+      "synopsis": "The group journeys to Marina del Rey for Scheana's housewarming, where they learn Scheana and her 'best friend' Adam have made their relationship physical, and Lala calls out Billie Lee. Ariana erupts on Tom for gossiping to the guys about her past romantic encounters with women, and Lisa Vanderpump finally reveals the fully finished TomTom to a giddy Sandoval and Schwartz.",
+      "runtime": 44,
+      "season_id": 19,
+      "episode": 8,
+      "air_date": "01/28/2019"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 384,
+    "fields": {
+      "title": "Tom and Tommer",
+      "synopsis": "Lisa Vanderpump entrusts Sandoval and Schwartz with major responsibility as they scramble to get TomTom ready for its opening event, but Kristen is devastated when she learns she's not allowed to come. James erupts when Raquel considers attending 'Girls' Night In', Lala advises Scheana not to overshare with Stassi, Katie and Kristen, and Jax celebrates his first birthday without the support of his parents.",
+      "runtime": 44,
+      "season_id": 19,
+      "episode": 9,
+      "air_date": "02/04/2019"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 385,
+    "fields": {
+      "title": "So Vain in Solvang",
+      "synopsis": "Lala shows her girlfriends a glimpse of the good life when she takes them to Solvang on a private jet, but Kristen's mounting travel anxiety threatens to derail the trip. Jax looks forward to an epic boys' night with Sandoval and Schwartz, but first Brittany brings Jax to therapy to deal with his past infidelities. When James has an explosive fight with his mother over money, his mother reaches out to Lisa to employ a different Kennedy brother.",
+      "runtime": 44,
+      "season_id": 19,
+      "episode": 10,
+      "air_date": "02/11/2019"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 386,
+    "fields": {
+      "title": "Return of Crazy Kristen",
+      "synopsis": "Kristen's bizarre vacation behavior threatens to spoil the girls' trip to wine country, while Scheana breaks down over the fact that she's no longer close with Stassi and Katie. Back in LA, James is overjoyed when he gets a last-minute invite to the guys' wild 'staycation', and Jax fears he may revert to his bad boy ways when Tom Sandoval invites girls back to their hotel room.",
+      "runtime": 44,
+      "season_id": 19,
+      "episode": 11,
+      "air_date": "02/18/2019"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 387,
+    "fields": {
+      "title": "PJs on the PJ",
+      "synopsis": "Stassi gives Kristen tough love about her relationship with Carter, while Sandoval and Schwartz worry that Lisa may not put their cocktails on the TomTom menu. When Lisa gives James permission to DJ an event at PUMP, he makes a play to regain his full-time job at SUR. Finally, upon returning home from the girls' trip, Lala faces a betrayal from her boyfriend that may end their three-year relationship",
+      "runtime": 44,
+      "season_id": 19,
+      "episode": 12,
+      "air_date": "02/25/2019"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 388,
+    "fields": {
+      "title": "Reptilian Brain",
+      "synopsis": "Stassi desperately wants to make a good impression when she first meets Beau's mom, but her hopes are dashed when Kristen and Carter cause a huge fight with Stassi and Katie in front of everyone. Sandoval and Ariana finally have an honest discussion about having kids, Jax dotes on Brittany after her dental surgery, and Lala dishes some dirt about the tawdry beginnings of her relationship with Randall.",
+      "runtime": 44,
+      "season_id": 19,
+      "episode": 13,
+      "air_date": "03/04/2019"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 389,
+    "fields": {
+      "title": "Tom Vs. Tom",
+      "synopsis": "The Toms plan a Puerto Vallarta vacation for their friends, but Katie explodes on Sandoval when she learns they've also invited James Kennedy. Kristen and Carter share an awkward dinner on their three-year anniversary, Lisa Vanderpump doles out some wisdom that might salvage a friendship and business partnership, and Tom and Tom are forced to confront James with some very bad news.",
+      "runtime": 44,
+      "season_id": 19,
+      "episode": 14,
+      "air_date": "03/11/2019"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 390,
+    "fields": {
+      "title": "Trouble in Lala-Land",
+      "synopsis": "Still grieving over her father, Lala breaks down and lashes out at James, Raquel, and Billie Lee in front of customers at SUR. Lisa, Sandoval and Schwartz throw all their effort into preparing TomTom for the grand opening, while Jax complains about the mounting expense of his upcoming engagement party. James struggles to hold it together after being disinvited from Mexico, while Scheana hosts an enchilada night to reconnect with Stassi, Katie and Kristen.",
+      "runtime": 44,
+      "season_id": 19,
+      "episode": 15,
+      "air_date": "03/18/2019"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 391,
+    "fields": {
+      "title": "I Don't Like the Sound of Your Voice",
+      "synopsis": "On the day of TomTom's official opening party, Sandoval surprises Schwartz with his grandest gesture yet, while Lisa confronts Lala about her behavior at Billie Lee's brunch. Katie sees the group's vacation to Mexico as a chance to reconnect with her busy husband, but ends up exploding when Schwartz takes a seat in first class without her. Still smarting from his exclusion from the trip, James makes a shocking revelation about his sobriety.",
+      "runtime": 44,
+      "season_id": 19,
+      "episode": 16,
+      "air_date": "03/25/2019"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 392,
+    "fields": {
+      "title": "FOMO in Mexico",
+      "synopsis": "As the Mexico trip continues, Stassi unleashes her insecurities on Beau, while Ariana attempts to show Lala the error of her mean girl ways. Lisa oversees TomTom's first dinner service back in West Hollywood, while Schwartz and Sandoval celebrate their bar's big success from afar. A blissful Kristen finally conquers her travel anxiety, but her temper is tested when Jax dredges up old accusations against her.",
+      "runtime": 44,
+      "season_id": 19,
+      "episode": 17,
+      "air_date": "04/01/2019"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 393,
+    "fields": {
+      "title": "End of an Era",
+      "synopsis": "On their final night in Mexico, Lala's decision to return to drinking leads to a public panic attack, while Schwartz finds a unique way to rekindle the romance with Katie. Stassi and Beau try to repair their relationship after their epic fight, while Kristen and Ariana take a step forward in their newfound friendship. Back in LA, Lisa contemplates firing a long time staff member, Raquel decides to throw a 'puppy shower' to win some friends, and Billie Lee gets yelled at by Lisa for disrespecting her at work.",
+      "runtime": 44,
+      "season_id": 19,
+      "episode": 18,
+      "air_date": "04/08/2019"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 394,
+    "fields": {
+      "title": "The Exorcism of Stassi Schroeder",
+      "synopsis": "Tom Schwartz finds a spectacular way to make good on his financial obligation to Lisa, while Stassi visits a real-life witch to exorcise the demons threatening her relationship with Beau. Lala stages a musical performance in honor of her father and comes to a realization about alcohol, James throws a fit when he learns he won't be DJing Billie Lee's brunch, and Jax reveals some troubling issues during his and Brittany's couple's therapy.",
+      "runtime": 44,
+      "season_id": 19,
+      "episode": 19,
+      "air_date": "04/15/2019"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 395,
+    "fields": {
+      "title": "Brittany and the Beast",
+      "synopsis": "Scheana goes out with a hot young model in an attempt to make Adam jealous, while James accuses Lala of being insincere in her attempt to save their friendship. Ariana vows to confront Lisa Vanderpump when she hears she has been criticizing Tom Sandoval's work ethic. When Brittany's big Kentucky family descends on West Hollywood in preparation for the engagement party, Jax puts his foot in his mouth during a tense conversation with her father.",
+      "runtime": 44,
+      "season_id": 19,
+      "episode": 20,
+      "air_date": "04/22/2019"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 396,
+    "fields": {
+      "title": "Rules of Engagement",
+      "synopsis": "In the season seven finale, Jax and Brittany celebrate their engagement at an elaborate fairy-tale themed party, even as Brittany's father expresses doubts about his future son-in-law. Ariana confronts Lisa Vanderpump about not respecting Tom and Tom as business partners, while Brittany must inform Lala that she's excluded from her wedding party. Finally, the simmering tensions between Scheana and Adam boil over after Scheana reveals she's been with another guy.",
+      "runtime": 44,
+      "season_id": 19,
+      "episode": 21,
+      "air_date": "04/29/2019"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 397,
+    "fields": {
+      "title": "Reunion Part 1",
+      "synopsis": "In the shocking first hour of the Vanderpump Rules reunion, host Andy Cohen sits down with the gang from SUR to discuss Brittany's surprising engagement, the rap that ended James' friendship with Jax, and the trials and tribulations of Tom and Tom's first year in business with Lisa Vanderpump. James's girlfriend Raquel Leviss answers questions about her boyfriend's alleged infidelity, while Jax and James go head to head over vicious Twitter allegations, and Scheana confronts Lala about hiding her true life and relationship.",
+      "runtime": 44,
+      "season_id": 19,
+      "episode": 22,
+      "air_date": "05/06/2019"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 398,
+    "fields": {
+      "title": "Reunion Part 2",
+      "synopsis": "The reunion continues as Lala and James argue over the demise of their friendship, Katie defends her ultimatum to Lisa Vanderpump, and Ariana and Lala reveal the steamy details of their backseat hook-up. Special guest Billie Lee dishes on the 'Girls Night In' fiasco, her feud with Lala, and her secret hook-up with another cast member. Stassi explains the origins of her now-famous #OOTD Day, and Sandoval takes Andy Cohen for a wild ride in the TomTom motorcycle sidecar.",
+      "runtime": 44,
+      "season_id": 19,
+      "episode": 23,
+      "air_date": "05/13/2019"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 399,
+    "fields": {
+      "title": "Reunion Part 3",
+      "synopsis": "The Vanderpump Rules reunion comes to a dramatic close as Stassi and Katie argue with Kristen over her tumultuous relationship with Carter, Jax answers for his bad behavior toward Brittany's family, and Scheana reveals the surprising results of her penguin gift to “best friend” Adam. Stassi’s boyfriend Beau Clark makes an appearance and opens up about their dramatic fights in Mexico and the future of their relationship. Tom Schwartz defends his manhood, while Jax discusses whether his own mother will be invited to his wedding, and Lisa warns James that his outbursts and aggression may cause him to lose what little support he has left.",
+      "runtime": 44,
+      "season_id": 19,
+      "episode": 24,
+      "air_date": "05/20/2019"
+    }
   }
 ]
