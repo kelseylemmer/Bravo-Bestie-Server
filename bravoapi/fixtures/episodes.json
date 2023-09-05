@@ -3646,5 +3646,281 @@
       "episode": 20,
       "air_date": "03/16/2015"
     }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 305,
+    "fields": {
+      "title": "Playtime's Over",
+      "synopsis": "In the Season Four premiere, Lisa Vanderpump vows to take SUR restaurant to new heights. Scheana throws a costume party for her 30th birthday, but when Kristen shows up Ariana and Sandoval accuse Scheana of being a fake friend. James's reckless behavior threatens his DJ career, Schwartz realizes he's ready to commit to Katie, and a visit from Jax's mother offers rare insight into his life before SUR.",
+      "runtime": 44,
+      "season_id": 16,
+      "episode": 1,
+      "air_date": "11/02/2015"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 306,
+    "fields": {
+      "title": "New Blood",
+      "synopsis": "When Lisa Vanderpump brings new blood to the shark-infested waters of SUR, Katie and Scheana quickly teach new girl Lala that there's no such thing as a secret at Lisa's restaurant. Rumors spread that James was unfaithful to Kristen, and Kristen must make a tough choice about who to believe. Jax imports a new girlfriend from Kentucky and Scheana continues to feel the heat from Ariana over her friendship with Kristen.",
+      "runtime": 44,
+      "season_id": 16,
+      "episode": 2,
+      "air_date": "11/09/2015"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 307,
+    "fields": {
+      "title": "Pretty Little Lies",
+      "synopsis": "When Scheana and Katie bust Lala for lying about a modeling job in Italy, Lisa Vanderpump turns the table on them for picking on the new girl. Scheana worries her marriage may be in danger when it's revealed that her husband has been keeping secrets. Tom and Ariana try 'adulting,' Jax and James compete for Lala's affection and Tom Schwartz makes a big step towards committing to Katie.",
+      "runtime": 44,
+      "season_id": 16,
+      "episode": 3,
+      "air_date": "11/16/2015"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 308,
+    "fields": {
+      "title": "Happily Never After",
+      "synopsis": "Lisa Vanderpump and the SUR crew force Scheana to reassess her marriage now that Shay's secret life is out in the open. Jax campaigns to get his new flame a job at SUR, even while things heat up between him and Lala. Sandoval and Schwartz pitch Lisa a business plan. Kristen and James seek couple's therapy.",
+      "runtime": 44,
+      "season_id": 16,
+      "episode": 4,
+      "air_date": "11/23/2015"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 309,
+    "fields": {
+      "title": "Cock of the Walk",
+      "synopsis": "Convinced that Kristen is cheating on him, James seeks revenge by hooking up with Lala. Lisa schools her staff on fine wine, Katie and Ariana urge Scheana not to sweep marital problems under the rug, Peter chops his ponytail, and a jealous Jax recruits Kristen in his scheme to pull Lala away from James.",
+      "runtime": 44,
+      "season_id": 16,
+      "episode": 5,
+      "air_date": "11/30/2015"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 310,
+    "fields": {
+      "title": "Love Bites",
+      "synopsis": "Lisa tries to outdo herself by throwing not one but two huge parties for Gay Pride. When James shows up flaunting fresh love bites, everyone wants to know which SUR girl was responsible. Sandoval and Schwartz kickstart Shay's makeover, Scheana doubles down on her marriage, and Jax seizes an opportunity to move in on Lala.",
+      "runtime": 44,
+      "season_id": 16,
+      "episode": 6,
+      "air_date": "12/07/2015"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 311,
+    "fields": {
+      "title": "Spit Take",
+      "synopsis": "Lisa treats a group of underprivileged kids to the full SUR experience, including a serving of bad behavior from her staff. Jax stands up for Kristen when her break up with James turns ugly. Ariana's mood sours when Sandoval contemplates going to Vegas without her, Schwartz and Sandoval fail to impress with their business plan, and Jax asks Brittany to move in with him.",
+      "runtime": 44,
+      "season_id": 16,
+      "episode": 7,
+      "air_date": "12/14/2015"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 312,
+    "fields": {
+      "title": "Dirty Thirty",
+      "synopsis": "Ariana reveals the emotional reasons why she wants Tom Sandoval to stick around after her birthday, to little effect. Lisa advises the girls to get back at their boyfriends for going to Vegas, so Lala, Katie and Ariana literally kiss and make up at Scheana's sleepover. Jax, Schwartz and Sandoval strive to be loyal to their girlfriends, but struggle to keep their pants on in Sin City.",
+      "runtime": 44,
+      "season_id": 16,
+      "episode": 8,
+      "air_date": "12/21/2015"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 313,
+    "fields": {
+      "title": "What Happened in Vegas",
+      "synopsis": "Sandoval and Schwartz learn that not all that happens in Vegas stays in Vegas when they surprise their girlfriends with shocking news from their trip. Kristen returns to SUR and apologizes to Ariana, but Ariana is not ready to forgive and forget. Lisa helps Katie examine Schwartz's commitment issues, Sandoval and Ariana take the stage at the Improv, James tries to sabotage Jax's love life, and a visit from Sandoval's mom sheds light on his pre-SUR life.",
+      "runtime": 44,
+      "season_id": 16,
+      "episode": 9,
+      "air_date": "12/28/2015"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 314,
+    "fields": {
+      "title": "No Strings Attached",
+      "synopsis": "Tom Schwartz finally mans up and plans to get down on one knee for Katie, but Lisa Vanderpump worries that his complicated proposal scheme will end in disaster. Brittany moving in with Jax doesn't stop him from moving in on Lala. Ariana's attitude drives Scheana and Katie closer to Kristen, Sandoval tries to correct a huge mistake, and Kristen and James get left out in the cold when the SUR crew plans a tropical vacation.",
+      "runtime": 44,
+      "season_id": 16,
+      "episode": 10,
+      "air_date": "01/04/2016"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 315,
+    "fields": {
+      "title": "Fully Engaged",
+      "synopsis": "Stassi has been sniffing around SUR, but Lisa Vanderpump wants her to keep her distance. Scheana and Ariana discover that their friendship may be more damaged than they ever knew. With the SUR crew headed to Hawaii for Jax and Tom's birthdays, James plots to get invited on the trip. Kristen attempts to make peace with Sandoval, newly engaged Katie takes her engagement ring on a victory lap at SUR, and Faith and Lala skinny dip in the most unlikely of places.",
+      "runtime": 44,
+      "season_id": 16,
+      "episode": 11,
+      "air_date": "01/11/2016"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 316,
+    "fields": {
+      "title": "Leis, Liquor and Lies",
+      "synopsis": "The SUR gang travels to Hawaii to celebrate Jax and Tom's birthdays, bringing their conflicts with them. Lala tries to come clean about her flirtation with Jax, but Jax refuses to accept any blame. Tom discovers Scheana sent negative texts about him to Ariana's mom. Katie lashes out when Lala skinny dips in front of Schwartz, and Lisa Vanderpump frets over Max from 3,000 miles away.",
+      "runtime": 44,
+      "season_id": 16,
+      "episode": 12,
+      "air_date": "01/18/2016"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 317,
+    "fields": {
+      "title": "The Bitch Is Back",
+      "synopsis": "While the SUR crew parties in Hawaii, Stassi visits Kristen in LA and finally reveals the truth about her sex tape. Ariana rejects Scheana's fake apologies, and Tom strikes back with an attack on Scheana's marriage. Lala kicks James out of bed for an equipment malfunction, Scheana worries about Shay's drinking, and just hours before leaving paradise, Jax winds up in jail.",
+      "runtime": 44,
+      "season_id": 16,
+      "episode": 13,
+      "air_date": "01/25/2016"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 318,
+    "fields": {
+      "title": "Sex, Lies and Stassi's Videotape",
+      "synopsis": "Accused of felony shoplifting, Jax must answer to the courts, his girlfriend, and - worst of all - Lisa Vanderpump. Stassi finally tells the whole story of her sex tape crisis, and returns to SUR to repay Lisa for helping her keep the tape from leaking. James and Lala can't keep their hands off each other at a racy photoshoot, Scheana and Shay toast the end of a rocky first year of marriage, and Kristen deals with a 'Stage 5 Clinger' boyfriend.",
+      "runtime": 44,
+      "season_id": 16,
+      "episode": 14,
+      "air_date": "02/01/2016"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 319,
+    "fields": {
+      "title": "Pucker & Pout",
+      "synopsis": "After months of hard work, Katie launches her website with a high-profile party, but a surprise appearance from James and an unexpected text message from Stassi threaten to ruin the event. Jax adjusts to his new life as an unemployed outlaw while Brittany adjusts to her new life as sole breadwinner. Lisa Vanderpump puts James in his place, Lala reacts to an ugly rumor, and Tom Schwartz takes Stassi to task.",
+      "runtime": 44,
+      "season_id": 16,
+      "episode": 15,
+      "air_date": "02/08/2016"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 320,
+    "fields": {
+      "title": "Bitch Ghost",
+      "synopsis": "When Stassi runs into her old SUR crew at Lala's house party, Scheana must finally answer for her part in Stassi's sex tape scandal. A humiliated Jax brags about his girlfriend's breast enhancement and tries to assert his social dominance, but his friends are not impressed. Tom Sandoval works on a new single, Kristen continues her serial dating, and Tom Schwartz lands in hot water with Katie when he quits his job for Lisa Vanderpump.",
+      "runtime": 44,
+      "season_id": 16,
+      "episode": 16,
+      "air_date": "02/15/2016"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 321,
+    "fields": {
+      "title": "Beach, Please",
+      "synopsis": "After Tom Sandoval forces Jax to answer for his recent bad behavior, Jax cheers himself up by buying Brittany a boob job. Lisa is faced with a big decision when James makes a scene at PUMP. Sandoval lasers the tattoo off his butt, Katie's beach party gets even hotter when Kristen and Ariana have it out, and Ariana makes a stunning statement that leaves both Scheana and Katie speechless.",
+      "runtime": 44,
+      "season_id": 16,
+      "episode": 17,
+      "air_date": "02/22/2016"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 322,
+    "fields": {
+      "title": "Too Little, Too Late",
+      "synopsis": "Against Lisa's better advice, Katie surprises Stassi in Palm Springs. James convinces himself that Kristen is still the answer to all his problems, even after getting him fired. Scheana worries that she's losing her friends, Tequila Katie rears her ugly head, and Jax, Tom Schwartz and Peter try their hand at babysitting.",
+      "runtime": 44,
+      "season_id": 16,
+      "episode": 18,
+      "air_date": "02/29/2016"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 323,
+    "fields": {
+      "title": "Just the T.I.P.",
+      "synopsis": "Katie begs Lisa Vanderpump to have her engagement party at Villa Rosa, but Lisa balks at having Stassi and Kristen on the guest list. Faced with a looming criminal court date, Jax questions everything in his life, including moving in with girlfriend Brittany. Katie enlists Scheana to help plan her engagement party, Sandoval hopes to launch his music career by shooting a video, and James and Kristen pour gasoline on their old flame.",
+      "runtime": 44,
+      "season_id": 16,
+      "episode": 19,
+      "air_date": "03/07/2016"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 324,
+    "fields": {
+      "title": "Push Comes to Shove",
+      "synopsis": "In the season four finale, Lisa Vanderpump hosts the biggest party of the year: Katie and Tom Schwartz's engagement. Guests of dishonor Kristen and Stassi stir up trouble, and trash-talking Lala creates a scene. Jax must atone for his crimes first in a criminal court, then in a much-anticipated reunion with Stassi. Tom Sandoval debuts his new song in a live performance at SUR, Scheana confronts Ariana, and Lala gets close to both Kristen and James.",
+      "runtime": 44,
+      "season_id": 16,
+      "episode": 20,
+      "air_date": "03/14/2016"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 325,
+    "fields": {
+      "title": "Reunion Part 1",
+      "synopsis": "The reunion part one kicks off with Kristen in the hot seat as she faces the heat from James and Ariana. Mike Shay makes his first reunion appearance as he opens up about his struggle with addiction, which results in a surprising resolution with an unlikely source. Also, Lala discusses the difficulties of being the new girl at SUR, plus Jax, Schwartz and Sandoval delve into their wild trip to Vegas.",
+      "runtime": 44,
+      "season_id": 16,
+      "episode": 21,
+      "air_date": "03/21/2016"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 326,
+    "fields": {
+      "title": "Reunion Part 2",
+      "synopsis": "James discusses those notorious bite marks from Gay Pride. Katie and Tom Schwartz talk about their long-awaited proposal, but not without getting grilled about their sex life. Brittany joins the reunion for the first time to reveal what it was really like moving across the country to be with Jax, and how her life and chest has changed. Plus, Scheana and Ariana explore their rocky friendship and Stassi returns to right her wrongs.",
+      "runtime": 44,
+      "season_id": 16,
+      "episode": 22,
+      "air_date": "03/28/2016"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 327,
+    "fields": {
+      "title": "Reunion Part 3",
+      "synopsis": "Stassi clashes with Lisa Vanderpump of the handling of Stassi's sex tape. Ariana furthers her crusade against Kristen's comedy career, while Katie explains the vengeance filled return of 'Tequila Katie,' and Kristen and James rehash their one-night of reconciliation. Later, tensions escalate to a new high when James and Jax's explosive argument comes to near blows.",
+      "runtime": 44,
+      "season_id": 16,
+      "episode": 23,
+      "air_date": "04/04/2016"
+    }
   }
 ]
