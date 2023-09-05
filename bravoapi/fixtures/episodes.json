@@ -2319,5 +2319,269 @@
       "season_id": 10,
       "air_date": "09/16/2020"
     }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 212,
+    "fields": {
+      "title": "Dressed to the 90210s",
+      "synopsis": "After months in isolation, the friends glam it up for a Beverly Hills “barbecue” at Dorit's house. Kyle's sister, Kathy Hilton, introduces the group to Crystal Kung Minkoff, wife of Hollywood director Rob Minkoff. Sutton moves into a very familiar rental house while her new home undergoes renovations. When the women are finally able to catch up inperson, Erika sheds light on a very dark summer. Meanwhile, Lisa's abrupt apology leaves Garcelle questioning their friendship.",
+      "runtime": 42,
+      "season_id": 11,
+      "air_date": "05/19/2021"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 213,
+    "fields": {
+      "title": "Two Truths and a Lie",
+      "synopsis": "Lisa Rinna takes the girls on fun getaway to Lake Tahoe. The excitement only lasts so long, however, as it becomes clear that Sutton and Crystal do not see eye to eye. Looking to move forward, Kyle and Garcelle attempt to heal the emotional wounds they inflicted on each other in the past. When Dorit suggests a revealing game of Two Truths and a Lie, Erika's unexpected answers leave her clouded in mystery.",
+      "runtime": 42,
+      "season_id": 11,
+      "air_date": "05/26/2021"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 214,
+    "fields": {
+      "title": "Sutton's Gotta Give",
+      "synopsis": "As the Tahoe getaway continues, Sutton and Crystal's colorful disagreement comes to a head — only to go off the rails again when Sutton feels alienated from the group. Garcelle's bold opinion of a Hilton family member shocks Kyle and Kathy. Dorit gets down and dirty during a rare night out on the town, while Lisa and Erika prank a prankster.",
+      "runtime": 42,
+      "season_id": 11,
+      "air_date": "06/02/2021"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 215,
+    "fields": {
+      "title": "Overexposed",
+      "synopsis": "While in Lake Tahoe, Crystal bares it all — but Sutton is not having it. Meanwhile, a latenight admission from one of the women strikes Kyle as odd; Dorit makes certain denials that no one takes at face value; and Lisa's persistence brings Garcelle to her breaking point. Erika stuns her friends with news about her husband, leaving them confused and completely in the dark.",
+      "runtime": 42,
+      "season_id": 11,
+      "air_date": "06/09/2021"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 216,
+    "fields": {
+      "title": "The Divided States of Erika",
+      "synopsis": "TElection night takes a turn when Kyle and Dorit's past issues resurface. Erika's shocking announcement is the topic of conversation at Sutton's Paris-themed luncheon, as the women seek answers trying to make sense of it all. Meanwhile, Crystal opens up about a difficult period in her life, and Lisa gets a thrill playing with her hubby's firehose.",
+      "runtime": 42,
+      "season_id": 11,
+      "air_date": "06/16/2021"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 217,
+    "fields": {
+      "title": "The Liberation of Erika Jayne",
+      "synopsis": "Erika reunites with the ladies for the first time since filing for divorce and explains how she came to such a tough decision. Crystal invites everyone over to make Chinese dumplings, but she and Sutton must first confront their lingering issues from Lake Tahoe. Kyle and Dorit reach a truce, while Garcelle meets with a dating coach to dream up Mr. Right.",
+      "runtime": 42,
+      "season_id": 11,
+      "air_date": "06/23/2021"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 218,
+    "fields": {
+      "title": "Defining Women",
+      "synopsis": "With rumors swirling about her divorce, Erika reveals new details about why she left her husband. A group outing on the town goes up in flames when Kathy unintentionally reignites a dying spark. Meanwhile, Lisa Rinna confronts tabloid rumors of her own, Dorit adds a special piece of art to her collection, and Garcelle's son has strong thoughts about her love life.",
+      "runtime": 42,
+      "season_id": 11,
+      "air_date": "06/30/2021"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 219,
+    "fields": {
+      "title": "The Good, the Bad and the Ugly Leather Pants",
+      "synopsis": "Harry Hamlin's homemade Bolognese sauce spices up Lisa's gathering, but Crystal's non-apology pushes Sutton to her boiling point. Meanwhile, Garcelle's birthday surprise has her wishing big and Kathy has unexpected news for Kyle about their sister, Kim. As Erika settles into her new home, Dorit says 'I do' to her latest design venture.",
+      "runtime": 42,
+      "season_id": 11,
+      "air_date": "07/07/2021"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 220,
+    "fields": {
+      "title": "A Pretty Meltdown",
+      "synopsis": "Sutton and Crystal continue stirring the sauce at Lisa's Bolognese lunch, as they lay all their lingering issues out on the table. Amid bombshell news tied to her divorce, Erika unexpectedly melts down to Kyle and Garcelle begins to question the truth. Meanwhile, the group is forced into quarantine and Lisa uses the time at home to dig up hidden treasures for her daughters to finally enjoy.",
+      "runtime": 42,
+      "season_id": 11,
+      "air_date": "07/14/2021"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 221,
+    "fields": {
+      "title": "Affairs and Accidents",
+      "synopsis": "Kyle opens her home in La Quinta to the group for a desert getaway, but Erika cannot escape the fallout from her messy divorce. When Lisa questions certain new reports in the media, Dorit offers insights from her own experience. Sutton and Crystal connect with Erika through stories of family loss. Meanwhile, Kathy heats things up in the kitchen - and, with a little help from her friends, cools down in front of a fan.",
+      "runtime": 42,
+      "season_id": 11,
+      "air_date": "07/21/2021"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 222,
+    "fields": {
+      "title": "Ice Queen of the Desert",
+      "synopsis": "Kyle puts on her detective hat to help solve a mystery involving one of the women in La Quinta, while Sutton reveals her secrets for navigating a difficult divorce. Meanwhile, Dorit and Lisa worry about how their friend will fare in her own split. Crystal, Garcelle and Erika find solace on a desert hike, but the peace is shattered when Garcelle reveals details of their private conversation to the entire group.",
+      "runtime": 42,
+      "season_id": 11,
+      "air_date": "08/04/2021"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 223,
+    "fields": {
+      "title": "Circle of Distrust",
+      "synopsis": "Garcelle is in the hot seat when a distraught Erika leaves the trip early, but she refuses to roast alone. On their last day in the desert, the women wake up to a stunning exposé that leaves Kyle, Lisa and Dorit with questions. Meanwhile, Sutton calls an emergency meeting among the group - but not everyone makes the guest list.",
+      "runtime": 42,
+      "season_id": 11,
+      "air_date": "08/11/2021"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 224,
+    "fields": {
+      "title": "Season's Grillings",
+      "synopsis": "Shockwaves from an unexpected news article continue to spread as the ladies try to piece together the truth. Meanwhile, Garcelle serves up a very Haitian holiday meal for her family. When Kyle gathers the ladies for Christmas dinner, holiday cheer turns to jeer as the women press for answers, and Erika realizes that not everyone has her best interests at heart.",
+      "runtime": 42,
+      "season_id": 11,
+      "air_date": "08/18/2021"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 225,
+    "fields": {
+      "title": "Lips Unsealed",
+      "synopsis": "Erika and Lisa help Kyle celebrate her birthday, but the festivities are short-lived when Erika shares more information about her marriage. When Crystal hosts a launch party for Lisa's lip line, tensions between the ladies come to a head, leaving the glossy gathering in need of a touch up. Meanwhile, Kyle and Kathy have a heart-to-heart about their past issues.",
+      "runtime": 42,
+      "season_id": 11,
+      "air_date": "08/25/2021"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 226,
+    "fields": {
+      "title": "The Dinner Party from Hell: Part Two",
+      "synopsis": "Kyle assesses the progress at Sutton's new home, while Dorit hopes her new business venture is the right fit for her family. Crystal invites Erika, Garcelle and Kathy over for a dinner where duck is served, but beef is on the menu. Kathy puts her staff to work arranging an evening to remember, but when Erika and Sutton face off, it quickly becomes a night the ladies would rather forget.",
+      "runtime": 42,
+      "season_id": 11,
+      "air_date": "09/01/2021"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 227,
+    "fields": {
+      "title": "Threats and Promises",
+      "synopsis": "Kathy's dinner party ends abruptly, following a flurry of accusations hurled amongst the women. In the fall out, Garcelle accuses Lisa of never having her back, and Sutton unloads on Kyle for pushing her too far. While Crystal is sympathetic to Erika's reaction, someone close to Dorit takes a more critical approach toward her friend.",
+      "runtime": 42,
+      "season_id": 11,
+      "air_date": "09/08/2021"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 228,
+    "fields": {
+      "title": "A Tale of Two Accidents",
+      "synopsis": "At Kathy's spa day, Erika reveals a shocking story about her family, leaving the group with questions. Meanwhile, Crystal works on her big-ticket basement renovation and Garcelle moves one step closer to finding Mr. Right. Dorit's wedding dress launch is anything but happily ever after, as Sutton and Erika come face-to-face and Garcelle has to answer for a provocative comment.",
+      "runtime": 42,
+      "season_id": 11,
+      "air_date": "09/15/2021"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 229,
+    "fields": {
+      "title": "Del Mar by the Shade",
+      "synopsis": "When the group caravans down the coast for a relaxing girls' weekend, Kyle and Kathy find themselves in the luxurious presidential suite — while Sutton's vacation takes a turn for the worse. New questions arise about Erika at a glamorous picnic on the beach, and she is later devastated by news about her family. Meanwhile, Dorit and Lisa push Garcelle to tears when they question her investment in their friendships.",
+      "runtime": 42,
+      "season_id": 11,
+      "air_date": "09/22/2021"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 230,
+    "fields": {
+      "title": "Over-poured and Over-board",
+      "synopsis": "The trip to Del Mar continues with a tour of local wineries and the ladies getting a taste of another shocking story from Erika. After Crystal and Lisa soak up a unique fitness experience, Sutton questions Kyle and Dorit on their 'alleged' naivete. Later, a sunset cruise heads for choppy waters as Garcelle suggests a game that puts the women in the hot seat.",
+      "runtime": 42,
+      "season_id": 11,
+      "air_date": "09/29/2021"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 231,
+    "fields": {
+      "title": "New Year, Old Grudges",
+      "synopsis": "Erika heads to dinner with close friends Kyle, Dorit and Lisa, but her mood goes from glad to mad when questions arise. At Crystal's Chinese New Year party, everyone is excited to usher in a change of fortune, but old issues between Lisa and Garcelle threaten to ruin the fun. In the spirit of the night, Sutton offers a warm gesture to Erika, but gets a cold shoulder in return.",
+      "runtime": 42,
+      "season_id": 11,
+      "air_date": "10/06/2021"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 232,
+    "fields": {
+      "title": "Reunion Part 1",
+      "synopsis": "As the reunion kicks off, Erika faces viewers' hard-hitting questions head-on and reveals surprising facts about her life. Crystal reluctantly admits a commonality she shares with Sutton, while Kyle brings up a burning complaint about her former tenant. Garcelle defends her passive-aggressive jabs at Dorit - and then shocks Lisa with an alarming accusation.",
+      "runtime": 42,
+      "season_id": 11,
+      "air_date": "10/13/2021"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 233,
+    "fields": {
+      "title": "Reunion Part 2",
+      "synopsis": "Erika surprises the ladies when she divulges juicy new details about her difficult marriage and divorce. Dorit acknowledges that talking too much has gotten her into trouble in the past. Lisa reveals new details about her daughter's very public breakup. Meanwhile, Kathy breaks down while reminiscing about her and Kyle's mother.",
+      "runtime": 42,
+      "season_id": 11,
+      "air_date": "10/20/2021"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 234,
+    "fields": {
+      "title": "Reunion Part 3",
+      "synopsis": "The reunion continues with emotions on high, as Kyle and Kathy discuss the years they spent apart and their eventual reconciliation. Crystal reflects on her struggles with Sutton and the heartbreaking racism she encountered this year. Erika expresses her hurt over what she describes as Kyle and Dorit 'mocking' her life.",
+      "runtime": 42,
+      "season_id": 11,
+      "air_date": "10/27/2021"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 235,
+    "fields": {
+      "title": "Reunion Part 4",
+      "synopsis": "As the reunion concludes, Lisa sounds off on her support of Erika and expresses remorse about how she's treated friends in the past. Garcelle and Sutton hold Erika accountable for the threatening comments she made this season. Erika fires back at the onslaught of tough questions and finally shares what her future holds.",
+      "runtime": 42,
+      "season_id": 11,
+      "air_date": "11/03/2021"
+    }
   }
 ]
