@@ -3106,5 +3106,113 @@
       "episode": 24,
       "air_date": "10/26/2022"
     }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 260,
+    "fields": {
+      "title": "Welcome to SUR",
+      "synopsis": "Lisa Vanderpump's new hire for SUR, Scheana, is ostracized because of her past affair with a married man. Scheana's co-worker, Stassi, the self-proclaimed 'leader of the pack' leads the charge against Scheana, labeling her a 'homewrecker.' Eventually, Scheana, with Lisa's encouragement, stands up to Stassi, serving notice that she's at the restaurant to stay.",
+      "runtime": 44,
+      "season_id": 13,
+      "episode": 1,
+      "air_date": "01/07/2013"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 261,
+    "fields": {
+      "title": "This Is a Break-Up",
+      "synopsis": "Lisa enlists the help of her SUR staff to celebrate Gay Pride with an over-the-top parade float, but when Stassi catches Scheana and Jax flirting, the fighting and fallout threaten to ruin the day. Jax desperately wants to get his relationship with Stassi back on track, but his drunken behavior at a SUR birthday party might be the final straw that ends his relationship with Stassi for good.",
+      "runtime": 44,
+      "season_id": 13,
+      "episode": 2,
+      "air_date": "01/14/2013"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 262,
+    "fields": {
+      "title": "You Don't Know Jax",
+      "synopsis": "After the blow up at the 'Gay Pride' event, Lisa struggles to keep the staff's personal conflicts outside of their work at SUR. At a photo shoot, Kristen has an awkward encounter with someone from Tom's past. Jax makes a bold play to win back Stassi, but a shocking revelation pushes her to a new man.",
+      "runtime": 44,
+      "season_id": 13,
+      "episode": 3,
+      "air_date": "01/21/2013"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 263,
+    "fields": {
+      "title": "Vegas with a Vengeance",
+      "synopsis": "The SUR staff heads to Las Vegas for Stassi's birthday and leaves Lisa very short handed at the restaurant on her busiest night of the week, but Scheana stays back to make sure things run smoothly. Stassi disinvites Jax from Vegas so she can spend the weekend with her new boyfriend Frank, but when Jax crashes the party, a fight breaks out that will divides the group and threatens strong friendships",
+      "runtime": 44,
+      "season_id": 13,
+      "episode": 4,
+      "air_date": "01/28/2013"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 264,
+    "fields": {
+      "title": "I'm Not a Bitch",
+      "synopsis": "Stassi comes back from Vegas to find that SUR is not the same, as Jax has started dating one of her friends, and Katie and Kristen have turned against her. When Lisa calls a staff meeting to put a stop to the infighting, Laura-Leigh explodes on Stassi for sending her bullying texts. Scheana nervously prepares for her first live performance at the world-famous Roxy, where after a rocky start, she not only steals the show but makes a very unexpected friend.",
+      "runtime": 44,
+      "season_id": 13,
+      "episode": 5,
+      "air_date": "02/04/2013"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 265,
+    "fields": {
+      "title": "Caught With Your Trousers Down",
+      "synopsis": "When Jax and Laura-Leigh are caught having sex in SUR's bathroom and Frank insults a customer, Lisa is forced to crack the whip on her staff, resulting in a firing. Stassi thinks her life is back on track when she makes up with her old friend Katie and introduces her new boyfriend Frank to her parents, but when an unexpected argument escalates, Stassi finds herself headed for her second break-up of the summer.",
+      "runtime": 44,
+      "season_id": 13,
+      "episode": 6,
+      "air_date": "02/11/2013"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 266,
+    "fields": {
+      "title": "In Love with Someone Else",
+      "synopsis": "TWhen Lisa threatens to fire Stassi for neglecting her responsibilities at SUR and as a writer for Lisa's website, Stassi must plead to keep her jobs. Scheana has an emotional breakdown at work when Lisa forbids her to work a party Brandi is attending. Jax makes a bold move to win Stassi back, causing Laura-Leigh to attack Jax for dumping her without an explanation.",
+      "runtime": 44,
+      "season_id": 13,
+      "episode": 7,
+      "air_date": "02/18/2013"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 267,
+    "fields": {
+      "title": "Last Call",
+      "synopsis": "Lisa organizes a sexy photo-shoot for the staff of SUR, bringing everyone together for an explosive season finale. Scheana attempts to win back Lisa's respect after storming out of her V.I.P. dinner. After a summer of bitter fighting, Kristen and Stassi try to bury the hatchet, and the truth is finally revealed about the rumors surrounding Jax.",
+      "runtime": 44,
+      "season_id": 13,
+      "episode": 8,
+      "air_date": "02/25/2013"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 268,
+    "fields": {
+      "title": "Reunion",
+      "synopsis": "Hosted by Bravo's Andy Cohen, the cast of Vanderpump Rules along with Lisa Vanderpump, reunite at SUR to discuss some of the most talked about antics of the season.",
+      "runtime": 44,
+      "season_id": 13,
+      "episode": 9,
+      "air_date": "03/04/2013"
+    }
   }
 ]
