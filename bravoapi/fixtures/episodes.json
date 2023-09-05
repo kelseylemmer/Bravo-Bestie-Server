@@ -3922,5 +3922,293 @@
       "episode": 23,
       "air_date": "04/04/2016"
     }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 328,
+    "fields": {
+      "title": "Summer Bodies",
+      "synopsis": "Lisa Vanderpump's SUR Restaurant is hotter than ever, but the conflict within her staff is at an all-time high when Jax jeopardizes the best relationship he's ever had after spreading a shocking rumor involving his girlfriend Brittany and Kristen. Meanwhile, Stassi rallies the girls against James and Lala for fat shaming bride-to-be Katie, but Schwartz worries Stassi's return has brought out the worst in his fiancée. Finally, the group uncovers a bit of scandalous gossip about Lala's love life.",
+      "runtime": 44,
+      "season_id": 17,
+      "episode": 1,
+      "air_date": "11/07/2016"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 329,
+    "fields": {
+      "title": "What Went Down",
+      "synopsis": "TLisa organizes a huge dog charity event with the help of the SUR staff and Katie on board as her assistant. Later, Brittany threatens to leave Jax for spreading rumors of her sexual encounter with Kristen all over SUR, and James embarks on an “Apology Tour” for the horrible things he said to Scheana and Katie. Meanwhile, Tom Schwartz asks for a pre-nuptial agreement as he panics at the skyrocketing budget of his upcoming wedding.",
+      "runtime": 44,
+      "season_id": 17,
+      "episode": 2,
+      "air_date": "11/14/2016"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 330,
+    "fields": {
+      "title": "Call It Like I See It",
+      "synopsis": "Stassi, Scheana and Kristen are all asked to be a part of Katie's bridal party, but Ariana is left out in the cold as a result of her friendship with Lala. Meanwhile, Schwartz serves up Jax and Sandoval a spicy revenge for their years of hazing, and Katie questions Scheana's loyalty after spotting her getting cozy with Lala.",
+      "runtime": 44,
+      "season_id": 17,
+      "episode": 3,
+      "air_date": "11/21/2016"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 331,
+    "fields": {
+      "title": "Thirsty Girls",
+      "synopsis": "Scheana shuts down Lala's attempts at friendship in an effort to please Katie and her bridesmaids. Meanwhile, James is flying high when his pageant queen girlfriend comes to town for the summer, but the fun doesn't last after the new SUR hostess claims she slept with him. Later, Katie lashes out at Schwartz after learning he's secretly seeking therapy, causing him serious concern for the upcoming wedding. Finally, Jax eagerly watches as James puts his job at SUR in jeopardy.",
+      "runtime": 44,
+      "season_id": 17,
+      "episode": 4,
+      "air_date": "11/28/2016"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 332,
+    "fields": {
+      "title": "Cold Feet",
+      "synopsis": "Katie and Schwartz take a trip to scout their wedding venue, but when Schwartz shows signs of cold feet, Katie hits him below the belt. Meanwhile, Tom takes Ariana on a romantic date but discovers that he wants marriage and kids more than she does. Later, Scheana learns a scandalous rumor about Lala, while Lala learns two scandalous rumors about James. Finally, Lisa advises Katie to mend her relationship before the wedding.",
+      "runtime": 44,
+      "season_id": 17,
+      "episode": 5,
+      "air_date": "12/05/2016"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 333,
+    "fields": {
+      "title": "Pride",
+      "synopsis": "When terrorism strikes the Orlando gay community and threatens West Hollywood, Lisa puts her own safety aside to ride in the Pride Parade, rally SUR, and bring the community together. Meanwhile, Tom's jealousy over Ariana's bartending book sparks the nastiest fight of their relationship. Stassi plans a birthday trip to Montauk and James questions his friendship with Lala when the stories about her boyfriend continue to change.",
+      "runtime": 44,
+      "season_id": 17,
+      "episode": 6,
+      "air_date": "12/12/2016"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 334,
+    "fields": {
+      "title": "The Sociopath Test",
+      "synopsis": "Scheana and Kristen throw a surprise party for Shay and Carter, but Scheana gets surprised when Stassi and Katie attack her for sympathizing with Lala. Later, Jax reveals himself to be a certifiable sociopath on Stassi's podcast. Finally, Lisa gives Brittany advice on how to deal with relationship jealousy, and Ariana stands up for Scheana.",
+      "runtime": 44,
+      "season_id": 17,
+      "episode": 7,
+      "air_date": "12/19/2016"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 335,
+    "fields": {
+      "title": "No Show",
+      "synopsis": "After a vicious fight with Stassi and Katie, Scheana must decide whether she'll still go with them on Stassi's birthday trip to Montauk. Meanwhile, Lala begins to dread Ariana's Sonoma birthday trip when she learns she'll be stuck in close quarters with Jax. Finally, Lisa must decide whether to rehire James after he makes a sincere plea to get his DJ job back.",
+      "runtime": 44,
+      "season_id": 17,
+      "episode": 8,
+      "air_date": "12/26/2016"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 336,
+    "fields": {
+      "title": "The Talk of Montauk",
+      "synopsis": "Sandoval, Schwartz and Jax vow not to let Lala's no-show ruin Ariana's rowdy, NASCAR birthday weekend in Sonoma. Meanwhile, Stassi's Montauk birthday trip is off to a rocky start when she breaks down in tears over her recent split, and Katie and Kristen fail to find Stassi an eligible Hamptons suitor. Later, Lisa learns troubling news about Lala's situation, and Scheana feels like an outsider when she doesn't embrace Stassi's birthday traditions.",
+      "runtime": 44,
+      "season_id": 17,
+      "episode": 9,
+      "air_date": "01/02/2017"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 337,
+    "fields": {
+      "title": "Summer House Rules",
+      "synopsis": "Stassi continues her birthday trip at a Montauk clambake, where Katie finds Stassi potential new bachelors and Scheana and Kristen commit some seafood faux pas. Lala finally resurfaces to explain her disappearance, but Lisa isn't buying her wild lies. Ariana celebrates her birthday with Sandoval and Schwartz at a thrilling NASCAR race, but things grow tense after Jax disrespects Brittany. Later, Kristen, Katie and Scheana party at the Wirkus Twins' summer house, and sparks fly when Stassi finds herself alone in a hot tub with a handsome, young and successful New Yorker.",
+      "runtime": 44,
+      "season_id": 17,
+      "episode": 10,
+      "air_date": "01/09/2017"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 338,
+    "fields": {
+      "title": "The D Pic",
+      "synopsis": "Kristen upsets Brittany by using a picture of Jax's genitals in her comedy show. Meanwhile, Lala returns to SUR to apologize for missing Ariana's birthday, but Tom refuses to forgive her. Later, Brittany's mom arrives from Kentucky and puts the pressure on Jax to join a church and marry her daughter. Finally, Lisa surprises Katie with a risqué bridal shower gift and Ariana drops a bomb on Stassi, leaving her stunned.",
+      "runtime": 44,
+      "season_id": 17,
+      "episode": 11,
+      "air_date": "01/16/2017"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 339,
+    "fields": {
+      "title": "Jax's Roast",
+      "synopsis": "Sandoval decides to celebrate his birthday with a 'Fund-Rager' to raise money for a good cause, but things go south when Scheana accuses James of cheating in front of his girlfriend. Meanwhile, Kristen hosts a roast for Jax, but Jax isn't too thrilled when Brittany's mom reacts to a rumor from his past. Later, Scheana reveals that her marriage isn't perfect, Lisa chastises Katie and Schwartz for constantly fighting, and Katie decides to get a medical marijuana card in an attempt to mellow out.",
+      "runtime": 44,
+      "season_id": 17,
+      "episode": 12,
+      "air_date": "01/23/2017"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 340,
+    "fields": {
+      "title": "Ambush",
+      "synopsis": "Schwartz tries to make peace between Ariana and Stassi, but Katie gets annoyed when Ariana refuses to play nice. Meanwhile, James is excited to play his biggest DJ set since being fired from SUR, but the gig is ruined when Jax, Scheana, Kristen and two alleged mistresses ambush James to expose his cheating ways. Finally, Lisa gives Katie valuable wedding advice and Schwartz gets his prenup, only to learn that he doesn't have much to protect.",
+      "runtime": 44,
+      "season_id": 17,
+      "episode": 13,
+      "air_date": "01/30/2017"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 341,
+    "fields": {
+      "title": "Into the Closet",
+      "synopsis": "A tearful Stassi gets some hard relationship advice from her little brother. Meanwhile, Sandoval attempts to reignite his career by diving back into modeling and acting in Peter's sci-fi movie. Later, Pandora throws Katie a relaxing spa day but things grow tense when Ariana refuses to apologize to Stassi and Katie's attacks brings Scheana to tears. Finally, Sandoval, Jax and Ariana raid Lisa's fabulous closet to fulfill Schwartz's dream of dressing in drag for his bachelor party.",
+      "runtime": 44,
+      "season_id": 17,
+      "episode": 14,
+      "air_date": "02/06/2017"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 342,
+    "fields": {
+      "title": "Beads, Beers and Tears",
+      "synopsis": "Scheana throws a pre-New Orleans pool party but when Tom and Katie's fighting reaches a new level, the group wonders if they should get married at all. Meanwhile, when Lisa allows James to DJ a party at PUMP James makes a play to get his old job back. Later, the bachelor/bachelorette party kicks off with plenty of Bourbon Street debauchery, but Sandoval stirs up trouble when he tells Katie she needs therapy. Finally, Stassi confronts Jax about his past mistakes resulting in tears from Jax and jealousy from Brittany.",
+      "runtime": 44,
+      "season_id": 17,
+      "episode": 15,
+      "air_date": "02/13/2017"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 343,
+    "fields": {
+      "title": "Man Tears and Braziers",
+      "synopsis": "Ariana and the groomsmen go on a manly gator tour, but when talk turns to Schwartz's relationship troubles the boys are reduced to tears. Meanwhile, gender stereotypes are flipped when Kristen hires a female stripper for the girls while the boys tuck in, tape up, and get beautiful in full drag. Back at SUR, Lisa tests out new dishes in hopes of spicing up the menu. Finally, Kristen reveals the root of Katie's anger towards Schwartz all summer, sparking a massive fight between angry drag queens, bitter boyfriends and scorned fiancés.",
+      "runtime": 44,
+      "season_id": 17,
+      "episode": 16,
+      "air_date": "02/20/2017"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 344,
+    "fields": {
+      "title": "Drag Battle",
+      "synopsis": "The epic New Orleans blowout continues late into the night, with Schwartz and Sandoval – still in full drag – fiercely refuting the cheating accusations. Meanwhile, Stassi realizes her past fights with Katie caused her to miss a painful moment when Katie needed her most. Later, Kristen confronts Sandoval about trying to ruin her new relationship, and Stassi pays her dad and grandmother a nostalgic visit on the day they're moving out of her childhood home. Finally, Katie and Schwartz bury their issues on a wild last night in Nola, featuring a scandalous game of spin the bottle. Back in LA, Lisa talks to Ken about partnering up with Tom Sandoval to open a new bar.",
+      "runtime": 44,
+      "season_id": 17,
+      "episode": 17,
+      "air_date": "02/27/2017"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 345,
+    "fields": {
+      "title": "Regrets Only",
+      "synopsis": "Lisa forces Katie and Tom to reexamine their entire relationship when she declines to officiate their wedding. Meanwhile, Stassi fumbles through her first blind date with the help of Kristen's questionable romantic advice. Finally, Lisa organizes another sexy SUR photo shoot, with Tom and Ariana wearing nothing but food.",
+      "runtime": 44,
+      "season_id": 17,
+      "episode": 18,
+      "air_date": "03/06/2017"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 346,
+    "fields": {
+      "title": "Triple Trouble",
+      "synopsis": "When Lala makes a surprise return to SUR, Lisa makes it clear that her unreliable behavior will no longer be tolerated. With Katie and Tom's wedding just days away, Jax and Sandoval arrange to fly in Schwartz's triplet brothers as a surprise gift. Meanwhile, Scheana announces her plan to have a baby despite her growing relationship issues with Shay, and Stassi poses for a nearly-nude photo shoot to get her mojo back. Finally, Katie and Tom arrive at their wedding venue only to be greeted by a very large bill.",
+      "runtime": 44,
+      "season_id": 17,
+      "episode": 19,
+      "air_date": "03/13/2017"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 347,
+    "fields": {
+      "title": "Taco Tuesday, Wedding Wednesday",
+      "synopsis": "Katie and Tom's wedding is finally here and the whole group comes together to show their support. Jax and Tom give Schwartz the ultimate wedding surprise when they fly in his triplet brothers. Meanwhile, Stassi is moved to tears when she and Lisa finally bury the hatchet. Finally, Scheana insists her relationship with Shay is perfect, but Lisa suspects she may be hiding something.",
+      "runtime": 44,
+      "season_id": 17,
+      "episode": 20,
+      "air_date": "03/20/2017"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 348,
+    "fields": {
+      "title": "Introducing Mr. & Mrs. Schwartz",
+      "synopsis": "Lisa officiates the woodsy elegant ceremony that only Katie and Tom could pull off. Jax re-evaluates his relationship with Brittany, and Ariana considers taking her relationship to the next step with Sandoval. Meanwhile, Lisa offers the Toms the business opportunity of a lifetime, but Schwartz fears making two commitments in one day. Finally, Scheana reveals a dark secret about her marriage that will change the rest of her life.",
+      "runtime": 44,
+      "season_id": 17,
+      "episode": 21,
+      "air_date": "03/27/2017"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 349,
+    "fields": {
+      "title": "Reunion Part 1",
+      "synopsis": "The three-part reunion kicks off with Andy seeking the truth about the Kristen and Brittany hookup, Katie's attack on Schwartz's manhood, and James, who is shockingly seated next to Jax, addresses the cheating rumors. Lisa Vanderpump recounts the emotions of celebrating Gay Pride in the wake of a tragedy, and Lala Kent makes an unexpected return to reignite her feud with Stassi, Kristen and Katie. Andy has a hilarious visit with the SUR cooks, and Lala receives an unanticipated apology from the most unlikely source.",
+      "runtime": 44,
+      "season_id": 17,
+      "episode": 22,
+      "air_date": "04/03/2017"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 350,
+    "fields": {
+      "title": "Reunion Part 2",
+      "synopsis": "The reunion continues with Andy addressing Lala about the rumors of her dating a married man and why she disappeared from SUR without explanation. Stassi's little brother Nikolai joins the reunion to offer the cast some tough love and much-needed life advice. Brittany expresses her anger with Kristen for using a picture of Jax's unmentionable in her comedy routine, Scheana confronts Katie about her drinking and things get heated when Ariana calls Stassi out for being manipulative.",
+      "runtime": 44,
+      "season_id": 17,
+      "episode": 23,
+      "air_date": "04/10/2017"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 351,
+    "fields": {
+      "title": "Reunion Part 3",
+      "synopsis": "The reunion concludes as Lisa explains why she initially refused to officiate Katie and Tom's wedding. James lashes out at Jax and Kristen for sabotaging his show and Tom and Ariana discuss being blamed for all the problems in Katie's relationship. Lisa tells Schwartz he blew his chance to go into business with her and Ariana explains why she won't marry Sandoval. Finally, Scheana shares an emotional moment with her estranged husband, Michael Shay, to discuss the disintegration of their relationship.",
+      "runtime": 44,
+      "season_id": 17,
+      "episode": 24,
+      "air_date": "04/17/2017"
+    }
   }
 ]
