@@ -4792,7 +4792,7 @@
     "pk": 400,
     "fields": {
       "title": "There Goes the Neighborhood",
-      "synopsis": "In the season eight premiere, Jax, Brittany, Schwartz, Katie, Sandoval and Ariana all move into their very first “grown-up” houses, while Stassi struggles to rebuild her broken friendship with Kristen. Newly sober Lala confides in Lisa Vanderpump about her desire to make amends with an old friend, and TomTom general manager Max breaks the rules by dating the new hostess, Dayna—much to his ex-girlfriend Scheana's dismay. Finally, Jax retaliates when Tom Sandoval skips one of his wedding events.",
+      "synopsis": "In the season eight premiere, Jax, Brittany, Schwartz, Katie, Sandoval and Ariana all move into their very first 'grown-up' houses, while Stassi struggles to rebuild her broken friendship with Kristen. Newly sober Lala confides in Lisa Vanderpump about her desire to make amends with an old friend, and TomTom general manager Max breaks the rules by dating the new hostess, Dayna—much to his ex-girlfriend Scheana's dismay. Finally, Jax retaliates when Tom Sandoval skips one of his wedding events.",
       "runtime": 44,
       "season_id": 20,
       "episode": 1,
@@ -5656,7 +5656,7 @@
     "pk": 472,
     "fields": {
       "title": "Secrets Revealed",
-      "synopsis": "In never-before-seen footage from Beverly Hills, Teddi goes shopping for a new sports car with her husband and is shocked by its high speed – and its high price tag! Dorit and her bestie, Boy George, are curious about Teddi's job. Erika and Camille are slightly mortified when Lisa Rinna makes a questionable joke about Lisa Vanderpump. Kyle plans to build a new beach house in Mexico. Camille's search for the perfect gift for Dorit takes her to the Museum of Sex in New York City.",
+      "synopsis": "In never-before-seen footage from Beverly Hills, Teddi goes shopping for a new sports car with her husband and is shocked by its high speed - and its high price tag! Dorit and her bestie, Boy George, are curious about Teddi's job. Erika and Camille are slightly mortified when Lisa Rinna makes a questionable joke about Lisa Vanderpump. Kyle plans to build a new beach house in Mexico. Camille's search for the perfect gift for Dorit takes her to the Museum of Sex in New York City.",
       "runtime": 44,
       "season_id": 8,
       "episode": 22,
@@ -5764,7 +5764,7 @@
     "pk": 481,
     "fields": {
       "title": "A Tale of Two Miamis",
-      "synopsis": "It's a brand new day in Miami and the queen bees of Miami's high society are back. But Lea, Adriana, and Marysol are about to have their world shaken by a new generation of super-privileged socialites. Meet Ana, Karent, Joanna, and Lisa. They're hell bent on injecting some new energy into a city that has always revered the status quo. Lea is shocked when she discovers Lisa, the young hot wife of a plastic surgeon will be her new neighbor. Karent likes to show off her Latin soap star boyfriend even though he's hit on new “Housewife” Ana. And last but not least, we get to meet Joanna, a model whose temper is almost as hot as her body -- let the fun begin!",
+      "synopsis": "It's a brand new day in Miami and the queen bees of Miami's high society are back. But Lea, Adriana, and Marysol are about to have their world shaken by a new generation of super-privileged socialites. Meet Ana, Karent, Joanna, and Lisa. They're hell bent on injecting some new energy into a city that has always revered the status quo. Lea is shocked when she discovers Lisa, the young hot wife of a plastic surgeon will be her new neighbor. Karent likes to show off her Latin soap star boyfriend even though he's hit on new 'Housewife' Ana. And last but not least, we get to meet Joanna, a model whose temper is almost as hot as her body -- let the fun begin!",
       "runtime": 44,
       "season_id": 24,
       "episode": 1,
@@ -5860,7 +5860,7 @@
     "pk": 489,
     "fields": {
       "title": "Conflicting Conflict",
-      "synopsis": "The time has finally come for the Black's Annual Gala, but tensions are running high between the ladies after Joanna and Adriana's altercation at Lisa's lingerie party. Not wanting any drama of her own, Lea enlists the help of a psychic in the hopes of shifting the energy from negative to positive. As the Gala festivities begin, Marysol decides to sit this one out and visits Ana to discuss the “D” word -- DIVORCE.",
+      "synopsis": "The time has finally come for the Black's Annual Gala, but tensions are running high between the ladies after Joanna and Adriana's altercation at Lisa's lingerie party. Not wanting any drama of her own, Lea enlists the help of a psychic in the hopes of shifting the energy from negative to positive. As the Gala festivities begin, Marysol decides to sit this one out and visits Ana to discuss the 'D' word -- DIVORCE.",
       "runtime": 44,
       "season_id": 24,
       "episode": 9,
@@ -5992,7 +5992,7 @@
     "pk": 500,
     "fields": {
       "title": "Hurricane Adriana",
-      "synopsis": "The black clouds are rolling in as Adriana and Lea’s feud comes to a boiling head when the two finally meet in a stormy showdown. Joanna’s trip down the aisle may be in jeopardy after Romain pops a question of a different sort. And Lisa discovers that buying their dream property on the hottest island in Miami has become more like a nightmare.",
+      "synopsis": "The black clouds are rolling in as Adriana and Lea's feud comes to a boiling head when the two finally meet in a stormy showdown. Joanna's trip down the aisle may be in jeopardy after Romain pops a question of a different sort. And Lisa discovers that buying their dream property on the hottest island in Miami has become more like a nightmare.",
       "runtime": 44,
       "season_id": 25,
       "episode": 2,
@@ -6165,6 +6165,174 @@
       "season_id": 25,
       "episode": 16,
       "air_date": "11/14/2013"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 515,
+    "fields": {
+      "title": "¡Bienvenidos! Same Beaches, New Shade",
+      "synopsis": "The ladies reunite with an old friend and meet new ones; Alexia seeks closure about her marriage.",
+      "runtime": 54,
+      "season_id": 26,
+      "episode": 1,
+      "air_date": "12/16/2021"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 516,
+    "fields": {
+      "title": "Sushi Rolls and Wedding Woes",
+      "synopsis": "Alexia plans her wedding but hits multiple roadblocks; sushi night reveals Todd and Peter's drama.",
+      "runtime": 44,
+      "season_id": 26,
+      "episode": 2,
+      "air_date": "12/16/2021"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 517,
+    "fields": {
+      "title": "Painted With Pride",
+      "synopsis": "Alexia meets Herman's lover; Adriana hosts Martina's first art show while juggling two dates.",
+      "runtime": 44,
+      "season_id": 26,
+      "episode": 3,
+      "air_date": "12/23/2021"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 518,
+    "fields": {
+      "title": "It's Your Party and I'll Cry if I Want To",
+      "synopsis": "A massage rubs Martina the wrong way; Adriana and Guerdy come to blows at Julia's birthday.",
+      "runtime": 44,
+      "season_id": 26,
+      "episode": 4,
+      "air_date": "12/30/2021"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 519,
+    "fields": {
+      "title": "Family Therapy",
+      "synopsis": "Julia aims to resolve her birthday drama; Alexia's family is torn apart as Todd and Peter fight.",
+      "runtime": 44,
+      "season_id": 26,
+      "episode": 5,
+      "air_date": "01/06/2022"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 520,
+    "fields": {
+      "title": "Flirting at the Faena",
+      "synopsis": "Lisa hosts a slumber party at the Faena Hotel; Nicole attempts to reconcile with her father.",
+      "runtime": 44,
+      "season_id": 26,
+      "episode": 6,
+      "air_date": "01/13/2022"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 521,
+    "fields": {
+      "title": "Bling, Boobs and Bickering",
+      "synopsis": "The ladies head to the Hamptons; Marysol makes everyone question whether Nicole can be trusted.",
+      "runtime": 44,
+      "season_id": 26,
+      "episode": 7,
+      "air_date": "01/20/2022"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 522,
+    "fields": {
+      "title": "Le Fin?",
+      "synopsis": "The ladies try to put last night's drama behind them; Julia blindsides Adriana with a proposal.",
+      "runtime": 44,
+      "season_id": 26,
+      "episode": 8,
+      "air_date": "01/27/2022"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 523,
+    "fields": {
+      "title": "Hamptons Hangover",
+      "synopsis": "The house panics as Julia has a medical emergency; Adriana threatens to derail Larsa's work event.",
+      "runtime": 44,
+      "season_id": 26,
+      "episode": 9,
+      "air_date": "02/03/2022"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 524,
+    "fields": {
+      "title": "Looking for Trouble",
+      "synopsis": "A single ladies' night goes wrong after Larsa's celebrity friend is brought up.",
+      "runtime": 44,
+      "season_id": 26,
+      "episode": 10,
+      "air_date": "02/10/2022"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 525,
+    "fields": {
+      "title": "Versace and Venom",
+      "synopsis": "The ladies throw Alexia a bachelorette party, but the fun quickly descends into chaos.",
+      "runtime": 44,
+      "season_id": 26,
+      "episode": 11,
+      "air_date": "02/17/2022"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 526,
+    "fields": {
+      "title": "No Wedding and a Funeral",
+      "synopsis": "TAs her mother's health takes a turn for the worse, Alexia's dream wedding begins to crumble.",
+      "runtime": 44,
+      "season_id": 26,
+      "episode": 12,
+      "air_date": "02/24/2022"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 527,
+    "fields": {
+      "title": "Reunion Part 1",
+      "synopsis": "The ladies reunite; Julia makes shocking revelations; Larsa defends her looks and OnlyFans.",
+      "runtime": 44,
+      "season_id": 26,
+      "episode": 13,
+      "air_date": "03/03/2022"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 528,
+    "fields": {
+      "title": "Reunion Part 2",
+      "synopsis": "As the reunion concludes, Adriana and Larsa go head-to-head over a certain someone's penis.",
+      "runtime": 44,
+      "season_id": 26,
+      "episode": 14,
+      "air_date": "03/10/2022"
     }
   }
 ]
