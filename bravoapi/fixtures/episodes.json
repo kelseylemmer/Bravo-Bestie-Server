@@ -5035,7 +5035,7 @@
       "synopsis": "In the explosive first hour of the 'Vanderpump Rules' reunion, Andy Cohen and the cast connect from home to get to the bottom of everything from Jax and Sandoval's friendship-ending feud to the biggest fight of Katie and Schwartz's married life. Stassi and Beau grill Sandoval about his outburst over her book event, Charli and Scheana accuse Jax of bullying the new SUR employees, and Max drops a major bombshell about a secret hookup with yet another woman in the 'Vanderpump Rules' universe that no one saw coming.",
       "runtime": 44,
       "season_id": 20,
-      "episode": 21,
+      "episode": 22,
       "air_date": "06/02/2020"
     }
   },
@@ -5047,7 +5047,7 @@
       "synopsis": "The shocking reunion continues as Andy Cohen gets Scheana to open up about her true problems with Dayna, and Ariana reveals how Lisa Vanderpump helped her through dark depression. Meanwhile, James and Raquel recount his triumphant journey to sobriety, Lala gets called out for being cruel to those who won't fight back, Danica defends her outburst at the TomTom anniversary, and Stassi, Katie, and Kristen get to the root of the issues that fractured their decade-long friendship.",
       "runtime": 44,
       "season_id": 20,
-      "episode": 22,
+      "episode": 23,
       "air_date": "06/09/2020"
     }
   },
@@ -5059,7 +5059,7 @@
       "synopsis": "The reunion comes to an exhilarating close as Stassi explains the reasoning behind her embarrassing 'bridezilla' behavior, Scheana and Brett argue over their infamous sexy music video, Lisa passes judgment on Max and Danica's feud, and James discusses having to apologize to Randall after years of viciously mocking him. Finally, Jax and Brittany lash out at Andy Cohen and anyone who holds Jax accountable for his behavior.",
       "runtime": 44,
       "season_id": 20,
-      "episode": 23,
+      "episode": 24,
       "air_date": "06/16/2020"
     }
   },
@@ -5481,6 +5481,90 @@
       "season_id": 22,
       "episode": 18,
       "air_date": "06/07/2023"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 458,
+    "fields": {
+      "title": "Secrets Revealed",
+      "synopsis": "In one of the most shocking secrets revealed episodes in Vanderpump Rules history, fans will get a deeper glimpse into the fallout of the group post-#Scandoval. Never-before-seen moments from the summer will shed a new light on glaring secrets that have since been revealed. Plus, fans will see bonus footage from months before Season 10 began as Tom and Katie face the reality of their divorce while still living together.",
+      "runtime": 44,
+      "season_id": 22,
+      "episode": 19,
+      "air_date": "06/14/2023"
+    }
+  }
+  {
+    "model": "bravoapi.episode",
+    "pk": 459,
+    "fields": {
+      "title": "Secrets Revealed",
+      "synopsis": "Catch the never-before-seen revealing and hilarious moments you didn't see this season.",
+      "runtime": 44,
+      "season_id": 20,
+      "episode": 21,
+      "air_date": "05/26/2020"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 460,
+    "fields": {
+      "title": "Secrets Revealed",
+      "synopsis": "Andy Cohen joins Lisa and the cast of Vanderpump Rules for 'Secrets Revealed,' a hilarious, illuminating, and occasionally scandalous look at never-before-seen footage from Season Six. Lisa learns about Lala's financial arrangement with her wealthy boyfriend; Jax celebrates his birthday with a hilarious game of trampoline dodgeball; Stassi, Katie, and Brittany try a new strategy to get over a hangover; Schwartz and Jax volunteer to build a house but find manual labor isn't their strong suit; James sheds new light on his former romance with Lala; and Schwartz and Sandoval secretly meet up with Scheana's ex-husband.",
+      "runtime": 44,
+      "season_id": 18,
+      "episode": 25,
+      "air_date": "05/28/2018"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 461,
+    "fields": {
+      "title": "Secrets Revealed",
+      "synopsis": "Catch the never-before-seen revealing, embarrassing, and most hilarious scenes you didn't see this season.",
+      "runtime": 44,
+      "season_id": 16,
+      "episode": 24,
+      "air_date": "04/07/2016"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 462,
+    "fields": {
+      "title": "Secrets Revealed",
+      "synopsis": "Andy Cohen visits Lisa Vanderpump and SUR staff to discuss the most revealing, embarrassing and hilarious scenes you didn't see this season. Katie attacks Jax for meddling in her relationship; James forces Kristen to delete her past with Tom Sandoval; Stassi and Katie try to help Peter score a date; Tom Schwartz freaks out during a routine medical procedure; Scheana calls out Katie for sucking up to Stassi; and Lisa hires a restaurant consultant to check on SUR, but his suggestions rub Lisa the wrong way.",
+      "runtime": 44,
+      "season_id": 15,
+      "episode": 21,
+      "air_date": "03/23/2015"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 463,
+    "fields": {
+      "title": "Secrets Revealed",
+      "synopsis": "'Vanderpump Rules: Secrets Revealed' serves up never-before-seen moments, as Andy Cohen visits Lisa Vanderpump and SUR to discuss the most revealing, embarrassing, and hilarious scenes you didn't see this season. Stassi attacks Jax for claiming he's 'in a relationship' with a girl he's never met; frozen vodka helps Scheana reveal how she really feels about Stassi, Katie and Kristen; Tom reveals his darkest fantasy about seeing Kristen with another man; Katie shows Schwartz what half a bikini wax looks like; and Lisa accidentally reveals too much about her sex life.",
+      "runtime": 44,
+      "season_id": 14,
+      "episode": 17,
+      "air_date": "02/24/2014"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 464,
+    "fields": {
+      "title": "Reunion Secrets",
+      "synopsis": "Serving up never-before-seen moments from Season 1, Lisa Vanderpump and the SUR team speak candidly with Andy Cohen about the fights, fun, hook-ups, and heartbreaks that you didn't get to see, like Stassi and Kristen's bikini blowout, the secrets of Tom's hair, Jax's Speedo stuffing, the definition of 'crymax' and Lisa discovers who on her staff wears 'padded knickers.'",
+      "runtime": 44,
+      "season_id": 13,
+      "episode": 10,
+      "air_date": "03/11/2013"
     }
   }
 ]
