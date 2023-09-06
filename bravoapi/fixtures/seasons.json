@@ -1,0 +1,110 @@
+[
+  {
+    "model": "bravoapi.season",
+    "pk": 1,
+    "fields": {
+      "season_number": 1,
+      "premier_date": "10/14/2010",
+      "franchise_id": 1
+    }
+  },
+  {
+    "model": "bravoapi.season",
+    "pk": 2,
+    "fields": {
+      "season_number": 2,
+      "premier_date": "09/05/2011",
+      "franchise_id": 1
+    }
+  },
+  {
+    "model": "bravoapi.season",
+    "pk": 3,
+    "fields": {
+      "season_number": 3,
+      "premier_date": "11/05/2012",
+      "franchise_id": 1
+    }
+  },
+  {
+    "model": "bravoapi.season",
+    "pk": 4,
+    "fields": {
+      "season_number": 4,
+      "premier_date": "11/04/2013",
+      "franchise_id": 1
+    }
+  },
+  {
+    "model": "bravoapi.season",
+    "pk": 5,
+    "fields": {
+      "season_number": 5,
+      "premier_date": "11/18/2014",
+      "franchise_id": 1
+    }
+  },
+  {
+    "model": "bravoapi.season",
+    "pk": 6,
+    "fields": {
+      "season_number": 6,
+      "premier_date": "12/01/2015",
+      "franchise_id": 1
+    }
+  },
+  {
+    "model": "bravoapi.season",
+    "pk": 7,
+    "fields": {
+      "season_number": 7,
+      "premier_date": "12/06/2016",
+      "franchise_id": 1
+    }
+  },
+  {
+    "model": "bravoapi.season",
+    "pk": 8,
+    "fields": {
+      "season_number": 8,
+      "premier_date": "12/19/2017",
+      "franchise_id": 1
+    }
+  },
+  {
+    "model": "bravoapi.season",
+    "pk": 9,
+    "fields": {
+      "season_number": 9,
+      "premier_date": "02/12/2019",
+      "franchise_id": 1
+    }
+  },
+  {
+    "model": "bravoapi.season",
+    "pk": 10,
+    "fields": {
+      "season_number": 10,
+      "premier_date": "04/15/2020",
+      "franchise_id": 1
+    }
+  },
+  {
+    "model": "bravoapi.season",
+    "pk": 11,
+    "fields": {
+      "season_number": 11,
+      "premier_date": "05/19/2021",
+      "franchise_id": 1
+    }
+  },
+  {
+    "model": "bravoapi.season",
+    "pk": 12,
+    "fields": {
+      "season_number": 12,
+      "premier_date": "05/11/2022",
+      "franchise_id": 1
+    }
+  }
+]
