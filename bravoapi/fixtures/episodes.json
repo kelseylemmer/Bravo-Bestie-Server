@@ -5566,5 +5566,113 @@
       "episode": 10,
       "air_date": "03/11/2013"
     }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 465,
+    "fields": {
+      "title": "The Lost Footage",
+      "synopsis": "The Real Housewives of Beverly Hills: The Lost Footage makes its way to the surface with never seen before seen footage of the most talked about Housewives in 90210. With the husbands and Giggy along for the ride as well - everyone's dirty laundry is sure to be exposed.",
+      "runtime": 44,
+      "season_id": 1,
+      "episode": 16,
+      "air_date": "02/08/2011"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 466,
+    "fields": {
+      "title": "The Dinner Party from Hell: Producer's Cut",
+      "synopsis": "Camille Kelsey decides to throw a dinner party with the housewives. The sparks fly after the cocktails have been served, and psychic friend Allison DuBoise lets loose some words that send the whole table in a verbal showdown.",
+      "runtime": 44,
+      "season_id": 1,
+      "episode": 17,
+      "air_date": "02/15/2011"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 467,
+    "fields": {
+      "title": "The Lost Footage",
+      "synopsis": "Bravo will air an explosive one-hour 'Lost Footage' special featuring the jaw dropping fight between Brandi Glanville and Kyle Richards where tensions boiled over at The Malibu Beach Party from Hell. That and other clips originally left on the cutting room floor are sure to surprise, astonish, and amuse.",
+      "runtime": 44,
+      "season_id": 2,
+      "episode": 24,
+      "air_date": "02/13/2012"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 468,
+    "fields": {
+      "title": "Secrets Revealed",
+      "synopsis": "The Bravo vaults are opened and the audience is treated to never-before-seen footage of the Housewives both at the Reunion and out-and-about in Beverly Hills. Kyle takes a nervous Lisa for her first mammogram; Yolanda and Brandi's friendship is explored in further depth, and Taylor has a meltdown directed at her onetime friend Adrienne. And in unseen footage from the reunion, the ladies discuss the actions of Faye.",
+      "runtime": 44,
+      "season_id": 3,
+      "episode": 22,
+      "air_date": "04/08/2013"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 469,
+    "fields": {
+      "title": "Secrets Revealed",
+      "synopsis": "Never-before-seen moments from Season 4 are revealed, as Kim teaches Brandi how to act in a TV movie, Lisa and Joyce bond over a candid dinner with their husbands, Kim receives advice about how to plump her lips from an old friend, and Kyle learns how to be a TV presenter.",
+      "runtime": 44,
+      "season_id": 4,
+      "episode": 23,
+      "air_date": "04/07/2014"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 470,
+    "fields": {
+      "title": "Secrets Revealed",
+      "synopsis": "Never-before-seen stories are told as the Beverly Hills vault is opened. Getting primped in her hotel room, Eileen wonders if she really wants to win an Emmy. Kyle’s daughter Portia decides to pursue her own acting career, while Lisa Rinna’s daughter Delilah helps her mom prepare for an upcoming movie. Outside Amsterdam, the women probe into Yolanda’s past, and back in Beverly Hills, Kim confronts Lisa Rinna about threatening texts she sent.",
+      "runtime": 44,
+      "season_id": 5,
+      "episode": 23,
+      "air_date": "04/21/2015"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 471,
+    "fields": {
+      "title": "Secrets Revealed",
+      "synopsis": "When the Beverly Hills vault is opened, Erika Jayne's latest sexy video is revealed, as is the hard work that goes into preparing for a big show. Eileen's 'inner Erika' comes out on a shopping trip, while Lisa Rinna comes clean about using a strap-on. Kyle is frustrated by a spending spree Portia went on by mistake, and Yolanda's daughter, supermodel Gigi Hadid, shares a common interest with Erika's husband, Tom.",
+      "runtime": 44,
+      "season_id": 6,
+      "episode": 24,
+      "air_date": "05/10/2016"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 472,
+    "fields": {
+      "title": "Secrets Revealed",
+      "synopsis": "In never-before-seen footage from Beverly Hills, Teddi goes shopping for a new sports car with her husband and is shocked by its high speed – and its high price tag! Dorit and her bestie, Boy George, are curious about Teddi’s job. Erika and Camille are slightly mortified when Lisa Rinna makes a questionable joke about Lisa Vanderpump. Kyle plans to build a new beach house in Mexico. Camille's search for the perfect gift for Dorit takes her to the Museum of Sex in New York City.",
+      "runtime": 44,
+      "season_id": 8,
+      "episode": 22,
+      "air_date": "05/15/2018"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 473,
+    "fields": {
+      "title": "Secrets Revealed",
+      "synopsis": "In never-before-seen footage from Season 10, the story behind Denise's “Bravo, Bravo, F---ing Bravo” moment is finally revealed. Dorit faces mediation for her highly publicized lawsuit. Garcelle's new house is threatened by wild fires. Meanwhile, Lisa checks out a swanky Hollywood apartment with her daughter Amelia, and Erika hopes to stay in one piece after Kyle takes her for a spin in a vintage car.",
+      "runtime": 44,
+      "season_id": 10,
+      "episode": 20,
+      "air_date": "09/23/2020"
+    }
   }
 ]
