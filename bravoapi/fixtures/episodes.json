@@ -5974,5 +5974,197 @@
       "episode": 18,
       "air_date": "01/08/2013"
     }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 499,
+    "fields": {
+      "title": "Til Lies Do Us Part",
+      "synopsis": "Miami's hottest Housewives are back with a vengeance but alliances have changed and friendships have been shattered as longtime friends Adriana and Lea deal with the fallout from the scandal of a life time. When Lisa tries to get the group together to make amends, a shocking secret is revealed. Former Housewife Alexia Echevarria rejoins the ladies of the 305 to make things even hotter.",
+      "runtime": 44,
+      "season_id": 25,
+      "episode": 1,
+      "air_date": "08/12/2013"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 500,
+    "fields": {
+      "title": "Hurricane Adriana",
+      "synopsis": "The black clouds are rolling in as Adriana and Lea’s feud comes to a boiling head when the two finally meet in a stormy showdown. Joanna’s trip down the aisle may be in jeopardy after Romain pops a question of a different sort. And Lisa discovers that buying their dream property on the hottest island in Miami has become more like a nightmare.",
+      "runtime": 44,
+      "season_id": 25,
+      "episode": 2,
+      "air_date": "08/19/2013"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 501,
+    "fields": {
+      "title": "Booby-Trapped",
+      "synopsis": "Adriana and Lea continue to battle it out, leaving their relationship in ruins and firmly dividing the group of ladies in two. Lisa tries to reunite the warring women, only to have Joanna and Lea expose a web of deceit surrounding Adriana's marriage mayhem. Meanwhile, Alexia reveals a secret from her shocking past.",
+      "runtime": 44,
+      "season_id": 25,
+      "episode": 3,
+      "air_date": "08/26/2013"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 502,
+    "fields": {
+      "title": "'Black' Magic",
+      "synopsis": "Romain surprises Joanna with a new house and agrees to attend sex therapy; however things turn sour when he's a no show to their first session. Marysol has a session of her own with her long time psychic who tells her a shocking revelation regarding Elsa's health issues. Meanwhile, Lea reveals a surprising secret to Lisa about the details behind Adriana's web of lies. Later at Alexia's magazine cover party, French sparks fly when Frederic confronts Romain over a past issue that leaves Adriana fuming.",
+      "runtime": 44,
+      "season_id": 25,
+      "episode": 4,
+      "air_date": "09/02/2013"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 503,
+    "fields": {
+      "title": "A Cause for Concern",
+      "synopsis": "Lea's annual Gala has arrived, but this year not all of the ladies wish to RSVP. Peacekeeper Alexia secretly struggles to commit to an alliance, joining one side for a fabulous day at a Gay Polo match and planning to meet the other later at the Gala. Meanwhile, Lisa copes with the realization that she needs a surrogate if she wants a baby soon, but Lenny's insensitive attitude isn't sitting well with her.",
+      "runtime": 44,
+      "season_id": 25,
+      "episode": 5,
+      "air_date": "09/09/2013"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 504,
+    "fields": {
+      "title": "A Ple-thora of Lies",
+      "synopsis": "Lisa tries to navigate another visit from her infamous in-laws, but their family dinner turns into a heated discussion. Adriana and Lea continue to battle it out and their sons' long standing friendship is on the line as RJ's birthday party is around the corner. Meanwhile Joanna checks in with Marta to see if she can help out with some of the overwhelming wedding duties, but she's saddened to find out Marta has other priorities now. All the ladies are brought together under one renovated roof at Lea's house for a birthday party that is anything but typical.",
+      "runtime": 44,
+      "season_id": 25,
+      "episode": 6,
+      "air_date": "09/16/2013"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 505,
+    "fields": {
+      "title": "La La Land",
+      "synopsis": "Joanna finally gets help with her soon-to-be LA wedding, when Lisa and Lea join in on this girls' only LA trip. Back in Miami, Alexia finally comes to terms that her ex-husband's past is haunting her children's future, when Peter gets into trouble with the law. Adriana's fairy-tale wedding becomes a wedding planner's nightmare when she reveals costume changes for her guests. While Joanna checks out her new couture wedding dress, Lisa and Lea discover they have something in common -- their love for BIRKINS!",
+      "runtime": 44,
+      "season_id": 25,
+      "episode": 7,
+      "air_date": "09/23/2013"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 506,
+    "fields": {
+      "title": "Mama Elsa Comes Home",
+      "synopsis": "Seeking some peace so they can focus on their wedding plans, Joanna and Adriana meet up to put an end to their ongoing feud. Meanwhile, Elsa returns home from the hospital and proves to be as feisty as ever. Joanna finally gets Romain to sex therapy where the therapist assigns them some provocative homework. Alexia and Peter visit an important place from their past in order to work through his anger issues. And Marysol plans a sophisticated bachelorette party for Adriana, but Adriana and Lisa have their own plans — back yard fires and unwanted strippers.",
+      "runtime": 44,
+      "season_id": 25,
+      "episode": 8,
+      "air_date": "09/30/2013"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 507,
+    "fields": {
+      "title": "Birkin Buddies",
+      "synopsis": "AAs Adriana botoxes her prince and makes unreasonable demands on her guests, Marysol and Alexia plot to stop the Brazilian Bridezilla from ruining her dream wedding. Romain and Joanna discover there's more to their sex problems than meets the eye, and Marysol confronts Lea at Alexia's birthday party about not reaching out to Elsa. But Lisa vehemently comes to Lea's defense in a way we've never seen her before.",
+      "runtime": 44,
+      "season_id": 25,
+      "episode": 9,
+      "air_date": "10/07/2013"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 508,
+    "fields": {
+      "title": "Brazilian Bridezilla",
+      "synopsis": "After six years of romantic bliss, Adriana and Frederic finally get to consummate their marriage license among the eyes of the church. With all eyes on Adriana, wedding bells transform this Brazilian beauty into a blustering Bridezilla. As her bridesmaids try not to sing the blues, Adriana's guests are forced to anxiously wait for the bride-to-be.",
+      "runtime": 44,
+      "season_id": 25,
+      "episode": 10,
+      "air_date": "10/14/2013"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 509,
+    "fields": {
+      "title": "The Black Sheep",
+      "synopsis": "Despite Lea's lack of enthusiasm, she and RJ must make their routine trip back home to Texas and brings Lisa along for the ride. Alexia reflects back on the last 10 years as she celebrates her wedding anniversary with Herman, but Marysol is not feeling so festive as she breaks down about her mother's deteriorating health. Meanwhile, Joanna and Romain receive some unexpected news from Romain's parents when they announce their wedding date, but Romain tries to make things better when he shocks his future bride with a big surprise.",
+      "runtime": 44,
+      "season_id": 25,
+      "episode": 11,
+      "air_date": "10/21/2013"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 510,
+    "fields": {
+      "title": "Bridesmaid Breakdown",
+      "synopsis": "After Lisa's trip to Texas, she's more committed than ever to tearing down Lea's walls and getting her and Adriana back together. Meanwhile Joanna is feeling the pressure of planning her wedding and takes it out on Lisa in a blowout that makes Lisa question her friendship with her. And after months of feuding, Adriana and Lea finally meet at her ballroom reveal party and hash out their issues, but will it be the happy ending they've all been looking for?",
+      "runtime": 44,
+      "season_id": 25,
+      "episode": 12,
+      "air_date": "10/28/2013"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 511,
+    "fields": {
+      "title": "Blame It on the Alcohol",
+      "synopsis": "It's Joanna's last night being single and the girls go to Vegas to celebrate. Adriana meets resistance when she tries to mend fences with Lea. Everyone is shocked to see Joanna and Adriana start to bond, but when the drinks start to flow, Lisa's erratic behavior starts to get on the ladies' nerves.",
+      "runtime": 44,
+      "season_id": 25,
+      "episode": 13,
+      "air_date": "11/03/2013"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 512,
+    "fields": {
+      "title": "Mrs. Zago",
+      "synopsis": "In the season finale, the ladies race to get Joanna to the altar while Romain anxiously waits for his bride-to-be. Lisa and Alexia get some good news and Adriana sees a new side to Lea that changes everything.",
+      "runtime": 44,
+      "season_id": 25,
+      "episode": 14,
+      "air_date": "11/04/2013"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 513,
+    "fields": {
+      "title": "Reunion Part 1",
+      "synopsis": "The ladies of Miami reunite to set the record straight on some of the most talked about antics of the season. Joanna and Lisa's perfect friendship turns sour when Joanna goes below the belt by blaming Lisa's fertility issue on her partying lifestyle. Alexia struggles to see both sides of the couch, but doesn't hold anything back when Lisa questions Alexia's motives. While Adriana defends herself again and again on her secret marriage, Lea continues to break Adriana's olive branch.",
+      "runtime": 44,
+      "season_id": 25,
+      "episode": 15,
+      "air_date": "11/11/2013"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 514,
+    "fields": {
+      "title": "Reunion Part 2",
+      "synopsis": "Lisa is on the attack, after Joanna makes accusations about her, ready to reveal skeletons in her closet. Special guest, Marysol Patton joins the ladies on Elsa's wavering condition and gets to the bottom of her feud with Lea once and for all. And it seems there is still a very clear division between the Latinas and the Gringas, and neither side is backing down.",
+      "runtime": 44,
+      "season_id": 25,
+      "episode": 16,
+      "air_date": "11/14/2013"
+    }
   }
 ]
