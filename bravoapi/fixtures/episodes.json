@@ -4780,11 +4780,287 @@
     "pk": 399,
     "fields": {
       "title": "Reunion Part 3",
-      "synopsis": "The Vanderpump Rules reunion comes to a dramatic close as Stassi and Katie argue with Kristen over her tumultuous relationship with Carter, Jax answers for his bad behavior toward Brittany's family, and Scheana reveals the surprising results of her penguin gift to “best friend” Adam. Stassi’s boyfriend Beau Clark makes an appearance and opens up about their dramatic fights in Mexico and the future of their relationship. Tom Schwartz defends his manhood, while Jax discusses whether his own mother will be invited to his wedding, and Lisa warns James that his outbursts and aggression may cause him to lose what little support he has left.",
+      "synopsis": "The Vanderpump Rules reunion comes to a dramatic close as Stassi and Katie argue with Kristen over her tumultuous relationship with Carter, Jax answers for his bad behavior toward Brittany's family, and Scheana reveals the surprising results of her penguin gift to “best friend” Adam. Stassi's boyfriend Beau Clark makes an appearance and opens up about their dramatic fights in Mexico and the future of their relationship. Tom Schwartz defends his manhood, while Jax discusses whether his own mother will be invited to his wedding, and Lisa warns James that his outbursts and aggression may cause him to lose what little support he has left.",
       "runtime": 44,
       "season_id": 19,
       "episode": 24,
       "air_date": "05/20/2019"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 400,
+    "fields": {
+      "title": "There Goes the Neighborhood",
+      "synopsis": "In the season eight premiere, Jax, Brittany, Schwartz, Katie, Sandoval and Ariana all move into their very first “grown-up” houses, while Stassi struggles to rebuild her broken friendship with Kristen. Newly sober Lala confides in Lisa Vanderpump about her desire to make amends with an old friend, and TomTom general manager Max breaks the rules by dating the new hostess, Dayna—much to his ex-girlfriend Scheana's dismay. Finally, Jax retaliates when Tom Sandoval skips one of his wedding events.",
+      "runtime": 44,
+      "season_id": 20,
+      "episode": 1,
+      "air_date": "01/07/2020"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 401,
+    "fields": {
+      "title": "Training Days",
+      "synopsis": "Scheana claims she no longer has feelings for her ex Max, but when the new server Dayna starts dating him, Scheana makes Dayna's life at SUR very difficult. Stassi, Katie and Brittany grow frustrated with Kristen's refusal to cut ties with Carter, so Jax takes it upon himself to disinvite Carter from the bachelor/bachelorette trip to Miami. After an icy year of animosity, Lala and James finally find a way to put their differences aside, and Ariana opens up to Lisa Vanderpump about her struggles with depression.",
+      "runtime": 44,
+      "season_id": 20,
+      "episode": 2,
+      "air_date": "01/14/2020"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 402,
+    "fields": {
+      "title": "Next Level Rage Texts",
+      "synopsis": "Stassi throws a book party at TomTom, but when Sandoval rage texts her for excluding him from the planning, it leads to an epic explosion between the two and forces Schwartz to pick sides between his two friends. Scheana bonds with new SUR server Charli over their mutual dislike for Dayna, while Dayna and Max's relationship continues to blossom. Finally, with Lisa Vanderpump away on a business trip, Schwartz must try to mend the rift in his friend group before everyone heads to Miami to celebrate Jax and Brittany.",
+      "runtime": 44,
+      "season_id": 20,
+      "episode": 3,
+      "air_date": "01/21/2020"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 403,
+    "fields": {
+      "title": "Don't Do It, Brittany",
+      "synopsis": "When the group heads to Miami for a wild bachelor/bachelorette party weekend, Beau confronts Sandoval for attacking Stassi at her book signing. Meanwhile, Ariana accuses Schwartz of not pulling his weight at TomTom, and Brittany has a meltdown triggered by an unexpected reminder of Jax's infidelity. Back in Los Angeles, Lisa Vanderpump conducts her own investigation into what went wrong at TomTom, and Dayna turns to Lisa for advice on how to handle Scheana.",
+      "runtime": 44,
+      "season_id": 20,
+      "episode": 4,
+      "air_date": "01/28/2020"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 404,
+    "fields": {
+      "title": "Grumpy Old Men",
+      "synopsis": "Jax and Brittany's dual bachelor/bachelorette trip charges on as Sandoval, Schwartz, Jax, and Beau plan a surprise disguise for the girls, while Stassi finds herself caught in the middle of a friendship-ending fight between Katie and Kristen. Back at SUR, Danica warns Dayna about Max's reputation as a womanizer, while Lisa Vanderpump must decide whether to allow volatile James Kennedy to DJ at TomTom for Gay Pride.",
+      "runtime": 44,
+      "season_id": 20,
+      "episode": 5,
+      "air_date": "02/04/2020"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 405,
+    "fields": {
+      "title": "Your Pride's Showing",
+      "synopsis": "Schwartz and Sandoval gear up for TomTom's first Gay Pride celebration, but their decision to hire James as DJ backfires when he gets Raquel in trouble at SUR and Lisa suspects he is drinking again. Meanwhile, Dayna finally stands up to Scheana, Lisa helps Ariana come to terms with depression, Jax fumbles through the busiest day at SUR, and Scheana tries to convince everyone that she's in no way jealous of Dayna.",
+      "runtime": 44,
+      "season_id": 20,
+      "episode": 6,
+      "air_date": "02/11/2020"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 406,
+    "fields": {
+      "title": "It's Not About the Pastor",
+      "synopsis": "Stassi, Katie, and Lala throw Brittany a princess-themed bridal shower, while James gets disinvited from Peter's birthday party. Lisa Vanderpump takes Raquel to task for walking out on her shift during Pride, and Dayna and Max decide to take the next step in their relationship. Finally, when a scandal erupts concerning Jax and Brittany's pastor, Sandoval and Ariana take a moral stance that threatens to tear the bridal parties apart and ruin their friendships forever.",
+      "runtime": 44,
+      "season_id": 20,
+      "episode": 7,
+      "air_date": "02/18/2020"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 407,
+    "fields": {
+      "title": "Ex-Best Man, Ex-Best Friend",
+      "synopsis": "In the wake of their explosive fight, Jax kicks Sandoval out of his wedding party and considers disinviting him from Kentucky completely. Meanwhile, Ariana pushes Lala and Stassi away as she spirals into a dark place, Scheana sabotages Brett and Charli's date, Brittany must figure out if Ariana is still her bridesmaid, and Lisa Vanderpump receives some devastating news.",
+      "runtime": 44,
+      "season_id": 20,
+      "episode": 8,
+      "air_date": "02/25/2020"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 408,
+    "fields": {
+      "title": "If You're Going to Drink, I Can't Stop You",
+      "synopsis": "With the wedding in Kentucky days away, Jax must decide whether or not to forgive Tom Sandoval, while Ariana struggles to find the enthusiasm to attend her own birthday party. Katie and Kristen argue over whether Carter should attend the wedding, while Charli accuses Brett of being hung up on his ex. Finally, after James sends Raquel a string of hurtful text messages, Raquel gives James an ultimatum either to give up drinking or lose her forever.",
+      "runtime": 44,
+      "season_id": 20,
+      "episode": 9,
+      "air_date": "03/03/2020"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 409,
+    "fields": {
+      "title": "Jax's Last Hurrah",
+      "synopsis": "On the eve of Jax and Brittany's wedding, the rehearsal dinner is disrupted when Stassi, Katie, and Lala clash with Kristen, and Jax spills a juicy secret about Katie and Schwartz's marriage. Meanwhile, back in Los Angeles, Lisa Vanderpump orchestrates a big surprise for the bride and groom, Dayna learns that Max may have cheated on her, and James and Max have a boys' night to commiserate over their girl troubles.",
+      "runtime": 44,
+      "season_id": 20,
+      "episode": 10,
+      "air_date": "03/10/2020"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 410,
+    "fields": {
+      "title": "Introducing Mr. and Mrs. Cauchi",
+      "synopsis": "Jax and Brittany tie the knot in a lavish Kentucky ceremony surrounded by friends, while Stassi questions if Beau will ever propose to her at all. Lisa takes Katie and Schwartz to task for failing to make their marriage official, Sandoval throws himself into his best man duties to prove himself to Jax, and Kristen clashes with Carter over the future of their relationship. Back at SUR, Danica tries to talk Dayna out of giving Max another chance.",
+      "runtime": 44,
+      "season_id": 20,
+      "episode": 11,
+      "air_date": "03/17/2020"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 411,
+    "fields": {
+      "title": "All Daugs Go to Heaven",
+      "synopsis": "Tom Sandoval throws an “extra” themed birthday party to encourage his friends to be their best selves, while Stassi and Katie learn they must work with Kristen even though their friendship has ended. Max tries to ban Danica from TomTom for meddling in his relationship, Lisa reconnects with James in the wake of his new sobriety, and Lala's attempt to make amends with Raquel doesn't go as planned.  And Tom Schwartz hosts an unusual memorial for his dead lizard, Daug.",
+      "runtime": 44,
+      "season_id": 20,
+      "episode": 12,
+      "air_date": "03/24/2020"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 412,
+    "fields": {
+      "title": "Prank Wars",
+      "synopsis": "Brett insults Scheana while interviewing her for his YouTube channel, while Katie hosts a girls' night complete with wine, cheese, and a guest list that doesn't include Kristen. Raquel stands up for her boyfriend James when Lala questions his sobriety, and Lisa travels home to England to attend her mother's funeral. Finally, Tom Sandoval and Max toilet paper Jax's house in honor of his 40th birthday, but their actions spark the beginning of an epic prank battle that threatens to derail Schwartz and Katie's relationship.",
+      "runtime": 44,
+      "season_id": 20,
+      "episode": 13,
+      "air_date": "03/31/2020"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 413,
+    "fields": {
+      "title": "Shame Hangover",
+      "synopsis": "Schwartz makes amends with Katie after their blowout fight, while Beau opens up to them about his plans to propose to Stassi. Lisa reprimands Danica about improving her attitude, Kristen learns she isn't invited to Las Vegas for Schwartz and Katie's second wedding, and Brett sets his sights on a newly single Dayna, despite Scheana's emotional objections.",
+      "runtime": 44,
+      "season_id": 20,
+      "episode": 14,
+      "air_date": "04/07/2020"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 414,
+    "fields": {
+      "title": "Mr. & Mrs. Schwartz Take Two",
+      "synopsis": "The group travels to Las Vegas to celebrate Schwartz and Katie's second wedding, but leave a heartbroken Kristen behind. Lisa shows off the Vanderpump Cocktail Garden, Beau calls Stassi's father to ask permission to propose, Schwartz finds a bra in his bag that doesn't belong to Katie, and Max sets his sights on a cocktail waitress who looks eerily similar to Scheana. Meanwhile, back in Los Angeles, Dayna and Brett grow closer during a double date with James and Raquel.",
+      "runtime": 44,
+      "season_id": 20,
+      "episode": 15,
+      "air_date": "04/14/2020"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 415,
+    "fields": {
+      "title": "Witches of WeHo Whine",
+      "synopsis": "Lisa helps Beau plan a secret engagement party for Stassi, but Stassi's insecurities threaten everything when she explodes on Kristen at a wine event. Meanwhile, Lala and James make music together and bond over their sobriety struggles, Danica takes Brett to task for dating his friend's ex, and Scheana presents Dayna with an unwanted gift.",
+      "runtime": 44,
+      "season_id": 20,
+      "episode": 16,
+      "air_date": "04/21/2020"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 416,
+    "fields": {
+      "title": "Til Death Do Us Not Part",
+      "synopsis": "Beau stuns Stassi with a quirky but romantic engagement proposal, and when Lisa hosts an elaborate party to celebrate the happy couple, Jax and Brittany comfort Kristen when she's left out of the festivities. Finally, Danica and the SUR staff go head to head with Sandoval, Schwartz, and the team from TomTom during an epic softball game to determine restaurant dominance, ending with James giving Katie the apology she's always wanted.",
+      "runtime": 44,
+      "season_id": 20,
+      "episode": 17,
+      "air_date": "04/28/2020"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 417,
+    "fields": {
+      "title": "Mercury's in Gatorade",
+      "synopsis": "Stassi and Beau revel in their post-engagement bliss, while Scheana enlists Brett to a shoot a sexy video. Brittany must again answer for Jax's bad behavior when he lashes out at Max, and Raquel tries to persuade Lisa to give James one last chance. Finally, when Kristen refuses to admit she made a sex tape with someone other than Carter, Jax begins to spiral out of control and no one is safe from his wrath.",
+      "runtime": 44,
+      "season_id": 20,
+      "episode": 18,
+      "air_date": "05/05/2020"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 418,
+    "fields": {
+      "title": "A Tale of Two Pool Parties",
+      "synopsis": "Tom Sandoval throws a competing pool party on the same day as Jax, forcing everyone to choose sides once and for all. Brittany blames Katie for the rift in their friendship, while Max and Brett nearly come to blows over their feelings for Dayna. Schwartz and Sandoval must decide whether to double down on their investment with Lisa, James makes a surprising ally, and Ariana erupts when Kristen tells her that Stassi has been making fun of her house.",
+      "runtime": 44,
+      "season_id": 20,
+      "episode": 19,
+      "air_date": "05/12/2020"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 419,
+    "fields": {
+      "title": "Unfriended",
+      "synopsis": "In the eighth season finale, Lisa Vanderpump throws a party to celebrate TomTom's one-year anniversary, but relationships are tested when Kristen confronts Katie and Stassi for abandoning her, and Jax and Sandoval face off over the future of their friendship. Meanwhile, Dayna calls out Max's womanizing ways, Brett confronts Scheana for stirring the pot, and Danica gets into a physical altercation. Finally, after years of hostility - Lala arranges for James and Randall to have a man-to-man talk.",
+      "runtime": 44,
+      "season_id": 20,
+      "episode": 20,
+      "air_date": "05/19/2020"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 420,
+    "fields": {
+      "title": "Reunion Part 1",
+      "synopsis": "In the explosive first hour of the 'Vanderpump Rules' reunion, Andy Cohen and the cast connect from home to get to the bottom of everything from Jax and Sandoval's friendship-ending feud to the biggest fight of Katie and Schwartz's married life. Stassi and Beau grill Sandoval about his outburst over her book event, Charli and Scheana accuse Jax of bullying the new SUR employees, and Max drops a major bombshell about a secret hookup with yet another woman in the 'Vanderpump Rules' universe that no one saw coming.",
+      "runtime": 44,
+      "season_id": 20,
+      "episode": 21,
+      "air_date": "06/02/2020"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 421,
+    "fields": {
+      "title": "Reunion Part 2",
+      "synopsis": "The shocking reunion continues as Andy Cohen gets Scheana to open up about her true problems with Dayna, and Ariana reveals how Lisa Vanderpump helped her through dark depression. Meanwhile, James and Raquel recount his triumphant journey to sobriety, Lala gets called out for being cruel to those who won't fight back, Danica defends her outburst at the TomTom anniversary, and Stassi, Katie, and Kristen get to the root of the issues that fractured their decade-long friendship.",
+      "runtime": 44,
+      "season_id": 20,
+      "episode": 22,
+      "air_date": "06/09/2020"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 422,
+    "fields": {
+      "title": "Reunion Part 3",
+      "synopsis": "The reunion comes to an exhilarating close as Stassi explains the reasoning behind her embarrassing 'bridezilla' behavior, Scheana and Brett argue over their infamous sexy music video, Lisa passes judgment on Max and Danica's feud, and James discusses having to apologize to Randall after years of viciously mocking him. Finally, Jax and Brittany lash out at Andy Cohen and anyone who holds Jax accountable for his behavior.",
+      "runtime": 44,
+      "season_id": 20,
+      "episode": 23,
+      "air_date": "06/16/2020"
     }
   }
 ]
