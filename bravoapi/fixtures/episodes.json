@@ -4276,7 +4276,7 @@
     "pk": 357,
     "fields": {
       "title": "See You Next Tuesday",
-      "synopsis": "Ariana's role in releasing Jax's scandalous audio recording leads to a fight with Sandoval that threatens their relationship, while Scheana and Katie strike a truce to stay out of each other's relationships. At SUR, James hustles to make sure his first DJ event is a smashing success, Lisa marvels at Brittany’s dedication to Jax, and Lala bonds with Billie, the restaurant's new hostess.",
+      "synopsis": "Ariana's role in releasing Jax's scandalous audio recording leads to a fight with Sandoval that threatens their relationship, while Scheana and Katie strike a truce to stay out of each other's relationships. At SUR, James hustles to make sure his first DJ event is a smashing success, Lisa marvels at Brittany's dedication to Jax, and Lala bonds with Billie, the restaurant's new hostess.",
       "runtime": 44,
       "season_id": 18,
       "episode": 6,
@@ -5061,6 +5061,426 @@
       "season_id": 20,
       "episode": 23,
       "air_date": "06/16/2020"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 423,
+    "fields": {
+      "title": "We're Back, Baby",
+      "synopsis": "In the ninth season premiere, Scheana and Lala attempt to mend their friendship after an explosive public feud, while James must answer to Lisa Vanderpump for lashing out at her son. The Toms hatch a plan to open their own bar, but tensions flare when Katie questions Sandoval's vision. Finally, Ariana refuses to back down when Lala trashes her, ending in a fiery confrontation at Scheana's birthday party.",
+      "runtime": 44,
+      "season_id": 21,
+      "episode": 1,
+      "air_date": "09/28/2021"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 424,
+    "fields": {
+      "title": "The Schwartz Shuffle",
+      "synopsis": "Schwartz comes clean about pitting Katie against Sandoval, while Ariana confides in Lisa Vanderpump about her deep-seated issues with Lala. Sandoval helps James plan an epic vacation to Palm Springs so he can propose to Raquel, but Randall's beef with Schwartz and Lala's feuds with Ariana and Charli threaten to derail the trip.",
+      "runtime": 44,
+      "season_id": 21,
+      "episode": 2,
+      "air_date": "10/05/2021"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 425,
+    "fields": {
+      "title": "Welcome to Rachella!",
+      "synopsis": "Schwartz tries to regain his confidence at Lala and Randall's pickleball tournament, while Raquel is forced to face her biggest fear; Scheana and Lala share a baby play date.",
+      "runtime": 44,
+      "season_id": 21,
+      "episode": 3,
+      "air_date": "10/12/2021"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 426,
+    "fields": {
+      "title": "Palm Springs and Tiffany Rings",
+      "synopsis": "Sandoval goes the extra mile to help Schwartz produce his fertility specimen, while Lala expresses concerns to Scheana over Brock's sordid past. James and Raquel host a family engagement dinner, but Raquel's sister worries Raquel will spend her life fixing James's problems. And when Lisa inquires about Katie's role in the Toms' new business, an explosive argument erupts between Sandoval and Katie, leaving Schwartz torn between his wife and his best friend.",
+      "runtime": 44,
+      "season_id": 21,
+      "episode": 4,
+      "air_date": "10/19/2021"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 427,
+    "fields": {
+      "title": "Drink the Tea, Spill the Tea",
+      "synopsis": "James encourages Raquel to confront her biggest bully, while Katie and Schwartz consult a fertility doctor about their chances of conceiving. Lisa Vanderpump hosts an elegant tea party at Villa Rosa so she can meet Scheana and Lala's babies, but the afternoon is turned upside down when Lala exposes a dark new secret about Brock's character.",
+      "runtime": 44,
+      "season_id": 21,
+      "episode": 5,
+      "air_date": "10/26/2021"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 428,
+    "fields": {
+      "title": "Poker Face",
+      "synopsis": "Lala comes under fire during a girls' night for continuing to question Scheana's relationship, while Brock must answer to Lisa Vanderpump after the darkness in his past is revealed. Raquel takes James to a boxing class to work on his anger, Randall hosts a poker night for the guys, and Lisa offers to buy Tom Schwartz's stake in TomTom so he can afford to invest in his new bar.",
+      "runtime": 44,
+      "season_id": 21,
+      "episode": 6,
+      "air_date": "11/02/2021"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 429,
+    "fields": {
+      "title": "Anger Mismanagement",
+      "synopsis": "Schwartz and Sandoval brainstorm ideas for their bar, while Raquel comes clean to Lisa about the story behind her nose job, much to James' dismay. Charli excludes Lala from her party in solidarity with Scheana, and when everyone parties too hard for James' comfort, he lashes out at his unsuspecting fianceé.",
+      "runtime": 44,
+      "season_id": 21,
+      "episode": 7,
+      "air_date": "11/09/2021"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 430,
+    "fields": {
+      "title": "Pitch Not-So-Perfect",
+      "synopsis": "Katie makes a splash at Schwartz and Sandoval's pitch meeting, much to Sandoval's dismay, while Ariana coaches Raquel on how to set boundaries with James. Lala finally makes amends with Scheana after their rift, but Brock and Charli aren't so quick to forgive and forget.",
+      "runtime": 44,
+      "season_id": 21,
+      "episode": 8,
+      "air_date": "11/16/2022"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 431,
+    "fields": {
+      "title": "It's a Mad, Mad Pool Party",
+      "synopsis": "Scheana struggles to accept her post-baby body, while James sets a new goal for himself as his two-year sobriety anniversary approaches. Ariana and Sandoval throw a wild pool party to celebrate Brock's birthday, but when Sandoval and Katie clash over the future of the bar, Lala confronts Schwartz for failing to have his wife's back.",
+      "runtime": 44,
+      "season_id": 21,
+      "episode": 9,
+      "air_date": "11/30/2021"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 432,
+    "fields": {
+      "title": "Sexy Unique Feet",
+      "synopsis": "Ariana, Katie, and Charli get creative with a photoshoot to help raise money for Raquel's second nose job, while Scheana gets annoyed at James for refusing to help out with Brock's new fitness app, and Schwartz must pay up when he loses a bet to Lisa Vanderpump. Lala and Ariana show their support for Katie after she's ousted from the Toms' new bar, and when Raquel hosts a tea party for her friends, things go awry after Charli confronts Scheana for being a bad friend.",
+      "runtime": 44,
+      "season_id": 21,
+      "episode": 10,
+      "air_date": "12/07/2021"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 433,
+    "fields": {
+      "title": "Best Friends For Never",
+      "synopsis": "Sandoval plans a mysterious surprise for Ariana's 36th birthday, while Katie seeks advice from Lisa after a blowout fight at TomTom. Brock encourages Scheana to stick up for herself with Charli, Lala hires a personal assistant to help with her business, and a usually happy couple decides to take a 'break' from their relationship.",
+      "runtime": 44,
+      "season_id": 21,
+      "episode": 11,
+      "air_date": "12/14/2021"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 434,
+    "fields": {
+      "title": "Give Them Lala",
+      "synopsis": "Katie and Ariana decide to go into business together, while Brock enlists Randall's help in planning a romantic surprise for Scheana, and Lala celebrates her fiscal independence by throwing a party for her beauty brand. Meanwhile, James must battle his controlling impulses when Raquel's sister suggests a bachelorette party for the future bride but finds it hard to keep his opinions to himself.",
+      "runtime": 44,
+      "season_id": 21,
+      "episode": 12,
+      "air_date": "12/28/2021"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 435,
+    "fields": {
+      "title": "Unprogress Party",
+      "synopsis": "Schwartz and Sandoval use their 'friendship break' as an excuse to see other people, but when construction delays the opening date of their new bar, the two throw a progress party to show off the space to their friends. Meanwhile, with Lisa's help, Ariana and Katie brainstorm ideas for their sandwich shop; Scheana embraces signing a prenup; and Brock's attempt to hold James accountable backfires and leaves everyone standing speechless.",
+      "runtime": 44,
+      "season_id": 21,
+      "episode": 13,
+      "air_date": "01/04/2022"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 436,
+    "fields": {
+      "title": "Between a Brock and a Hard Place",
+      "synopsis": "Ariana and Katie meet with Randall about investing in their sandwich shop, while Sandoval gets cold feet about helping Brock with his latest scheme to marry Scheana. Still reeling from James' latest outburst, the gang heads north to a beautiful winery in Santa Ynez to celebrate James and Raquel's engagement, but everyone worries which version of the DJ they're going to get.",
+      "runtime": 44,
+      "season_id": 21,
+      "episode": 14,
+      "air_date": "01/11/2022"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 437,
+    "fields": {
+      "title": "Engagement Party Crashers",
+      "synopsis": "On the eve of Raquel and James' engagement party, Scheana and Brock make a big announcement that sends shock waves through their friend group, while Sandoval confronts Lisa about her lack of support for the Toms' new bar. Meanwhile, Katie and Ariana get some good news about their own business, Raquel has a heart-to-heart with her father about her relationship with James, and Lala reveals a huge secret that turns the party on its head.",
+      "runtime": 44,
+      "season_id": 21,
+      "episode": 15,
+      "air_date": "01/18/2022"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 438,
+    "fields": {
+      "title": "Reunion Part 1",
+      "synopsis": "In the explosive first hour of the Vanderpump Rules reunion, Raquel and James make a jaw-dropping announcement that shakes their friends to the core, while Sandoval and Katie clash over their control issues about the bar and Tom Schwartz. Charli calls out Scheana for placing restrictions on their friendship, while Lisa opens up about becoming a grandmother for the first time, and Brock attempts to hold James accountable for his anger issues.",
+      "runtime": 44,
+      "season_id": 21,
+      "episode": 16,
+      "air_date": "01/25/2022"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 439,
+    "fields": {
+      "title": "Reunion Part 2",
+      "synopsis": "TThe season nine reunion comes to an electrifying conclusion as Brock and Scheana defend their plan to get married during James and Raquel's engagement weekend. Lala spills scandalous secrets about the end of her relationship with Randall, and Ariana unleashes on Katie for questioning her integrity. Finally, James and Raquel share an emotional moment before going their separate ways.",
+      "runtime": 44,
+      "season_id": 21,
+      "episode": 17,
+      "air_date": "01/26/2022"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 440,
+    "fields": {
+      "title": "Breaking Bubbas",
+      "synopsis": "In the Season 10 premiere, Katie and Schwartz attempt to maintain a friendship in the wake of their recent divorce. Lala finds herself reeling after shocking allegations are levied at her ex-fiancé. James introduces new girlfriend Ally to the rest of the group, but when his sobriety comes into question, he has to answer to Lisa Vanderpump. Tensions between Schwartz and Lala bubble over when one of them commits the ultimate act of betrayal.",
+      "runtime": 44,
+      "season_id": 22,
+      "episode": 1,
+      "air_date": "02/08/2023"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 441,
+    "fields": {
+      "title": "Was It Worth It?",
+      "synopsis": "Tom and Tom race to get Schwartz & Sandy's ready for its first private event. Raquel cozies up to SUR manager Peter in an attempt to get over James. Lala opens up about the controversial origins of her last relationship. James throws Raquel under the bus to Lisa. Katie reaches her breaking point when she comes face to face with the bar that led to the demise of her marriage.",
+      "runtime": 44,
+      "season_id": 22,
+      "episode": 2,
+      "air_date": "02/15/2023"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 442,
+    "fields": {
+      "title": "Troll Mates",
+      "synopsis": "Lala drops a bombshell on Raquel that shakes the foundation of their newfound friendship. Sandoval takes some time away from the bar to play rockstar with his cover band, Tom Sandoval & The Most Extras. Ariana and Katie take the next step in opening their sandwich shop. James schemes to get some time with Raquel's dog, Graham. Scheana interviews Schwartz about his divorce for her podcast, leading to an explosive showdown with Katie.",
+      "runtime": 44,
+      "season_id": 22,
+      "episode": 3,
+      "air_date": "02/22/2023"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 443,
+    "fields": {
+      "title": "No Home Left to Wreck",
+      "synopsis": "James finds himself at the center of the SUR rumor mill when he gets kicked out of a nightclub while fighting with Ally. Katie tries to keep her ex in line with another ultimatum. Tom and Tom host a friends-and-family event at Schwartz & Sandy's, but when Lisa questions them about the bar's status, they come clean about their dire situation. Despite Katie's feelings, Raquel throws caution to the wind and crosses the ultimate line.",
+      "runtime": 44,
+      "season_id": 22,
+      "episode": 4,
+      "air_date": "03/01/2023"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 444,
+    "fields": {
+      "title": "Lovestruck at the Discopussy",
+      "synopsis": "Katie plans a “divorce party” trip to Las Vegas and Lake Havasu but conveniently leaves Scheana off the guest list. Lala and Raquel find themselves flirting with the same guy. Ariana receives devastating news from home. James attempts to minimize his drinking around his mom but finds himself reeling when Ally raises the same concerns. After discovering the Toms' financial issues, Lisa and Ken make them an offer they might be desperate enough to accept.",
+      "runtime": 44,
+      "season_id": 22,
+      "episode": 5,
+      "air_date": "03/08/2023"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 445,
+    "fields": {
+      "title": "Divorce Party Crashers",
+      "synopsis": "Lala and Katie freak out at Raquel for making out with Oliver. Back in Los Angeles, Scheana plans a guys night to help Schwartz get back in the game. Tom and Tom weigh a big decision about the future of their bar. Lisa consoles Ariana about her loss. Charli’s arrival in Lake Havasu helps Raquel find her voice, leading to a friendship-ending fight.",
+      "runtime": 44,
+      "season_id": 22,
+      "episode": 6,
+      "air_date": "03/15/2023"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 446,
+    "fields": {
+      "title": "Galaxy Gaslighting",
+      "synopsis": "TJames starts to spiral when he feels that his friends are choosing Raquel over him. Lala breaks her yearslong dry spell when she hooks up with a new guy. Katie and Scheana clash over a hotel room snafu. Tom and Ariana host a pool party to bring their friends together, but Raquel uses it as an opportunity to finally confront Lala for sleeping with James.",
+      "runtime": 44,
+      "season_id": 22,
+      "episode": 7,
+      "air_date": "03/22/2023"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 447,
+    "fields": {
+      "title": "By Invitation Only",
+      "synopsis": "Lisa and Ariana plan a surprise bridal shower for Scheana. James makes it his mission to score Ally an invite to the wedding. Raquel and Schwartz take their flirting to the next level. When the group travels to Cancun to celebrate Brock and Scheana, Katie finds herself exiled to the other side of the resort. James gets into an altercation that leaves Ariana fuming.",
+      "runtime": 44,
+      "season_id": 22,
+      "episode": 8,
+      "air_date": "03/29/2023"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 448,
+    "fields": {
+      "title": "Forbidden Fruit",
+      "synopsis": "Katie and Schwartz celebrate a big milestone in their breakup with an extravagant dinner that quickly goes south. Scheana erupts on Lala for skipping wedding events to avoid Raquel. James must atone for his behavior when his temper gets the best of him. When Scheana and Brock throw a party to welcome all their guests to Cancun, Schwartz makes a romantic choice that jeopardizes his friendships.",
+      "runtime": 44,
+      "season_id": 22,
+      "episode": 9,
+      "air_date": "04/05/2023"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 449,
+    "fields": {
+      "title": "It’s All Happening… Again",
+      "synopsis": "Scheana and Brock marry in a lavish ceremony in Cancun. James and Katie must sort through their feelings after their exes hook up with one another. Lisa attempts to solve the Toms’ problems by smoothing things over with their business partner. Lala puts Raquel in her place, Schwartz and Sandoval experience a devastating setback, and Ariana tries to support her friends without taking sides.",
+      "runtime": 44,
+      "season_id": 22,
+      "episode": 10,
+      "air_date": "04/12/2023"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 450,
+    "fields": {
+      "title": "Mistress in Distress",
+      "synopsis": "Back in Los Angeles, Lala celebrates her birthday with an epic party. Raquel sets her sights on Oliver after being rejected by Schwartz. Tom and Ariana discuss their plans to make embryos together. Ally and James witness a suspicious interaction between two friends. Tom and Tom must reckon with the fact that their bar won’t open on schedule... again.",
+      "runtime": 44,
+      "season_id": 22,
+      "episode": 11,
+      "air_date": "04/19/2023"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 451,
+    "fields": {
+      "title": "Beach, Don't Kill My Vibe",
+      "synopsis": "Sandoval opens up to Schwartz about his romantic problems with Ariana. Scheana blames Katie for spreading a sordid rumor about some of their friends. Ariana suffers through her second big loss of the summer. James plans an epic beach day that takes a turn for the worse when Schwartz makes an insensitive joke.",
+      "runtime": 44,
+      "season_id": 22,
+      "episode": 12,
+      "air_date": "04/26/2023"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 452,
+    "fields": {
+      "title": "Lady and the Glamp",
+      "synopsis": "Raquel’s birthday dreams come true when she embarks on a glamping trip with some of her closest friends. Lala grows suspicious about Sandoval's interest in Raquel. James and Ally attempt to work out their issues following a disastrous beach day. Ariana staunchly defends her boyfriend until she catches him in a lie.",
+      "runtime": 44,
+      "season_id": 22,
+      "episode": 13,
+      "air_date": "05/02/2023"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 453,
+    "fields": {
+      "title": "There's Something About Her",
+      "synopsis": "As the summer comes to a close, Ariana and Katie host a preview party for their sandwich shop. James takes an exciting step forward in his career. Tom and Ariana have a serious talk about the state of their relationship. Raquel confronts Katie for rage-texting Schwartz, leading to a long-awaited showdown in the SUR alley.",
+      "runtime": 44,
+      "season_id": 22,
+      "episode": 14,
+      "air_date": "05/10/2023"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 454,
+    "fields": {
+      "title": "#Scandoval",
+      "synopsis": "Cameras pick back up after Ariana discovers that her boyfriend of nine years is having an affair with one of her best friends. Schwartz panics when the scandal threatens to upend their business. Katie accuses Schwartz of being complicit in hiding the truth. Raquel files for a restraining order against Scheana after an alleged altercation. Sandoval comes clean with another shocking secret.",
+      "runtime": 44,
+      "season_id": 22,
+      "episode": 15,
+      "air_date": "05/17/2023"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 455,
+    "fields": {
+      "title": "Reunion Part 1",
+      "synopsis": "In the explosive and larger-than-life first part of the reunion, Andy Cohen sits down for intimate one-on-one interviews with Ariana, Tom and Raquel to get to the bottom of the cheating scandal that shocked the world. James nearly comes to blows with Sandoval over the affair. Katie and Schwartz rehash the implosion of their divorce. Lala defends herself when the group calls attention to her stance on cheating. Lisa is left speechless when Ariana reveals her stance on her relationships in the group. Raquel watches the reunion from afar due to her restraining order against Scheana.",
+      "runtime": 44,
+      "season_id": 22,
+      "episode": 16,
+      "air_date": "05/24/2023"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 456,
+    "fields": {
+      "title": "Reunion Part 2",
+      "synopsis": "The Season 10 reunion continues as Andy Cohen presses Scheana for details of the altercation that led to Raquel’s restraining order. James’ girlfriend, Ally, takes the stage to discuss James’ temper and the future of their relationship. The group debates the origins of the infamous open relationship rumor. Scheana gives up her spot for Raquel, who must face the group for the first time since news of the affair became public.",
+      "runtime": 44,
+      "season_id": 22,
+      "episode": 17,
+      "air_date": "05/31/2023"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 457,
+    "fields": {
+      "title": "Reunion Part 3",
+      "synopsis": "The reunion comes to an electrifying close as Raquel faces her former friends. The group revisits the disastrous girls’ trip to Las Vegas and Lake Havasu. They discuss Tom Schwartz’s alleged role in covering up the affair. Ariana breaks down while discussing the betrayal from her ex-boyfriend and ex-best friend. Andy questions Sandoval and Raquel about the status of their relationship and pushes them to reveal if they’re in love.",
+      "runtime": 44,
+      "season_id": 22,
+      "episode": 18,
+      "air_date": "06/07/2023"
     }
   }
 ]
