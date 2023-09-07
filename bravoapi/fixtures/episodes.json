@@ -7894,5 +7894,245 @@
       "episode": 22,
       "air_date": "12/05/2021"
     }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 659,
+    "fields": {
+      "title": "Spring Awakening",
+      "synopsis": "Spring has sprung in Potomac, and the gossip is in full bloom! The word on the street is that the Darbys are divorcing, but Ashley's story doesn't quite add up. Wendy explores a new venture with Peter Thomas. Mia's murky social media behavior leaves the ladies wondering about the real status of her health. Karen hosts a 'Spring Fling Celebration of Life' extravaganza, but it's cut short when some of the ladies are confronted on their alleged lies.",
+      "runtime": 54,
+      "season_id": 34,
+      "episode": 1,
+      "air_date": "10/09/2022"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 660,
+    "fields": {
+      "title": "Allegation Nation",
+      "synopsis": "Karen's spring fling concludes with a whole lot of drama. Mia battles more than just a health scare when the ladies make a jarring allegation. A newly liberated Ashley hosts a sexy dance class for the ladies, but the fun comes to an end when Gizelle drops a bombshell allegation.",
+      "runtime": 54,
+      "season_id": 34,
+      "episode": 2,
+      "air_date": "10/16/2022"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 661,
+    "fields": {
+      "title": "Stand in Your Truth",
+      "synopsis": "Robyn loses her cool with Wendy and accuses her of being phony when it comes to Mia's alleged health scare. Gizelle's allegations against Chris leave Candiace furious and the Green-Eyed Bandits divided. Ashley begins her house-hunting journey but finds herself getting emotional in the process. Robyn asks Juan for a prenup, but things don't go as planned.",
+      "runtime": 43,
+      "season_id": 34,
+      "episode": 3,
+      "air_date": "10/23/2022"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 662,
+    "fields": {
+      "title": "Not All Fun and Games",
+      "synopsis": "Robyn hosts a family fun day for everyone and their kids but leaves out one of the ladies. Gizelle and Mia are unimpressed by Robyn's hosting skills. Karen falls unexpectedly ill after she catches sight of Charrisse. Ashley prepares to tell the world about her separation from Michael, but an unexpected surprise sends her into a tailspin.",
+      "runtime": 43,
+      "season_id": 34,
+      "episode": 4,
+      "air_date": "10/30/2022"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 663,
+    "fields": {
+      "title": "The Burn Session",
+      "synopsis": "In the aftermath of her divorce being leaked to the press, Ashley visits Candiace hoping to strengthen their budding friendship. Naturally, hot gossip is served. Gizelle and the girls discuss details of the twins' upcoming sweet 16 party. Robyn meets with a lawyer to discuss her prenup. Wendy looks to settle the rift between herself and several of the ladies by inviting the group to a winery for a “burn session,” but the whole event goes up in flames.",
+      "runtime": 43,
+      "season_id": 34,
+      "episode": 5,
+      "air_date": "11/06/2022"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 664,
+    "fields": {
+      "title": "Burnin' and Beefin'",
+      "synopsis": "The 'burn session' continues and Candiace confronts Ashley by dropping a bombshell rumor. Gizelle attempts to make things right with Candiace, but her apology isn't well received. The ladies get ready for a trip to Miami hosted by the queen of MIA herself, Mia, but find a surprise waiting for them when they arrive. Mia gets a call from an old friend who claims to have beef with Wendy.",
+      "runtime": 43,
+      "season_id": 34,
+      "episode": 6,
+      "air_date": "11/13/2022"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 665,
+    "fields": {
+      "title": "Beef is Served",
+      "synopsis": "The girls trip continues as the ladies head out to a dinner where there's a whole lot of 'beef' on the menu. The birthday girl, Karen, continues to deflect questions about her friendship with Charrisse. Peter Thomas reveals to Mia that Wendy has been dodging his calls. Mia questions Wendy's business savvy in a shocking manner and Robyn catches it all on camera. The dramatic tussle causes a rift in the group, leaving Mia questioning Karen's loyalty.",
+      "runtime": 43,
+      "season_id": 34,
+      "episode": 7,
+      "air_date": "11/20/2022"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 666,
+    "fields": {
+      "title": "Queen vs. Queen",
+      "synopsis": "After Mia and Wendy argue, the ladies must decide with whom their loyalty lies. Candiace arrives to find that Wendy has been ostracized from the group, but she makes up for it by bringing her to meet rap legend Trina. Gizelle reveals that she caught Mia and Jacqueline in a 'steamy' situation. Karen gets heated with Mia for ruining her birthday.",
+      "runtime": 43,
+      "season_id": 34,
+      "episode": 8,
+      "air_date": "11/27/2022"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 667,
+    "fields": {
+      "title": "Ambush in Paradise",
+      "synopsis": "Karen and Mia struggle to recover after an explosive confrontation. When Candiace is caught red-handed talking trash about the group to the public, Robyn confronts the issue with the help of a special guest. Ashley brings a rumor about Karen to the table that gets a dramatic response. A night of drunken debauchery prompts the women to open up as never before.",
+      "runtime": 54,
+      "season_id": 34,
+      "episode": 9,
+      "air_date": "12/04/2022"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 668,
+    "fields": {
+      "title": "Cleaning Up the Mess",
+      "synopsis": "The ladies return to Potomac and get back to business. Gizelle and Robyn prepare for their Reasonably Shady live show while Karen prepares for a “live experience” of her own. Ashley gets emotional about her separation with Michael. Gizelle hosts a sweet 16 party for her twins with a special guest. Robyn has a heart-to-heart with some of the ladies. Ray encourages Chris Bassett to make an apology of his own.",
+      "runtime": 43,
+      "season_id": 34,
+      "episode": 10,
+      "air_date": "12/11/2022"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 669,
+    "fields": {
+      "title": "Show Time!",
+      "synopsis": "When Gizelle and Robyn put on their live podcast, Karen takes shady notes for her own live show. Candiace shoots a music video with rapper Trina. Robyn broaches a tough subject with Juan. As Gizelle investigates the details of Mia and Jacqueline's close relationship, Wendy and Eddie deal with an unexpected emergency.",
+      "runtime": 43,
+      "season_id": 34,
+      "episode": 11,
+      "air_date": "12/18/2022"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 670,
+    "fields": {
+      "title": "Mic Drop",
+      "synopsis": "Karen hosts her first-ever live show as the ladies brace themselves for a 'Grande Dame Experience.' Mia and Gordon discuss their relationship with Jacqueline. Ashley's friend makes some shocking revelations about some of the husbands and attends Karen's show to set the record straight. When Mia finds out that Karen has been spreading gossip, she takes the mic and puts the Grande Dame in the hot seat.",
+      "runtime": 43,
+      "season_id": 34,
+      "episode": 12,
+      "air_date": "01/01/2023"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 671,
+    "fields": {
+      "title": "Sisterhood of the Traveling Beefs",
+      "synopsis": "Gizelle receives some serious news from her doctor. Finally planning her wedding, Robyn is adamant about keeping some guests off the list. Mia and Jacqueline get into an explosive argument on their way to celebrate Ashley's birthday. Mounting tensions between Karen and Charrisse finally come to a head, leaving the ladies shaken.",
+      "runtime": 43,
+      "season_id": 34,
+      "episode": 13,
+      "air_date": "01/08/2023"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 672,
+    "fields": {
+      "title": "Shake-Ups and Makeups",
+      "synopsis": "When Karen reveals the reason she stopped being friends with Charrisse, the ladies question her version of the truth. Mia does something that causes her and Jacqueline's friendship to hang in the balance. Candiace makes a surprising revelation about one of the ladies. As Mia and Wendy discuss the events that led to their fight in Miami, Robyn and Gizelle confront Karen for attacking Charrisse's reputation.",
+      "runtime": 43,
+      "season_id": 34,
+      "episode": 14,
+      "air_date": "01/15/2023"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 673,
+    "fields": {
+      "title": "Indecent Disclosure",
+      "synopsis": "Karen questions the validity of Robyn's upcoming nuptials and brings to light some surprising rumors about Juan. Robyn drops a bomb of her own when she shares a suspicious photo with the ladies. Mia reaches her breaking point with Jacqueline but attempts to repair her friendship with Wendy.",
+      "runtime": 43,
+      "season_id": 34,
+      "episode": 15,
+      "air_date": "01/22/2023"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 674,
+    "fields": {
+      "title": "The Naked Truth",
+      "synopsis": "After returning from vacation, the ladies discover that what happens in Mexico doesn't always stay in Mexico. Ashley spills the beans about Mia and Wendy's interesting exchange. Gizelle and Mia throw Robyn a wild bachelorette party, but a few names are left off the guest list. Charrisse shares a story about Karen that leaves the ladies shocked.",
+      "runtime": 43,
+      "season_id": 34,
+      "episode": 16,
+      "air_date": "01/29/2023"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 675,
+    "fields": {
+      "title": "A Grande Finale",
+      "synopsis": "Ashley lands her dream home, but with a little help. Robyn makes an unexpected change to her wedding plans. Gizelle reveals her recent health diagnosis to her girls. Karen and Charrisse have a showdown at Candiace's music video reveal party. Mia confronts Karen with some explosive rumors.",
+      "runtime": 54,
+      "season_id": 34,
+      "episode": 17,
+      "air_date": "02/05/2023"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 676,
+    "fields": {
+      "title": "Reunion Part 1",
+      "synopsis": "In part one, Ashley reveals the reason behind her recent breakup with Winter House's Luke and what she is set to gain from her divorce settlement with Michael. Mia discloses how she and Gordon lost control of their businesses and updates the group on their rocky financial status. Candiace reacts to watching Gizelle's allegations against Chris play out and accuses her former friend of bold-faced lies.",
+      "runtime": 43,
+      "season_id": 34,
+      "episode": 18,
+      "air_date": "02/19/2023"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 677,
+    "fields": {
+      "title": "Reunion Part 2",
+      "synopsis": "The rift between Candiace and Gizelle continues as they address all of Gizelle's allegations against Chris from Season 7. Gizelle opens up about her recent surgery and dating a younger man, but the ladies question her willingness to share information about her personal life. Wendy gets fired up about Mia's 'assault' on her in Miami. Jacqueline joins to reveal her truths about her relationship with Mia.",
+      "runtime": 43,
+      "season_id": 34,
+      "episode": 19,
+      "air_date": "02/26/2023"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 678,
+    "fields": {
+      "title": "Reunion Part 3",
+      "synopsis": "The reunion concludes as Ashley and Candiace discuss the events that led to the dissolution of their once burgeoning friendship. The husbands join, and Chris confronts Gizelle about the accusations she made against him. Karen faces off against Charrisse and sets the record straight about the rumors of her infidelity. Andy has a special post-reunion conversation with Robyn and dives into Robyn's bombshell admission that Juan was inappropriately communicating with another woman prior to their wedding.",
+      "runtime": 64,
+      "season_id": 34,
+      "episode": 20,
+      "air_date": "03/05/2023"
+    }
   }
 ]
