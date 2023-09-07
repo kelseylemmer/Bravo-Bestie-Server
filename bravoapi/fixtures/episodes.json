@@ -7366,5 +7366,269 @@
       "episode": 21,
       "air_date": "09/29/2019"
     }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 615,
+    "fields": {
+      "title": "Old Testaments, New Revelations",
+      "synopsis": "Gizelle rekindles her relationship with ex-husband and pastor Jamal Bryant. Ashley adjusts to life as a new mom. Candiace and Chris celebrate their one-year anniversary with a diamond themed party, but the festivities quickly come to a halt.",
+      "runtime": 43,
+      "season_id": 32,
+      "episode": 1,
+      "air_date": "08/02/2020"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 616,
+    "fields": {
+      "title": "The Rumor Meal",
+      "synopsis": "Ashley continues to struggle with post-partum, meanwhile Juan secretly seeks relationship advice from Gizelle. Karen realizes that her marriage is not the institution she thought when Ray refuses to say the three magic words. Gizelle and Monique bury the hatchet and host a support dinner for Ashley, but after learning about Candiace's sudden connection to a longtime foe, Monique starts to doubt their friendship.",
+      "runtime": 43,
+      "season_id": 32,
+      "episode": 2,
+      "air_date": "08/09/2020"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 617,
+    "fields": {
+      "title": "Sip and See You Later",
+      "synopsis": "Gizelle spends her birthday with Jamal and the girls, but underlying tension makes for an awkward celebration. Candiace struggles to understand Monique's anger towards her after their recent reconciliation. Wendy takes note of Karen's cold shoulder. Ashley hosts the ladies to meet baby Dean, but an unexpected guest causes Monique to make a dramatic exit.",
+      "runtime": 43,
+      "season_id": 32,
+      "episode": 3,
+      "air_date": "08/16/2020"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 618,
+    "fields": {
+      "title": "Celebrations and Strange Explanations",
+      "synopsis": "Gizelle struggles with the fact that her daughters have questions about her rekindling a relationship with their father, and turns to her best friend Kal for guidance. Candiace and Ashley finally bury their year-long feud, meanwhile Monique expresses her marital frustrations to Chris. Karen decides to throw a lavish housewarming party, but Candiace and Gizelle's spat almost puts the celebration on pause.",
+      "runtime": 43,
+      "season_id": 32,
+      "episode": 4,
+      "air_date": "08/23/2020"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 619,
+    "fields": {
+      "title": "Look Who's Squawking",
+      "synopsis": "Monique invites everyone to her lake house for a weekend retreat, but the ladies are not prepared for her additional guest. Karen expresses her dislike for Wendy's obsession with her sex life, meanwhile Gizelle and Candiace's friendship takes a surprising turn. Ashley decides to bring baby Dean along for the festivities, but Wendy's strong opinions on her decision leaves the women stunned.",
+      "runtime": 43,
+      "season_id": 32,
+      "episode": 5,
+      "air_date": "08/30/2020"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 620,
+    "fields": {
+      "title": "The Text Heard 'Round the Lake House",
+      "synopsis": "The ladies host a pageant to help pass the time at Monique's lake house. Meanwhile, Monique's frustration with her husband Chris' lack of support grows. Wendy and Ashley make amends, but Wendy's sudden turn leaves Karen questioning her authenticity. Candiace's world is turned upside down when she receives a shocking text about one of the ladies' husband, leaving her contemplating whether or not to break the news.",
+      "runtime": 43,
+      "season_id": 32,
+      "episode": 6,
+      "air_date": "09/06/2020"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 621,
+    "fields": {
+      "title": "Fireball and Firepits",
+      "synopsis": "Karen reveals intimate details about her relationship with Ray leaving the ladies concerned about the state of her marriage. The husbands join their wives at the lake house. Candiace tells Ashley about Michael's alleged escapades. Meanwhile, things come to a screeching halt when Michael's alleged indiscretion takes center stage.",
+      "runtime": 43,
+      "season_id": 32,
+      "episode": 7,
+      "air_date": "09/13/2020"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 622,
+    "fields": {
+      "title": "Serving up Betrayals",
+      "synopsis": "Ashley confronts Michael about the blog rumors, and inadvertently reveals intimate details about their sex life. Gizelle corrals the ladies together for a wine tasting to celebrate her literary award, but the celebration is quickly halted when tension escalates to an alarming level.",
+      "runtime": 43,
+      "season_id": 32,
+      "episode": 8,
+      "air_date": "09/20/2020"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 623,
+    "fields": {
+      "title": "The Tipping Point",
+      "synopsis": "The ladies try to make sense of the altercation between Monique and Candiace, but are left in the dark. Gizelle heads to Atlanta for her daughters' restaurant opening, meanwhile Ashley presents Michael with a post-nuptial agreement. Karen seeks help from a third party to mend her relationship, but Ray's surprising revelation leaves her in tears.",
+      "runtime": 43,
+      "season_id": 32,
+      "episode": 9,
+      "air_date": "09/27/2020"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 624,
+    "fields": {
+      "title": "Sorry... Not Sorry",
+      "synopsis": "Karen hosts the ladies to hear Monique's side of what happened at the winery, meanwhile Candiace seeks therapy to deal with the aftermath of the altercation. Monique attempts to apologize for getting physical, but her account of the sequence of events leaves a bad taste in some of the ladies' mouths.",
+      "runtime": 43,
+      "season_id": 32,
+      "episode": 10,
+      "air_date": "10/04/2020"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 625,
+    "fields": {
+      "title": "Taxing Times and Blurry Lines",
+      "synopsis": "Karen invites Gizelle and Ashley to her homecoming in Virginia, but an emotional visit to her childhood farm shows the ladies a different side of the Grande Dame. Robyn's tax woes go public. Candiace considers legal action against Monique. Meanwhile, Monique seeks guidance from her pastor, but a shocking past revelation brings her to tears.",
+      "runtime": 43,
+      "season_id": 32,
+      "episode": 11,
+      "air_date": "10/11/2020"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 626,
+    "fields": {
+      "title": "Fully Charged",
+      "synopsis": "Wendy and her husband, Eddie host a “Sip and See” for their baby girl, and extend an invitation to Eddie's estranged parents. Ashley and Michael seek counseling for their issues, while Karen continues to fight for her marriage. After weeks without an apology from Monique, Candiace decides to take a legal next step, and the possibility of jail time for Monique leaves the rest of the ladies in shock.",
+      "runtime": 43,
+      "season_id": 32,
+      "episode": 12,
+      "air_date": "10/18/2020"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 627,
+    "fields": {
+      "title": "No Shows and Show Downs",
+      "synopsis": "Monique invites the ladies to her podcast, but their lack of support leaves her feeling even more isolated. Juan asks Robyn's parents for their blessing to remarry their daughter. Meanwhile, Gizelle and Jamal continue to struggle with their long-distance relationship. Wendy hosts the ladies for an evening of wine and politics, but Karen's unwillingness to admit to Monique's wrongdoing leaves a sour taste in Candiace's mouth.",
+      "runtime": 43,
+      "season_id": 32,
+      "episode": 13,
+      "air_date": "10/25/2020"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 628,
+    "fields": {
+      "title": "Hats Off... Shades On",
+      "synopsis": "Ashley searches to find happiness amidst Michael's infidelity. Emotions run high as Monique files a counterclaim against Candiace, and Robyn hosts a photo shoot for her Embellished hat line, but the atmosphere gets heated once Wendy learns of disparaging comments made about her.",
+      "runtime": 43,
+      "season_id": 32,
+      "episode": 14,
+      "air_date": "11/01/2020"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 629,
+    "fields": {
+      "title": "Portu-Girl-Bye",
+      "synopsis": "The ladies head to Madeira, Portugal for some fun and sun, but the distance proves to be too much for Ashley. Karen questions Gizelle's relationship with Jamal, causing a heated discussion on whether or not Gizelle's relationship is even real. Things get interesting when Robyn sides with Karen against her fellow green-eyed bandit — causing the two besties to be at odds.",
+      "runtime": 43,
+      "season_id": 32,
+      "episode": 15,
+      "air_date": "11/08/2020"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 630,
+    "fields": {
+      "title": "Picking Sides",
+      "synopsis": "The ladies play a prank on Wendy that leaves her screaming. Gizelle struggles with keeping Juan's impending proposal to herself. Meanwhile, Karen surprises the group with very personal details about her marriage. Ashley shocks Gizelle and Robyn with the news that she wrote a witness statement in defense of Monique.",
+      "runtime": 43,
+      "season_id": 32,
+      "episode": 16,
+      "air_date": "11/15/2020"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 631,
+    "fields": {
+      "title": "Fifty Shades of Betrayal",
+      "synopsis": "Robyn reveals the ladies' photos on her 'Embellished' website, causing tension between her and the 'Grand Dame.' Ashley and Gizelle host a dominatrix party filled with whips, sex toys and leather, but the fun is quickly halted when Ashley reveals her statement in defense of Monique — leaving Candiace feeling betrayed.",
+      "runtime": 43,
+      "season_id": 32,
+      "episode": 17,
+      "air_date": "11/22/2020"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 632,
+    "fields": {
+      "title": "Shifty Wigs",
+      "synopsis": "Gizelle plans a family photo shoot, but hearts are broken when there is an issue with Jamal. Wendy struggles with telling her mother she wants to quit teaching, meanwhile Ashley arranges for Michael to have a face to face with her uncle and mom. Karen celebrates her wig line launch with a 'Wig Shift Party,' but a close run-in between Candiace and Monique leaves everyone in an uproar.",
+      "runtime": 43,
+      "season_id": 32,
+      "episode": 18,
+      "air_date": "11/29/2020"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 633,
+    "fields": {
+      "title": "Deck the Halls With Drama",
+      "synopsis": "Robyn and Juan seek couples therapy to move forward in their relationship. Gizelle works hard to make sure Robyn's engagement goes off without a hitch, but Michael's skepticism causes her to panic. Candiace confronts Karen about setting her up, while Michael Darby and Chris Bassett square off, leaving Michael unhinged.",
+      "runtime": 43,
+      "season_id": 32,
+      "episode": 19,
+      "air_date": "12/06/2020"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 634,
+    "fields": {
+      "title": "Reunion Part 1",
+      "synopsis": "Part one of an explosive three-part reunion begins, as the Potomac ladies come together for the first time since the altercation that divided the cast. The women host a fashion intervention for Gizelle, which isn't well received. Ashley confronts Candiace and Wendy about their 'aggressive' behavior, which leads to a discussion of colorism within the cast. Karen questions the legitimacy of Gizelle's relationship, and Monique, armed with a binder of receipts - presents damning evidence to back up Karen's accusations.",
+      "runtime": 43,
+      "season_id": 32,
+      "episode": 20,
+      "air_date": "12/13/2020"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 635,
+    "fields": {
+      "title": "Reunion Part 2",
+      "synopsis": "The reunion continues as Gizelle reacts to the contents of Monique's binder and responds to the shocking allegations against Jamal. Karen opens up about her challenging season with Ray, and Ashley is questioned about Michael's hotel-room antics and responds to some damning new evidence. Monique accuses some of the women of 'plotting' against her family, and things get intense when the conversation about the altercation between Candiace and Monique begins.",
+      "runtime": 43,
+      "season_id": 32,
+      "episode": 21,
+      "air_date": "12/20/2020"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 636,
+    "fields": {
+      "title": "Reunion Part 3",
+      "synopsis": "The Season 5 Reunion concludes with an epic 90-minute finale. Candiace gathers herself after walking off-stage during the conversation surrounding the altercation and returns to face Monique. Ashley and Monique are accused of having a strategic relationship, and an emotional exchange takes place when Candiace questions Karen's loyalty. Things take a dramatic turn when the husbands join the stage - Chris Samuels comes in hot and demands accountability against the alleged 'plot' against his family, and sets his sights on Gizelle.",
+      "runtime": 43,
+      "season_id": 32,
+      "episode": 22,
+      "air_date": "12/27/2020"
+    }
   }
 ]
