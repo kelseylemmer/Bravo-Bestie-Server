@@ -8614,5 +8614,197 @@
       "episode": 24,
       "air_date": "03/13/2022"
     }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 719,
+    "fields": {
+      "title": "Revenge Marks the Spot",
+      "synopsis": "The women of Salt Lake City are back. Jen attempts to reunite the ladies at Coach Shah's 51st birthday party. Lisa's salacious rant has redefined her friendship with Meredith, but Meredith reveals some alleged Lisa rumors of her own. Jen prepares for pretrial meetings in New York. Whitney turns to Heather for support as she begins to break all ties with the Mormon Church.",
+      "runtime": "PT43M",
+      "season": 37,
+      "episode": 1,
+      "air_date": "09/28/2022"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 720,
+    "fields": {
+      "title": "Searching for Sereni-Tea",
+      "synopsis": "Whitney plans a girls' trip to Arizona to support Jen before her trial, but she's blindsided when Meredith shares an alleged rumor about Lisa. While Jen gets emotional support from her mom, Lisa talks to Jack about his future. An emotional experience with a shaman inspires the women to open up.",
+      "runtime": "PT54M",
+      "season": 37,
+      "episode": 2,
+      "air_date": "10/05/2022"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 721,
+    "fields": {
+      "title": "Courtside Conundrum",
+      "synopsis": "Whitney shares information about her childhood with the group, shocking the other women. Meredith and Lisa have a short-lived clemency, but Heather calls out Meredith on her superiority complex. After an afternoon of activities around Arizona, Jen hosts a party in honor of Meredith, but chaos ensues.",
+      "runtime": "PT43M",
+      "season": 37,
+      "episode": 3,
+      "air_date": "10/12/2022"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 722,
+    "fields": {
+      "title": "Bad Weather Betrayal",
+      "synopsis": "The Arizona girls trip goes from bad to worse when Whitney and Heather face off. An anxious Jen leaves the trip early for pretrial meetings in New York. Whitney reunites with her siblings to seek answers about her past. With Jen gone, the women speculate about Jen's trial.",
+      "runtime": "PT43M",
+      "season": 37,
+      "episode": 4,
+      "air_date": "10/19/2022"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 723,
+    "fields": {
+      "title": "On Thin Ice",
+      "synopsis": "Jen returns from pre-trial meetings in New York with unexpected news. Heather hosts a ski day to reunite the women, but tempers flare when Lisa discovers Angie H. is invited. Whitney attempts to resolve her conflict with Heather but realizes their friendship might be over",
+      "runtime": "PT43M",
+      "season": 37,
+      "episode": 5,
+      "air_date": "10/26/2022"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 724,
+    "fields": {
+      "title": "Finsta Fight",
+      "synopsis": "When Heather is caught telling a lie, Lisa sets the record straight. Whitney is surprised when Justin is unexpectedly laid off. Meredith and Angie H. have a double date with their husbands. Jen turns to Heather for support but is blindsided when Angie H. arrives at Heather's choir auditions.",
+      "runtime": "PT43M",
+      "season": 37,
+      "episode": 6,
+      "air_date": "11/02/2022"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 725,
+    "fields": {
+      "title": "Choir of Chaos",
+      "synopsis": "All hell breaks loose at choir auditions when Jen confronts Angie H. Hoping to rise above the drama, Lisa recommits to her faith. Whitney talks to Heather about the distance in their friendship, creating an even greater divide between 'bad weather.'",
+      "runtime": "PT43M",
+      "season": 37,
+      "episode": 7,
+      "air_date": "11/09/2022"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 726,
+    "fields": {
+      "title": "RSVPlease",
+      "synopsis": "Jen, Lisa and Whitney unite to address their issues with Heather, but only Lisa finds common ground with Heather. Meredith copes with past family trauma. The husbands meet up for a BBQ. Jen and Angie K. invite the women to San Diego, but an interaction with Danna causes Jen to storm off.",
+      "runtime": "PT43M",
+      "season": 37,
+      "episode": 8,
+      "air_date": "11/16/2022"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 727,
+    "fields": {
+      "title": "Not a Yacht of Fun",
+      "synopsis": "Meredith convinces a reluctant Jen to include Danna on the girls trip, but when Angie K. claims the primary bedroom, she becomes a target in Jen's line of fire. Heather, Lisa and Whitney take sides, but when Angie K. retaliates with an accusation against Jen, it becomes an all-out war.",
+      "runtime": "PT43M",
+      "season": 37,
+      "episode": 9,
+      "air_date": "11/30/2022"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 728,
+    "fields": {
+      "title": "High Heels in the High Seas",
+      "synopsis": "The chaos on the high seas continues as designer shoes end up overboard. Pushed to her limit, Lisa reconsiders her friendship with Jen. Back at the house, the ladies get ready for a luau dinner, but tensions come to an all-time high when the women throw shots at and issue ultimatums to each other.",
+      "runtime": "PT43M",
+      "season": 37,
+      "episode": 10,
+      "air_date": "12/07/2022"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 729,
+    "fields": {
+      "title": "High Stakes and Friendship Breaks",
+      "synopsis": "Heather and Lisa come together to address Jen's behavior, but the conversation comes to a halt when Jen reveals information about her mental health. Whitney is put on blast for claiming she wanted a friendship break from Heather, and “bad weather” goes from bad to worse. Dressed as blonde bombshells, the ladies have a night on the town with clubbing and debauchery. Unfortunately, the next morning, they're shocked to learn that Heather has a mysterious black eye.",
+      "runtime": "PT54M",
+      "season": 37,
+      "episode": 11,
+      "air_date": "12/14/2022"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 730,
+    "fields": {
+      "title": "White Lies and Black Eyes",
+      "synopsis": "While the ladies are still in sunny San Diego, a dark cloud looms above as the group tries to get answers about Heather's black eye. Lisa learns that Meredith has been spreading rumors about her businesses, but at a Greek Goddess-themed dinner, Lisa confronts Meredith for retaliating against her infamous rant.",
+      "runtime": "PT43M",
+      "season": 37,
+      "episode": 12,
+      "air_date": "12/21/2022"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 731,
+    "fields": {
+      "title": "Unfashionable Behavior",
+      "synopsis": "The women return to SLC, but the mystery of Heather's black eye still has everyone uneasy. Whitney presses for more answers, but this pushes “bad weather” into an even worse spot. Meredith hosts a mental awareness fundraiser in honor of her nephew as Jen attempts to settle the score with Angie K.",
+      "runtime": "PT43M",
+      "season": 37,
+      "episode": 13,
+      "air_date": "01/04/2023"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 732,
+    "fields": {
+      "title": "Trials and Tribulations",
+      "synopsis": "When Heather is asked about how she got her black eye, a heated argument ensues between her and Jen. At Heather's book cover reveal party, rumors are revealed and tensions rise. As Jen's trial gets closer, the women are surprised when the case takes an unexpected turn.",
+      "runtime": "PT43M",
+      "season": 37,
+      "episode": 14,
+      "air_date": "01/11/2023"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 733,
+    "fields": {
+      "title": "Reunion Part 1",
+      "synopsis": "The Salt Lake City Housewives bring an icy chill to New York to confront one another after an unpredictable season. Meredith Marks and Lisa Barlow face off about their ongoing issues, and Meredith phones a special friend to help clear her name about an unproven rumor. The friends take their place on the couch, armed with opinions and receipts, to discuss fake Instagram accounts and the trip to San Diego. Heather is placed in the hot seat when Andy grills her to find out what caused her mysterious black eye.",
+      "runtime": "PT43M",
+      "season": 37,
+      "episode": 15,
+      "air_date": "01/25/2023"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 734,
+    "fields": {
+      "title": "Reunion Part 2",
+      "synopsis": "In Part II, the conversation around Heather's enigmatic black eye continues. Lisa Barlow, Meredith Marks and Whitney Rose's husbands take a seat on the couch to share their perspectives on the ladies' drama. The women open up about Jen's guilty plea and the status of their friendships. Whitney and Heather discuss the future of their relationship and whether their friendship is fixable or if “bad weather” is permanently on ice.",
+      "runtime": "PT43M",
+      "season": 37,
+      "episode": 16,
+      "air_date": "02/01/2023"
+    }
   }
 ]
