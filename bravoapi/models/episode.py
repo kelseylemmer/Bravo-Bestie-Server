@@ -6,7 +6,7 @@ class Episode(models.Model):
 
     title = models.CharField(max_length=60)
     synopsis = models.CharField(max_length=1000)
-    runtime = models.IntegerField()
+    runtime = models.DurationField()
     season = models.ForeignKey(
         "Season", on_delete=models.CASCADE, related_name="episodes")
     episode = models.IntegerField()
