@@ -5,7 +5,7 @@
     "fields": {
       "season_number": 1,
       "premier_date": "10/14/2010",
-      "franchise_id": 1
+      "franchise": 1
     }
   },
   {
@@ -14,7 +14,7 @@
     "fields": {
       "season_number": 2,
       "premier_date": "09/05/2011",
-      "franchise_id": 1
+      "franchise": 1
     }
   },
   {
@@ -23,7 +23,7 @@
     "fields": {
       "season_number": 3,
       "premier_date": "11/05/2012",
-      "franchise_id": 1
+      "franchise": 1
     }
   },
   {
@@ -32,7 +32,7 @@
     "fields": {
       "season_number": 4,
       "premier_date": "11/04/2013",
-      "franchise_id": 1
+      "franchise": 1
     }
   },
   {
@@ -41,7 +41,7 @@
     "fields": {
       "season_number": 5,
       "premier_date": "11/18/2014",
-      "franchise_id": 1
+      "franchise": 1
     }
   },
   {
@@ -50,7 +50,7 @@
     "fields": {
       "season_number": 6,
       "premier_date": "12/01/2015",
-      "franchise_id": 1
+      "franchise": 1
     }
   },
   {
@@ -59,7 +59,7 @@
     "fields": {
       "season_number": 7,
       "premier_date": "12/06/2016",
-      "franchise_id": 1
+      "franchise": 1
     }
   },
   {
@@ -68,7 +68,7 @@
     "fields": {
       "season_number": 8,
       "premier_date": "12/19/2017",
-      "franchise_id": 1
+      "franchise": 1
     }
   },
   {
@@ -77,7 +77,7 @@
     "fields": {
       "season_number": 9,
       "premier_date": "02/12/2019",
-      "franchise_id": 1
+      "franchise": 1
     }
   },
   {
@@ -86,7 +86,7 @@
     "fields": {
       "season_number": 10,
       "premier_date": "04/15/2020",
-      "franchise_id": 1
+      "franchise": 1
     }
   },
   {
@@ -95,7 +95,7 @@
     "fields": {
       "season_number": 11,
       "premier_date": "05/19/2021",
-      "franchise_id": 1
+      "franchise": 1
     }
   },
   {
@@ -104,7 +104,7 @@
     "fields": {
       "season_number": 12,
       "premier_date": "05/11/2022",
-      "franchise_id": 1
+      "franchise": 1
     }
   },
   {
@@ -113,7 +113,7 @@
     "fields": {
       "season_number": 1,
       "premier_date": "01/07/2013",
-      "franchise_id": 2
+      "franchise": 2
     }
   },
   {
@@ -122,7 +122,7 @@
     "fields": {
       "season_number": 2,
       "premier_date": "11/04/2013",
-      "franchise_id": 2
+      "franchise": 2
     }
   },
   {
@@ -131,7 +131,7 @@
     "fields": {
       "season_number": 3,
       "premier_date": "11/03/2014",
-      "franchise_id": 2
+      "franchise": 2
     }
   },
   {
@@ -140,7 +140,7 @@
     "fields": {
       "season_number": 4,
       "premier_date": "11/02/2015",
-      "franchise_id": 2
+      "franchise": 2
     }
   },
   {
@@ -149,7 +149,7 @@
     "fields": {
       "season_number": 5,
       "premier_date": "11/07/2016",
-      "franchise_id": 2
+      "franchise": 2
     }
   },
   {
@@ -158,7 +158,7 @@
     "fields": {
       "season_number": 6,
       "premier_date": "12/04/2017",
-      "franchise_id": 2
+      "franchise": 2
     }
   },
   {
@@ -167,7 +167,7 @@
     "fields": {
       "season_number": 7,
       "premier_date": "12/03/2018",
-      "franchise_id": 2
+      "franchise": 2
     }
   },
   {
@@ -176,7 +176,7 @@
     "fields": {
       "season_number": 8,
       "premier_date": "01/07/2020",
-      "franchise_id": 2
+      "franchise": 2
     }
   },
   {
@@ -185,7 +185,7 @@
     "fields": {
       "season_number": 9,
       "premier_date": "09/28/2021",
-      "franchise_id": 2
+      "franchise": 2
     }
   },
   {
@@ -194,7 +194,7 @@
     "fields": {
       "season_number": 10,
       "premier_date": "02/08/2023",
-      "franchise_id": 2
+      "franchise": 2
     }
   },
   {
@@ -203,7 +203,7 @@
     "fields": {
       "season_number": 1,
       "premier_date": "02/22/2011",
-      "franchise_id": 3
+      "franchise": 3
     }
   },
   {
@@ -212,7 +212,7 @@
     "fields": {
       "season_number": 2,
       "premier_date": "09/13/2012",
-      "franchise_id": 3
+      "franchise": 3
     }
   },
   {
@@ -221,7 +221,7 @@
     "fields": {
       "season_number": 3,
       "premier_date": "08/12/2013",
-      "franchise_id": 3
+      "franchise": 3
     }
   },
   {
@@ -230,7 +230,7 @@
     "fields": {
       "season_number": 4,
       "premier_date": "12/16/2021",
-      "franchise_id": 3
+      "franchise": 3
     }
   },
   {
@@ -239,7 +239,7 @@
     "fields": {
       "season_number": 5,
       "premier_date": "12/08/2022",
-      "franchise_id": 3
+      "franchise": 3
     }
   }
 ]
