@@ -7114,5 +7114,257 @@
       "episode": 20,
       "air_date": "08/19/2018"
     }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 594,
+    "fields": {
+      "title": "That's the Way the Cookie Crumbles",
+      "synopsis": "Gizelle attempts to rekindle her friendship with Karen by delivering her homemade treats, but is shocked by what greets her at the door. Recovering from their miscarriage, Ashley & Michael are back in full baby making mode, meanwhile Robyn takes her romantic relationship with Juan to new heights. And with her wedding only days away, Candiace reveals that she's invited her half-brother to the nuptials, causing her mother to launch a verbal attack that threatens to derail the festivities.",
+      "runtime": 43,
+      "season_id": 31,
+      "episode": 1,
+      "air_date": "05/05/2019"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 595,
+    "fields": {
+      "title": "Here Comes the Bride",
+      "synopsis": "Candiace's big day is here, but instead of focusing on her soon to be husband, she's more nervous about her mother's unpredictable behavior. A buzzed Ashley tries her best to make amends with Karen and Monique, but her intentions are met with cold shoulders. Meanwhile an emotional Gizelle makes her way to Candiace's wedding — and after several downed shots ends up in a heated discussion with Monique.",
+      "runtime": 43,
+      "season_id": 31,
+      "episode": 2,
+      "air_date": "05/12/2019"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 596,
+    "fields": {
+      "title": "Hot Mike",
+      "synopsis": "Gizelle goes to therapy to help deal with her recent breakup, but a big revelation forces her to rekindle her relationship with a long-time foe. Karen is still keeping Gizelle in time out, but they might be able to renew their friendship with the help of some sage. Meanwhile Robyn and Juan work to ensure that their financial foundation remains on solid ground.  Ashley remains hopeful about baby making with Michael, but her frequent drinking causes Candiace to doubt her intentions.",
+      "runtime": 43,
+      "season_id": 31,
+      "episode": 3,
+      "air_date": "05/19/2019"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 597,
+    "fields": {
+      "title": "The Wig Easy",
+      "synopsis": "Ashley moves forward with baby making plans, while Candiace and Robyn grapple with the decision of revealing Michael's shocking comment from the night before. The ladies head to New Orleans in an effort to learn more about Gizelle, but Robyn's habit of being late almost leaves her grounded in Potomac. A night of Creole cooking takes a left turn, as things get heated between Karen and Gizelle, forcing the Grande Dame to make a dramatic exit.",
+      "runtime": 43,
+      "season_id": 31,
+      "episode": 4,
+      "air_date": "05/26/2019"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 598,
+    "fields": {
+      "title": "The Big Easy Show Down",
+      "synopsis": "Gizelle takes the ladies on an emotional journey to a plantation where her ancestors were enslaved, but the experience is too much for a still grieving Karen to handle. The women hit the legendary Bourbon Street for a night of fun, but the merriment comes to startling halt when Candiace questions Ashley's intentions to have a baby.",
+      "runtime": 43,
+      "season_id": 31,
+      "episode": 5,
+      "air_date": "06/02/2019"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 599,
+    "fields": {
+      "title": "Boundaries, Bayous and Beignets",
+      "synopsis": "The ladies wrap up their time in the Big Easy with some enlightening and frightening experiences, but unresolved issues still fester between Ashley and Candiace. Gizelle throws an 80th birthday party for her father and an old flame makes a special appearance. Tired of being singled out, Karen unleashes her fury on Gizelle and leaves everyone speechless.",
+      "runtime": 43,
+      "season_id": 31,
+      "episode": 6,
+      "air_date": "06/09/2019"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 600,
+    "fields": {
+      "title": "Salty Behavior",
+      "synopsis": "Monique celebrates her rainbow pregnancy, but the presence of her mother-in-law presents new challenges. Candiace reveals to Gizelle that Monique called Katie a name causing Gizelle to question Monique's behavior. Ashley and Karen share a spiritual moment in an unusual place, but the presence of an unlikely visitor brings Karen to tears.",
+      "runtime": 43,
+      "season_id": 31,
+      "episode": 7,
+      "air_date": "06/16/2019"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 601,
+    "fields": {
+      "title": "Sex, Lies and Butter Knives",
+      "synopsis": "Monique has a breathtaking underwater photo shoot to commemorate her pregnancy, while Karen shows off her sexy dance moves with Ray. Candiace hosts a dinner party where revelations about Michael's alleged secrets are brought center stage. Ashley and Candiace get in a heated argument, causing a serious meltdown.",
+      "runtime": 43,
+      "season_id": 31,
+      "episode": 8,
+      "air_date": "06/30/2019"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 602,
+    "fields": {
+      "title": "Days of Our Knives",
+      "synopsis": "Robyn finally reveals Michael's secret comment, causing everyone to wonder about the state of the Darby's marriage. Candiace takes her mother to therapy in an effort to fix their relationship, but Dottie's resistance brings Candiace to tears. Ashley performs at Gay Pride, but the joyful event quickly turns sour once her issues with Robyn reach a boiling point.",
+      "runtime": 43,
+      "season_id": 31,
+      "episode": 9,
+      "air_date": "07/07/2019"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 603,
+    "fields": {
+      "title": "Showdown at the Hoedown",
+      "synopsis": "Robyn confronts Gizelle about throwing her under the bus with Ashley, meanwhile Candiace and Chris have a fight of epic proportions. Katie hosts the ladies at a Potomac hoedown, but breaking news about Michael overshadows the event and one housewife is left feeling vindicated.",
+      "runtime": 54,
+      "season_id": 31,
+      "episode": 10,
+      "air_date": "07/14/2019"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 604,
+    "fields": {
+      "title": "Can I Get a Witness",
+      "synopsis": "After feeling like an absentee mom, Gizelle focuses her attention on her daughter Adore. Meanwhile, Candiace and her mother Dorothy try to work on their relationship, but her mom is over Candiace's antics. While others question her husband's innocence, Ashley goes to therapy to deal with the stress of it all — and leaves with the realization she is still suffering from old wounds.",
+      "runtime": 43,
+      "season_id": 31,
+      "episode": 11,
+      "air_date": "07/21/2019"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 605,
+    "fields": {
+      "title": "Good Will Haunting",
+      "synopsis": "With the help of singer Macy Gray, Karen and her daughter Rayvin record a tribute to her parents. Meanwhile, Robyn plans a haunted house party for Juan's birthday, where an unexpected guest makes a surprise appearance. The charges against Michael are dropped, but Katie reveals new information about Michael, leaving more unanswered questions regarding the Darbys' marriage.",
+      "runtime": 43,
+      "season_id": 31,
+      "episode": 12,
+      "air_date": "07/28/2019"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 606,
+    "fields": {
+      "title": "Opening Old Wounds",
+      "synopsis": "With her due date quickly approaching, Monique calls on Chris for help, but his unexpected reaction catches her off guard. Ashley makes the courageous decision to seek out her roots, meanwhile, Katie and her boyfriend Jacob spread some surprising information about Michael, leaving the other ladies confused about where she stands in her relationship.",
+      "runtime": 43,
+      "season_id": 31,
+      "episode": 13,
+      "air_date": "08/04/2019"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 607,
+    "fields": {
+      "title": "Open House and Closed Doors",
+      "synopsis": "Ashley finally makes contact with her distant relative, but their startling reaction leaves her in tears. Meanwhile, Candiace and her mother are still at odds, but Dorothy proves that old habits die hard. Robyn hosts an open house to celebrate her finished property, but things go sour when Gizelle confronts Monique - causing surprising tension between the Green-eyed sisters.",
+      "runtime": 43,
+      "season_id": 31,
+      "episode": 14,
+      "air_date": "08/11/2019"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 608,
+    "fields": {
+      "title": "Cayman We Get Along?",
+      "synopsis": "The ladies head to the beautiful Cayman Islands, but things gets off to a bumpy start when Robyn's lateness finally catches up to her.  Meanwhile, Karen and Gizelle get into a hotel lobby showdown that proves to be bigger than the last.  Ashley confronts Katie about the gossip she's been spreading about her husband, but Ashley's rage proves too much for Katie to handle.",
+      "runtime": 43,
+      "season_id": 31,
+      "episode": 15,
+      "air_date": "08/18/2019"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 609,
+    "fields": {
+      "title": "Trouble in Paradise",
+      "synopsis": "The ladies enjoy a day of adventure in the Cayman Islands. Ashley and Candiace bury their issues over yoga. Robyn decides to confront Gizelle about her behavior at her open house, catching her fellow green-eyed bandit off guard. Meanwhile, Katie's behavior continues to grow more questionable —  but things go from bad to worse when she decides make a big statement.",
+      "runtime": 43,
+      "season_id": 31,
+      "episode": 16,
+      "air_date": "08/25/2019"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 610,
+    "fields": {
+      "title": "Unanswered Questions",
+      "synopsis": "The women scramble to find Katie, and are shocked to discover her true whereabouts. Gizelle battles mother nature, while Karen teaches the ladies a unique technique. The fun comes to screeching halt when Karen and Ashley get into an unexpected conflict - catching everyone off guard.",
+      "runtime": 43,
+      "season_id": 31,
+      "episode": 17,
+      "air_date": "09/01/2019"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 611,
+    "fields": {
+      "title": "Mom's the Word",
+      "synopsis": "Robyn and Juan make a grand gesture to solidify their relationship. Candiace begins making financial strides without her mother's help. Karen finally reveals her La Dame perfume with an extravagant soirée, but the ladies leave with more questions than answers. After taking a pregnancy test, a fearful Ashley visits her doctor.",
+      "runtime": 43,
+      "season_id": 31,
+      "episode": 18,
+      "air_date": "09/08/2019"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 612,
+    "fields": {
+      "title": "Reunion Part 1",
+      "synopsis": "Gizelle and Karen confront each other about the confusing nature of their friendship, and Gizelle reveals a shocking development in her love life. Candiace's mother, Dorothy, joins the couch—and brings her purse. Ashley and Candiace have a heated exchange regarding the legitimacy of Ashley's life and relationship. Michael Darby makes a jaw-dropping appearance.",
+      "runtime": 43,
+      "season_id": 31,
+      "episode": 19,
+      "air_date": "09/15/2019"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 613,
+    "fields": {
+      "title": "Reunion Part 2",
+      "synopsis": "Monique and Candiace address their broken relationship and the breach of trust that lead to its downfall. Robyn's future with Juan is put into question. Gizelle and Monique address their ongoing feud in hopes of finally putting it to bed. Robyn reveals whose 'bleep' Michael wanted to 'bleep' that fateful night at L2.",
+      "runtime": 43,
+      "season_id": 31,
+      "episode": 20,
+      "air_date": "09/22/2019"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 614,
+    "fields": {
+      "title": "Reunion Part 3",
+      "synopsis": "The husbands take center stage for the dramatic conclusion to the Season 4 three-part reunion. The couples reveal their secrets in the bedroom, but the fun and games end there when the topic shifts to the charges against Michael. The women reveal secrets about Michael from seasons past. Chris Bassett and Ray chime in with new information that steers the conversation onto an unexpected course.",
+      "runtime": 43,
+      "season_id": 31,
+      "episode": 21,
+      "air_date": "09/29/2019"
+    }
   }
 ]
