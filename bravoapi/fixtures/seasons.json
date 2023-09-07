@@ -241,5 +241,68 @@
       "premier_date": "12/08/2022",
       "franchise": 3
     }
+  },
+  {
+    "model": "bravoapi.season",
+    "pk": 28,
+    "fields": {
+      "season_number": 1,
+      "premier_date": "01/17/2016",
+      "franchise_id": 4
+    }
+  },
+  {
+    "model": "bravoapi.season",
+    "pk": 29,
+    "fields": {
+      "season_number": 2,
+      "premier_date": "04/02/2017",
+      "franchise_id": 4
+    }
+  },
+  {
+    "model": "bravoapi.season",
+    "pk": 30,
+    "fields": {
+      "season_number": 3,
+      "premier_date": "04/01/2018",
+      "franchise_id": 4
+    }
+  },
+  {
+    "model": "bravoapi.season",
+    "pk": 31,
+    "fields": {
+      "season_number": 4,
+      "premier_date": "05/05/2019",
+      "franchise_id": 4
+    }
+  },
+  {
+    "model": "bravoapi.season",
+    "pk": 32,
+    "fields": {
+      "season_number": 5,
+      "premier_date": "08/02/2020",
+      "franchise_id": 4
+    }
+  },
+  {
+    "model": "bravoapi.season",
+    "pk": 33,
+    "fields": {
+      "season_number": 6,
+      "premier_date": "07/11/2021",
+      "franchise_id": 4
+    }
+  },
+  {
+    "model": "bravoapi.season",
+    "pk": 34,
+    "fields": {
+      "season_number": 7,
+      "premier_date": "10/09/2022",
+      "franchise_id": 4
+    }
   }
 ]
