@@ -304,5 +304,32 @@
       "premier_date": "10/09/2022",
       "franchise": 4
     }
+  },
+  {
+    "model": "bravoapi.season",
+    "pk": 35,
+    "fields": {
+      "season_number": 1,
+      "premier_date": "11/11/2020",
+      "franchise": 5
+    }
+  },
+  {
+    "model": "bravoapi.season",
+    "pk": 36,
+    "fields": {
+      "season_number": 2,
+      "premier_date": "09/12/2021",
+      "franchise": 5
+    }
+  },
+  {
+    "model": "bravoapi.season",
+    "pk": 37,
+    "fields": {
+      "season_number": 3,
+      "premier_date": "09/28/2022",
+      "franchise": 5
+    }
   }
 ]
