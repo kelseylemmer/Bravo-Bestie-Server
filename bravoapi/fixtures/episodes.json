@@ -7630,5 +7630,269 @@
       "episode": 22,
       "air_date": "12/27/2020"
     }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 637,
+    "fields": {
+      "title": "The Nude Interlude",
+      "synopsis": "It's a new day in Potomac! Ashley has a bun in the oven, Candiace has a new home of her own and Karen is set to walk down the aisle (again)! - but while some of the women are taking big steps forward in the personal lives, others are at a standstill. After a mysterious and salacious invitation, the ladies gather and become acquainted with a new friend (or two) - and a years' worth of tension boils over into a war of words between longtime frenemies Gizelle and Karen.",
+      "runtime": 54,
+      "season_id": 33,
+      "episode": 1,
+      "air_date": "07/11/2021"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 638,
+    "fields": {
+      "title": "Sing Sing for Your Supper",
+      "synopsis": "At the Nude Interlude, the rift between frenemies Gizelle and Karen grows deeper, and unexpected sides are taken. Wendy announces a drastic new career change, and Ashley prepares for the arrival of her new baby - but worries about keeping Michael happy in the process. Karen invites all the ladies to her Love Lunch in hopes of healing...but it instead ends up being quite...revealing!",
+      "runtime": 54,
+      "season_id": 33,
+      "episode": 2,
+      "air_date": "07/18/2021"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 639,
+    "fields": {
+      "title": "Jiminy Crickets",
+      "synopsis": "Robyn struggles to get her home and work life in balance, while Wendy turns to the Grand Dame for some much needed advice. Mia shares a traumatic childhood experience that has left her with difficulty connecting with her mother. With Ashley days away from going into labor, Gizelle decides to gather the ladies for a Pamper Party to celebrate the mom-to-be. Unfortunately, this spa day becomes anything but relaxing.",
+      "runtime": 43,
+      "season_id": 33,
+      "episode": 3,
+      "air_date": "07/25/2021"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 640,
+    "fields": {
+      "title": "Going Ham at the Pajammy Jam",
+      "synopsis": "Mia and Gordon wonder if she can repair the broken relationship with her mother. Gizelle works on showing compassion when her oldest daughter goes through a life obstacle. Candiace realizes what's at stake in recording her new song, while Michael surprises his very pregnant wife Ashley with a new venture. Robyn and Gizelle attempt to clear the air with Mia, but are met with a shocking reply.",
+      "runtime": 43,
+      "season_id": 33,
+      "episode": 4,
+      "air_date": "08/01/2021"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 641,
+    "fields": {
+      "title": "The Rumor Mill",
+      "synopsis": "Ashley's new baby, Dylan, makes a first impression that Gizelle will never forget. Mia opens up about her childhood trauma to Gizelle and Robyn. Wendy looks to Eddie for support in her candle business, but he thinks her business plan isn't up to par. Candiace hosts a girls' trip to Williamsburg, VA, where the cold war between Gizelle and Karen heats back up.",
+      "runtime": 43,
+      "season_id": 33,
+      "episode": 5,
+      "air_date": "08/08/2021"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 642,
+    "fields": {
+      "title": "Land of the Free, Home of the Shade",
+      "synopsis": "Ashley and Michael adjust to caring for two children while on a family photoshoot. It's Candiace's first time hosting a girl's trip, but the mood dampens after Gizelle and Karen's issues resurface - again. Robyn opens up to the women about her lack of motivation, and Gizelle shuts down any talk of her relationship with her ex. The evening takes a turn when the women question the reasoning behind Wendy's many changes - and her alleged 'lack of substance' hits deep.",
+      "runtime": 43,
+      "season_id": 33,
+      "episode": 6,
+      "air_date": "08/15/2021"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 643,
+    "fields": {
+      "title": "Gossip, Girl!",
+      "synopsis": "It's Day 2 in Williamsburg, Virginia, and the ladies work off last night's dramatic dinner with a little water aerobics. Robyn has a heart-to-heart with Gizelle about her lack of motivation, and is met with tough love. Ashley joins the ladies for a post-birth getaway - bringing her breast pump and a whole lot of drama in tow. Candiace hosts a whiskey tasting to lighten the mood, but alcohol isn't the only thing on the rocks after a rumor pertaining to Wendy's husband Eddie unexpectedly resurfaces.",
+      "runtime": 43,
+      "season_id": 33,
+      "episode": 7,
+      "air_date": "08/22/2021"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 644,
+    "fields": {
+      "title": "Talk to the Braids",
+      "synopsis": "After an explosive confrontation in Williamsburg, tension is at an all-time high between Wendy and the Green Eyed Bandits. As hostess, Candiace hopes the ladies of the Estate and Cottage can twerk it out. Back home, Ashley hopes Michael is going to be a more attentive husband and father. Karen is inducted as the ambassador of Surry County and during her acceptance speech she reveals some surprising news.",
+      "runtime": 43,
+      "season_id": 33,
+      "episode": 8,
+      "air_date": "08/29/2021"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 645,
+    "fields": {
+      "title": "High Infidelity",
+      "synopsis": "Wendy fills in Eddie on the betrayal that took place in Williamsburg, and Eddie gives his side of the story. Gizelle and Robyn open up about their history with infidelity. Mia seeks answers from her estranged mom about why she ended up in foster care. Candiace preps for her music video shoot but learns that bringing business into her marriage may have been a catastrophic mistake.",
+      "runtime": 43,
+      "season_id": 33,
+      "episode": 9,
+      "air_date": "09/05/2021"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 646,
+    "fields": {
+      "title": "Goddesses of War",
+      "synopsis": "Candiace and Chris cool off from their fight, and realize it's not very pleasurable to mix business with marriage. Karen gets to work in a new position…in an unusual place. Gizelle opens up to her daughters about her past mistakes in her relationships, and Wendy answers some tough questions from her sons about police brutality. Mia hosts a 'Goddess Picnic' for the ladies, with the hopes of restoring harmony in the group...but will these Goddesses come ready to battle?",
+      "runtime": 43,
+      "season_id": 33,
+      "episode": 10,
+      "air_date": "09/12/2021"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 647,
+    "fields": {
+      "title": "No Business Like Shade Business",
+      "synopsis": "Gizelle hits some speed bumps trying to teach her daughter Grace to drive, while Ashley's family isn't happy with Michael's proposed venture into the movie business. Karen and Wendy work on putting together their candle lines- one seemingly more successfully than the other- and Robyn confronts Juan about his approach. At Candiace's music video shoot, Mia gets Candiace's mom, Dorothy, to spill all the tea. Meanwhile, a huge misstep threatens to bring the entire shoot to a halt.",
+      "runtime": 43,
+      "season_id": 33,
+      "episode": 11,
+      "air_date": "09/19/2021"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 648,
+    "fields": {
+      "title": "Reasonably or Shady?",
+      "synopsis": "Karen is ready to reveal her new candle line to the rest of the ladies, while Wendy struggles to get on equal footing. Mia's family and her mom sit down for some much needed time together, but there is still a lot of work to be done. Gizelle and Robyn gather their 'Friends and Haters' to celebrate the launch of their new podcast... in Gizelle's driveway. The party goes off the rails when some shady games are played, and Candiace confronts Mia about questioning if her husbandger is on the payroll.",
+      "runtime": 54,
+      "season_id": 33,
+      "episode": 12,
+      "air_date": "09/26/2021"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 649,
+    "fields": {
+      "title": "GVO or GTFO!",
+      "synopsis": "The ladies and their husbands head to Maryland's Eastern Shore for a couples trip - but the Green Eyed bandits threaten to stay home due to their rocky relationship with the hostess, Wendy. The party goes from 0-100 - Gordon reveals his wild side, and Candiace and Mia go head to head in a shocking way.",
+      "runtime": 43,
+      "season_id": 33,
+      "episode": 13,
+      "air_date": "10/03/2021"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 650,
+    "fields": {
+      "title": "Tossing Salad and Spilling Tea (Bags)",
+      "synopsis": "On a couples trip to the Eastern Shore, Candiace and Mia's argument puts a damper on Wendy's Good Vibes Only. Wendy's hosting skills are under pressure when two surprise guests are left without adequate accommodations. Karen has an interesting run-in with Mia's husband, Gordon. And at dinner, Ashley and Candiace unbury their hatchets once again.",
+      "runtime": 43,
+      "season_id": 33,
+      "episode": 14,
+      "air_date": "10/10/2021"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 651,
+    "fields": {
+      "title": "Lost at Sea",
+      "synopsis": "Wendy's couple's trip continues, and so does the drama. Gizelle and Robyn leave in the middle of the night, furthering the tension between them and Wendy. Ashley tries to get some R&R, but Gordon's wild side is wearing thin. Ray joins the group for a boat ride on the bay, and Candiace and Mia have a surprising heart to heart.",
+      "runtime": 43,
+      "season_id": 33,
+      "episode": 15,
+      "air_date": "10/17/2021"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 652,
+    "fields": {
+      "title": "Crab-Boiling Over",
+      "synopsis": "The group wraps up their trip with a crab boil - and things between Ashley and Gordon get heated. Upon their return to Potomac, Mia's relationship with her mother takes a turn for the worse, and Gizelle's daughters confront her about her relationship woes. Ashley reveals that she is having intimacy issues with Michael, and attempts to spice things up in order to revive her marriage. Karen shocks the ladies with an invitation for her upcoming Vow Renewal that is ...out of the box.",
+      "runtime": 43,
+      "season_id": 33,
+      "episode": 16,
+      "air_date": "10/24/2021"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 653,
+    "fields": {
+      "title": "Altar-ed State of Mind",
+      "synopsis": "Karen and Ray prepare to say 'I do,' again - and celebrate the occasion with close friends including a special surprise guest. Meanwhile, Robyn brings up issues from the past that throw her relationship with Juan off course. Tensions between the ladies linger, as Gizelle reveals a well-kept secret and Juan's attempts to broker peace between his bros Michael Darby and Chris Bassett goes off the rails.",
+      "runtime": 43,
+      "season_id": 33,
+      "episode": 17,
+      "air_date": "10/31/2021"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 654,
+    "fields": {
+      "title": "Reunion Part 1",
+      "synopsis": "The Season 6 Reunion begins with a bang as the women take the stage ready to discuss all of the drama that took place both on and off the screen. Gizelle admits a shocking revelation regarding her breakup with Jamal, and also opens up about his recent tax woes. The ladies call out Mia for all of her 'lies.' Askale joins the stage bringing her fashion and…shade. Candiace opens up about the current rift between her mom and Chris, and hashes it out with the ladies about her constant trolling commentary.",
+      "runtime": 43,
+      "season_id": 33,
+      "episode": 18,
+      "air_date": "11/07/2021"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 655,
+    "fields": {
+      "title": "Reunion Part 2",
+      "synopsis": "Gizelle becomes emotional while discussing her friendship and history with Karen. The ladies continue to take Candiace to task for her habitual line-stepping throughout the season, and Mia is questioned about her erratic social media behavior. Wendy gets fired up about the Eddie rumors, but winds up finding herself in the hot seat.",
+      "runtime": 43,
+      "season_id": 33,
+      "episode": 19,
+      "air_date": "11/14/2021"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 656,
+    "fields": {
+      "title": "Reunion Part 3",
+      "synopsis": "Gizelle and Robyn dispute their involvement in the Eddie rumors, however Wendy has some 'big' receipts ready for all to see. The husbands join the stage to speak about the season, but things go off the rails when Chris addresses Mia's 'salad tossing' claims. Later, the ladies are shocked when a special guest makes a surprise appearance and kicks off the burning questions that are on everyone's minds!",
+      "runtime": 43,
+      "season_id": 33,
+      "episode": 20,
+      "air_date": "11/21/2021"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 657,
+    "fields": {
+      "title": "Reunion Part 4",
+      "synopsis": "Nicki Minaj Takeover",
+      "runtime": 43,
+      "season_id": 33,
+      "episode": 21,
+      "air_date": "11/28/2021"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 658,
+    "fields": {
+      "title": "Secrets Revealed",
+      "synopsis": "Gizelle embarks on her movie career in a role that she wasn't exactly made for: a stylist; Askale and her husband are on a double date with Candiace and Chris; Mia gives her son Josh the birds and the bees talk; Robyn wins Dean's approval.",
+      "runtime": 43,
+      "season_id": 33,
+      "episode": 22,
+      "air_date": "12/05/2021"
+    }
   }
 ]
