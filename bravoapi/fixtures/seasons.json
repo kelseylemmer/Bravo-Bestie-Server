@@ -574,5 +574,140 @@
       "premier_date": "07/16/2023",
       "franchise": 7
     }
+  },
+  {
+    "model": "bravoapi.season",
+    "pk": 65,
+    "fields": {
+      "season_number": 1,
+      "premier_date": "10/07/2008",
+      "franchise": 8
+    }
+  },
+  {
+    "model": "bravoapi.season",
+    "pk": 66,
+    "fields": {
+      "season_number": 2,
+      "premier_date": "07/30/2009",
+      "franchise": 8
+    }
+  },
+  {
+    "model": "bravoapi.season",
+    "pk": 67,
+    "fields": {
+      "season_number": 3,
+      "premier_date": "10/04/2010",
+      "franchise": 8
+    }
+  },
+  {
+    "model": "bravoapi.season",
+    "pk": 68,
+    "fields": {
+      "season_number": 4,
+      "premier_date": "11/06/2011",
+      "franchise": 8
+    }
+  },
+  {
+    "model": "bravoapi.season",
+    "pk": 69,
+    "fields": {
+      "season_number": 5,
+      "premier_date": "11/04/2012",
+      "franchise": 8
+    }
+  },
+  {
+    "model": "bravoapi.season",
+    "pk": 70,
+    "fields": {
+      "season_number": 6,
+      "premier_date": "11/03/2013",
+      "franchise": 8
+    }
+  },
+  {
+    "model": "bravoapi.season",
+    "pk": 71,
+    "fields": {
+      "season_number": 7,
+      "premier_date": "11/09/2014",
+      "franchise": 8
+    }
+  },
+  {
+    "model": "bravoapi.season",
+    "pk": 72,
+    "fields": {
+      "season_number": 8,
+      "premier_date": "11/08/2015",
+      "franchise": 8
+    }
+  },
+  {
+    "model": "bravoapi.season",
+    "pk": 73,
+    "fields": {
+      "season_number": 9,
+      "premier_date": "11/06/2016",
+      "franchise": 8
+    }
+  },
+  {
+    "model": "bravoapi.season",
+    "pk": 74,
+    "fields": {
+      "season_number": 10,
+      "premier_date": "11/05/2017",
+      "franchise": 8
+    }
+  },
+  {
+    "model": "bravoapi.season",
+    "pk": 75,
+    "fields": {
+      "season_number": 11,
+      "premier_date": "11/04/2018",
+      "franchise": 8
+    }
+  },
+  {
+    "model": "bravoapi.season",
+    "pk": 76,
+    "fields": {
+      "season_number": 12,
+      "premier_date": "11/03/2019",
+      "franchise": 8
+    }
+  },
+  {
+    "model": "bravoapi.season",
+    "pk": 77,
+    "fields": {
+      "season_number": 13,
+      "premier_date": "12/06/2020",
+      "franchise": 8
+    }
+  },
+  {
+    "model": "bravoapi.season",
+    "pk": 78,
+    "fields": {
+      "season_number": 14,
+      "premier_date": "05/01/2022",
+      "franchise": 8
+    }
+  },
+  {
+    "model": "bravoapi.season",
+    "pk": 79,
+    "fields": {
+      "season_number": 15,
+      "premier_date": "05/07/2023",
+      "franchise": 8
+    }
   }
 ]
