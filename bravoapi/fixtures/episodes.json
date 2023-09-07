@@ -6562,5 +6562,149 @@
       "episode": 19,
       "air_date": "03/23/2023"
     }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 548,
+    "fields": {
+      "title": "Mind Your Manners",
+      "synopsis": "Welcome to Potomac, where proper etiquette is key, and breaking the rules comes with serious consequences. At a birthday party celebrating Karen Huger, grande dame of Potomac high society, Gizelle Bryant's lack of manners puts the two divas into a battle for supremacy. And as if that wasn't enough, Gizelle is under fire from Charrisse Jackson Jordan, for acting not very lady like in her plush home. International model Katie Rost, a divorced socialite with three toddlers, is doing everything in her power to get her boyfriend to put a ring on it. Meanwhile, Robyn Dixon, who lives with her ex-husband, former NBA star Juan Dixon, must decide if she wants to rekindle her relationship with her ex.",
+      "runtime": 43,
+      "season_id": 28,
+      "episode": 1,
+      "air_date": "01/17/2016"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 549,
+    "fields": {
+      "title": "Divas, Queens, and Bubalas",
+      "synopsis": "Gizelle's reputation is called into question by Potomac's queen bee, Karen, and its self-appointed social director, Charrisse. Will they be able to play nice, or are these domestic divas going to take off their white gloves and get dirty? Katie has to tap into her Jewish roots to prove herself a true member of the tribe for her twins' naming ceremony. Things get a little dicey when the ladies meet the young, boisterous beauty queen Ashley Darby. Will Ashley be able to break into this coveted circle of sophisticated women?",
+      "runtime": 43,
+      "season_id": 28,
+      "episode": 2,
+      "air_date": "01/24/2016"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 550,
+    "fields": {
+      "title": "What a Little Whiskey Can Do",
+      "synopsis": "Katie steps out into Washington DC's 'Ball & Gala' charity social scene to attract attention and dollars for her family's foundation. But the pressure shifts from her philanthropic work to her marital status as Katie learns that Andrew's timeline for a walk down the aisle may not match hers. Robyn faces a difficult choice that may threaten her unconventional relationship with her ex-husband, Juan. Karen and Charrisse meet Katie's new friend, 26-year-old Ashley Darby. Married to a wealthy businessman almost 30 years her senior, this young wife has her sights set on joining Potomac society. Ashley attempts to impress the women when she hosts a whiskey tasting in downtown DC, but the liquor isn't the only thing causing discomfort.",
+      "runtime": 43,
+      "season_id": 28,
+      "episode": 3,
+      "air_date": "01/31/2016"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 551,
+    "fields": {
+      "title": "Desperately Seeking Marriage",
+      "synopsis": "Reeling from the news that Andrew doesn't plan on getting married anytime soon, Katie does some secret home renovating behind his back. Charrisse finally tells her friends the truth about her 18-year marriage, leaving the women in shock. With her daughter about to leave for college, Karen takes to the air...literally, by learning how to fly a plane. Ashley violates the rules of Potomac by spreading online gossip about the ladies of Potomac - leaving her to face the wrath of this close-knit community.",
+      "runtime": 43,
+      "season_id": 28,
+      "episode": 4,
+      "air_date": "02/14/2016"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 552,
+    "fields": {
+      "title": "Error on the High Seas",
+      "synopsis": "Karen is over Ashley's kitty-cat parties, so she launches a couples' soiree on a yacht to school her young protégée. Gizelle's newest suitor scores an invite to Karen's cruise, but can he seal it with a kiss? Meanwhile, after showing too much PDA at Ashley's birthday party, Katie finds herself in hot water. And, after going to Charrisse for advice, Robyn is shocked by the news that Charrisse's marriage has reached the point of no return.",
+      "runtime": 43,
+      "season_id": 28,
+      "episode": 5,
+      "air_date": "02/21/2016"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 553,
+    "fields": {
+      "title": "Beach Session",
+      "synopsis": "With Karen in her corner to mentor her, Ashley hopes to impress her new friends with a trip to her beach house on the Delaware shore. But when the accommodations turn out to be less than five-star, Ashley finds herself on the ropes fighting to keep the women from abandoning ship before the trip even gets started. Meanwhile, under pressure to turn her family's foundation into a philanthropic force, Katie struggles to persuade any of her friends to support her. And Charrisse convinces the women to share some of their darkest secrets.",
+      "runtime": 43,
+      "season_id": 28,
+      "episode": 6,
+      "air_date": "03/06/2016"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 554,
+    "fields": {
+      "title": "Reading Is Fundamental",
+      "synopsis": "A night of girl bonding takes a turn when Gizelle confronts Katie about her strange behavior. Katie gets a lesson in Reading 101 as the other women encourage her to put Gizelle in her place. Meanwhile, it looks like Ashley has rescued the trip from the edge of disaster - until a surprise from her husband throws the future of her new friendships into question all over again.",
+      "runtime": 43,
+      "season_id": 28,
+      "episode": 7,
+      "air_date": "03/13/2016"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 555,
+    "fields": {
+      "title": "All Shades of Shade",
+      "synopsis": "Gizelle's inner entrepreneur takes center stage, but the shade is real when Katie blows off a focus group for her budding makeup line. Juan and Robyn take a romantic trip down memory lane, making her more confused than ever about the state of their relationship. Karen launches a charity event close to her heart, but Ashley and Michael must get 'on par' before they are welcome in her home. And will Karen push Ashley one-step too far?",
+      "runtime": 43,
+      "season_id": 28,
+      "episode": 8,
+      "air_date": "03/20/2016"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 556,
+    "fields": {
+      "title": "Fifty Sense",
+      "synopsis": "Whether or not her husband, Eddie, shows up for the big party, Charrisse is determined to celebrate her 50th birthday to the tune of $80,000 of his money. Karen faces her empty nest after an emotional college send-off for her daughter Rayvin. The future of Robyn and Juan's relationship hangs in the balance as they finally get the news about a possible job out of state. Ashley and Karen's friendship may have reached the point of no return. And Michael's game of grab-ass on the dance floor stirs up a new feud among the ladies.",
+      "runtime": 43,
+      "season_id": 28,
+      "episode": 9,
+      "air_date": "03/27/2016"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 557,
+    "fields": {
+      "title": "Rules of Enragement",
+      "synopsis": "Katie and Andrew's relationship takes a turn when he surprises her with a weeklong trip to Scotland . . . that he's taking without her. Hearing her biological clock ticking at the ripe old age of 27, Ashley puts pressure on a reluctant Michael to start having kids. Gizelle hosts a 'come to Jesus' lunch to try to get friendships amongst the ladies back on track. Karen takes off the white gloves and reads Ashley for filth, while an uproar ensues between Katie, Robyn, and Gizelle over butt grabs and biracial labels.",
+      "runtime": 43,
+      "season_id": 28,
+      "episode": 10,
+      "air_date": "04/03/2016"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 558,
+    "fields": {
+      "title": "Reunion Part One",
+      "synopsis": "Fevers spike as Gizelle, Katie, Ashley, and Robyn try to pull Karen off her podium as the Grande Dame of Potomac. Ashley defends her hostessing, her husband and her humping despite the slings and arrows of shade-rageousness. Robyn makes a surprising admission about her feelings for her ex-husband. And questions about the sensitive topic of race spark a high-octane feud.",
+      "runtime": 43,
+      "season_id": 28,
+      "episode": 11,
+      "air_date": "04/10/2016"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 559,
+    "fields": {
+      "title": "Reunion Part Two",
+      "synopsis": "Katie's revelation about her relationship with Andrew leaves everyone wondering if she's headed down the aisle or out the door. Karen's husband, Ray (the 'Black Bill Gates'), and Ashley's husband, Michael, join the ladies to weigh in on Michael's surprise visit to the girls' beach trip and his dance-floor butt grab that sent shockwaves through Potomac. Charrisse reveals just how close her marriage is to destruction. And Gizelle and Katie battle over shocking allegations, leaving all the women to wonder who's right and who's wrong.",
+      "runtime": 43,
+      "season_id": 28,
+      "episode": 12,
+      "air_date": "04/17/2016"
+    }
   }
 ]
