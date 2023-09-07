@@ -10,4 +10,4 @@ class Episode(models.Model):
     season = models.ForeignKey(
         "Season", on_delete=models.CASCADE, related_name="episodes")
     episode = models.IntegerField()
-    air_date = models.DateTimeField()
+    air_date = models.CharField(max_length=10)
