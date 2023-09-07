@@ -8134,5 +8134,197 @@
       "episode": 20,
       "air_date": "03/05/2023"
     }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 679,
+    "fields": {
+      "title": "Welcome to Salt Lake City!",
+      "synopsis": "Salt Lake City is more than just mountains and religion. When Jen throws a Tongan themed birthday party for her close friend Meredith, it's anything but a celebration when she confronts Mary about insensitive comments made about her family. Heather discovers that her longtime friend from college, Lisa, has been spreading rumors about her. And after years of judgement and scrutiny, Whitney finally has her dream wedding with her dream guy.",
+      "runtime": "PT54M",
+      "season": 35,
+      "episode": 1,
+      "air_date": "11/11/2020"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 680,
+    "fields": {
+      "title": "A Snow Mountain of Trouble",
+      "synopsis": "Meredith's birthday party comes to an icy cold ending when Jen and Mary get into a heated argument about Mary's insensitivity towards Jen's aunt, and Whitney confronts Lisa about an incident at Whitney's vow renewal. While Meredith battles marriage problems and Whitney helps her dad through a difficult time, Heather invites all the women to a ski day, which starts out well, but goes downhill when Whitney and Heather confront Lisa about her judgmental behavior.",
+      "runtime": "PT43M",
+      "season": 35,
+      "episode": 2,
+      "air_date": "11/18/2020"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 681,
+    "fields": {
+      "title": "Everybody Needs a Switzerland",
+      "synopsis": "With the ladies operating on a 'clean slate,' Whitney plans a roaring 20s party. Heather hosts a baby shower for five of her young, Mormon, pregnant employees, Meredith and Mary grow closer, and Jen acts inappropriately at a nighttime gathering. Later, when Meredith cancels plans, Jen begins to grow skeptical of Mary's involvement and questions Meredith's friendship.",
+      "runtime": "PT43M",
+      "season": 35,
+      "episode": 3,
+      "air_date": "11/25/2020"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 682,
+    "fields": {
+      "title": "Roaring Emotions",
+      "synopsis": "At the conclusion of Whitney's 20s Party, Jen's explosive temper reaches a boiling point and Meredith and Mary are the targets. Meredith finally reveals the truth about her marriage to Lisa, while Jen shares the details with Heather, who then tells Whitney. Mary takes the high road and invites Jen to her luncheon hoping to squash their issues for good, but when Jen tries to open up to the group things take a sudden turn for the worst.",
+      "runtime": "PT43M",
+      "season": 35,
+      "episode": 4,
+      "air_date": "12/02/2020"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 683,
+    "fields": {
+      "title": "Ladies Who Lunch",
+      "synopsis": "Mary's luncheon ends in disaster when Jen accuses Mary of being racist and Mary accuses Heather of being two-faced. While Whitney deals with her daddy issues, Meredith's marriage problems escalate and Lisa reflects on her own marriage. Heather, caught between two friends, attempts to smooth things over with Mary who is still hurting over the things Jen said about her.",
+      "runtime": "PT43M",
+      "season": 35,
+      "episode": 5,
+      "air_date": "12/09/2020"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 684,
+    "fields": {
+      "title": "Sundance City",
+      "synopsis": "When Sundance arrives to Utah, it's nonstop parties and celebrations for the ladies. When Whitney throws her husband, Justin, a 52nd birthday party, Jen and Mary finally call truce. Meredith helps her son Brooks prep for Salt Lake City's very first fashion week while Heather is on the prowl for a one-night stand, with the help of Vanderpump Rules' Utah natives Lala and Katie to assist. And while everyone is partying, Lisa is too busy planning Sundance parties for everyone else in Park City.",
+      "runtime": "PT43M",
+      "season": 35,
+      "episode": 6,
+      "air_date": "12/16/2020"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 685,
+    "fields": {
+      "title": "Fashion Faux Pas",
+      "synopsis": "Now that Sundance is over, Lisa makes a promise to work less, but her husband John isn't buying it. Whitney grows concerned when her dad says he's ready to move on from the treatment center. And Heather finally comes clean with her daughters over her hesitations with Mormonism and her desire to date. And after Meredith's husband Seth misses the Park City Fashion show, Jen alludes to Meredith having bigger problems in her marriage than she's letting on.",
+      "runtime": "PT43M",
+      "season": 35,
+      "episode": 7,
+      "air_date": "12/23/2020"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 686,
+    "fields": {
+      "title": "Hot Tub Confessions",
+      "synopsis": "While Heather works on expanding her business, Lisa and John have a heart to heart about how much work she's taking on and Whitney enlists her husband, Justin to have a difficult conversation with her father. And although Meredith and Seth decide to give their marriage another shot, after a fun day of snowmobiling, Whitney grows curious about Meredith's marriage and wonders if there is any truth to what Jen is implying. Later, Lisa, Meredith, Jen and their husbands hang out at Jen's house; While the women dish about their marital issues, the men give their side of the story.",
+      "runtime": "PT43M",
+      "season": 35,
+      "episode": 8,
+      "air_date": "12/30/2020"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 687,
+    "fields": {
+      "title": "Hip Hop and Heartbreak",
+      "synopsis": "Meredith and Seth are happy to be back together, while Heather has an awkward Valentine's Day with her ex-husband and Lisa spends time with her family at the aquarium. And after Jen plans a surprise birthday party for her husband and doesn't invite Mary, Whitney hears that the other women are talking about Jen behind her back and things get heated when she decides to tell Jen the rumor during Sharreiff's birthday party.",
+      "runtime": "PT43M",
+      "season": 35,
+      "episode": 9,
+      "air_date": "01/06/2021"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 688,
+    "fields": {
+      "title": "In Hot Water",
+      "synopsis": "After blowing up at Sharrieff's birthday party, all of Jen's relationships are on the rocks. Lisa takes some time away from the drama to focus on work, and now that Heather's Beauty Lab and Laser business is thriving, she wants to carry that success into her personal life. With Meredith and Seth in a better place, it's finally time to share some good news. And later, things get heated when Whitney and Heather try to make amends with Jen who's still fuming about Whitney's poor timing.",
+      "runtime": "PT43M",
+      "season": 35,
+      "episode": 10,
+      "air_date": "01/13/2021"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 689,
+    "fields": {
+      "title": "All Bets Are Off",
+      "synopsis": "Whitney hosts a dinner with her dad and siblings in an effort to reunite their family, while Jen sets Heather up on a date with Sharrieff's best friend. When Whitney invites the women for a girls getaway to Vegas, Lisa, who's still upset with Whitney, has reservations about going. And when Jen takes Heather on an exclusive shopping experience, things take a turn when Jen begins to question Heather's true loyalty.",
+      "runtime": "PT43M",
+      "season": 35,
+      "episode": 11,
+      "air_date": "01/20/2021"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 690,
+    "fields": {
+      "title": "Sinners in the City",
+      "synopsis": "The Vegas trip implodes during dinner when Jen feels betrayed by Meredith and Lisa, yet again. Later that night, the ladies, sans Jen, gather together and discover there is more deception brewing amongst the group. Mary reminds Lisa of Jen's destructive behavior, and Whitney arranges a spiritually healing activity for the ladies only to be derailed when Meredith's marriage rumors are brought up, Jen is confronted and the women are left questioning who to trust.",
+      "runtime": "PT43M",
+      "season": 35,
+      "episode": 12,
+      "air_date": "01/27/2021"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 691,
+    "fields": {
+      "title": "Chilly Reception",
+      "synopsis": "Heather works hard to finish her new Beauty Lab location for her launch party, but worries that she hasn't connected with Jen since Vegas. Mary goes to her place of peace, her church choir, while Lisa spends time with her family doing what she truly loves – making business plans. Meredith and Seth realize that their marriage is a hot topic for their friends while Sharrieff surprises Jen with a date night she won't forget. And at the At theBeauty Lab Launch Party, Jen tries to make amends with her friends but it doesn't go as well as she planned.",
+      "runtime": "PT1H4M",
+      "season": 35,
+      "episode": 13,
+      "air_date": "02/03/2021"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 692,
+    "fields": {
+      "title": "Reunion Part 1",
+      "synopsis": "The reunion kicks off with Jen revealing the issues that still haunt her and her husband Sharrieff, while Whitney addresses the rumors swirling in her marriage. Meredith confronts Jen about the awkward night at her house, leading to a heated conversation about Brooks. Tensions rise with Lisa and Mary when Lisa defends her friendship with Jen.",
+      "runtime": "PT43M",
+      "season": 35,
+      "episode": 14,
+      "air_date": "02/10/2021"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 693,
+    "fields": {
+      "title": "Reunion Part 2",
+      "synopsis": "Mary reveals intimate details about her marriage and sets the record straight about her church. Meredith demands respect from the women about her marriage. Frustrations heighten between Lisa, Whitney, and Heather, pushing Lisa to her breaking point.",
+      "runtime": "PT43M",
+      "season": 35,
+      "episode": 15,
+      "air_date": "02/17/2021"
+    }
+  },
+  {
+    "model": "bravoapi.episode",
+    "pk": 694,
+    "fields": {
+      "title": "Reunion Part 3",
+      "synopsis": "The husbands take the stage and Justin reveals shocking details about leaving the Mormon church, Robert addresses Jen and her husband, Sharrieff, and Whitney shares an update on her dad's sobriety. Emotions come to a head when Jen opens up about cultural insensitivities within the group, leaving the women startled and confused with Jen even more hurt than before.",
+      "runtime": "PT43M",
+      "season": 35,
+      "episode": 16,
+      "air_date": "02/24/2021"
+    }
   }
 ]
