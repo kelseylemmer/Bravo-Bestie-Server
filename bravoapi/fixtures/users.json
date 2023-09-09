@@ -3,36 +3,16 @@
     "model": "auth.user",
     "pk": 1,
     "fields": {
-      "password": "password",
-      "last_login": "2023-08-20T14:51:39.989Z",
-      "is_superuser": true,
-      "username": "john123",
-      "last_name": "Doe",
-      "email": "jd123@gmail.com",
-      "is_staff": true,
-      "is_active": true,
-      "date_joined": "2021-08-28T14:51:39.989Z",
-      "first_name": "John",
-      "groups": [],
-      "user_permissions": []
-    }
-  },
-  {
-    "model": "auth.user",
-    "pk": 2,
-    "fields": {
-      "password": "password2",
-      "last_login": "2023-08-21T14:51:39.989Z",
+      "password": "pbkdf2_sha256$216000$qMRH8szID7Z8$Vljya2V3XfruOHuvx1hGz9ZyKg4bxbw7rc2WO0gTR7I=",
+      "last_login": null,
       "is_superuser": false,
-      "username": "jane123",
-      "last_name": "Doe",
-      "email": "jane123@gmail.com",
+      "username": "Carrie1945",
+      "first_name": "Carrie",
+      "last_name": "Belk",
+      "email": "me@me.com",
       "is_staff": false,
       "is_active": true,
-      "date_joined": "2021-02-28T14:51:39.989Z",
-      "first_name": "Jane",
-      "groups": [],
-      "user_permissions": []
+      "date_joined": "2020-08-28T14:51:39.989Z"
     }
   }
 ]
