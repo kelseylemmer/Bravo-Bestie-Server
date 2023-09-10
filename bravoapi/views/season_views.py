@@ -3,7 +3,7 @@ from django.http import HttpResponseServerError
 from rest_framework.viewsets import ViewSet
 from rest_framework.response import Response
 from rest_framework import serializers, status
-from bravoapi.models import Episode, Season
+from bravoapi.models import Episode, Season, Franchise
 from django.contrib.auth.models import User
 
 
@@ -20,26 +20,26 @@ class SeasonView(ViewSet):
         serializer = SeasonSerializer(season)
         return Response(serializer.data)
 
-    # def list(self, request):
-    #     """Handle GET requests to get all seasons
+    def list(self, request):
+        """Handle GET requests to get all seasons
 
-    #     Returns:
-    #         Response -- JSON serialized list of seasons
-    #     """
-    #     episodes = Episode.objects.all()
+        Returns:
+            Response -- JSON serialized list of seasons
+        """
+        seasons = Season.objects.all()
 
-    #     season_id = request.query_params.get("season")
-    #     if season_id:
-    #         try:
-    #             season = Season.objects.get(id=season_id)
-    #             episodes = episodes.filter(season=season)
-    #         except Season.DoesNotExist:
-    #             return Response(
-    #                 {"error": "Season not found."},
-    #                 status=status.HTTP_404_NOT_FOUND
-    #             )
-    #     serialized = EpisodeSerializer(episodes, many=True)
-    #     return Response(serialized.data, status=status.HTTP_200_OK)
+        franchise_id = request.query_params.get("franchise")
+        if franchise_id:
+            try:
+                franchise = Franchise.objects.get(id=franchise_id)
+                seasons = seasons.filter(franchise=franchise)
+            except Franchise.DoesNotExist:
+                return Response(
+                    {"error": "Franchise not found."},
+                    status=status.HTTP_404_NOT_FOUND
+                )
+        serialized = SeasonSerializer(seasons, many=True)
+        return Response(serialized.data, status=status.HTTP_200_OK)
 
 
 class SeasonEpisodesSerializer(serializers.ModelSerializer):
