@@ -51,7 +51,7 @@ def register_user(request):
     password = request.data.get('password', None)
     display_name = request.data['display_name']
     bio = request.data.get('bio', None)
-    picture = request.data.get('picture', 'https://i.imgur.com/D0Snt4u.jpg')
+    picture = request.data.get('picture', 'https://i.imgur.com/qhgJMUC.png')
     favorite_franchise = Franchise.objects.get(
         pk=request.data['favorite_franchise'])
 
