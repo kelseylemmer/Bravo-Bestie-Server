@@ -11,5 +11,5 @@ class Profile(models.Model):
     picture = models.URLField(max_length=100)
     episodes = models.ManyToManyField("Episode", through="ProfileEpisode")
     favorite_franchise = models.ForeignKey(
-        'Franchise', on_delete=models.CASCADE)
+        'Franchise', on_delete=models.CASCADE, null=True, blank=True)
     # stretch goal: add top 5 cast members

@@ -1,5 +1,7 @@
 """View module for handling requests about event"""
 from django.http import HttpResponseServerError
+from rest_framework.authentication import SessionAuthentication, BasicAuthentication
+from rest_framework.permissions import IsAuthenticatedOrReadOnly, IsAuthenticated
 from rest_framework.viewsets import ViewSet
 from rest_framework.response import Response
 from rest_framework import serializers, status
@@ -9,6 +11,9 @@ from django.contrib.auth.models import User
 
 class FranchiseView(ViewSet):
     """Bravo Bestie franchise view"""
+
+    authentication_classes = [SessionAuthentication, BasicAuthentication]
+    permission_classes = [IsAuthenticatedOrReadOnly]
 
     def retrieve(self, request, pk):
         """Handle GET requests for single franchise
