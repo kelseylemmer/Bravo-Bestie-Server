@@ -5,7 +5,8 @@
     "fields": {
       "label": "The Real Housewives of Beverly Hills",
       "abbreviation": "RHOBH",
-      "series_premier": "10-14-2010"
+      "series_premier": "10-14-2010",
+      "image": "https://i.imgur.com/cyVUwoN.jpg"
     }
   },
   {
@@ -14,7 +15,8 @@
     "fields": {
       "label": "Vanderpump Rules",
       "abbreviation": "VPR",
-      "series_premier": "01-07-2013"
+      "series_premier": "01-07-2013",
+      "image": "https://i.imgur.com/JI3lj7H.jpg"
     }
   },
   {
@@ -23,7 +25,8 @@
     "fields": {
       "label": "The Real Housewives of Miami",
       "abbreviation": "RHOM",
-      "series_premier": "02-22-2011"
+      "series_premier": "02-22-2011",
+      "image": "https://i.imgur.com/euJWuxt.jpg"
     }
   },
   {
@@ -32,7 +35,8 @@
     "fields": {
       "label": "The Real Housewives of Potomac",
       "abbreviation": "RHOP",
-      "series_premier": "01-17-2016"
+      "series_premier": "01-17-2016",
+      "image": "https://flxt.tmsimg.com/assets/p19587766_b_v12_aa.jpg"
     }
   },
   {
@@ -41,7 +45,8 @@
     "fields": {
       "label": "The Real Housewives of Salt Lake City",
       "abbreviation": "RHOSLC",
-      "series_premier": "11-11-2022"
+      "series_premier": "11-11-2022",
+      "image": "https://i.imgur.com/WW6t7SV.jpg"
     }
   },
   {
@@ -50,7 +55,8 @@
     "fields": {
       "label": "The Real Housewives of New Jersey",
       "abbreviation": "RHONJ",
-      "series_premier": "05-12-2009"
+      "series_premier": "05-12-2009",
+      "image": "https://i.imgur.com/51QtPYq.jpg"
     }
   },
   {
@@ -59,7 +65,8 @@
     "fields": {
       "label": "The Real Housewives of New York",
       "abbreviation": "RHONY",
-      "series_premier": "03-04-2008"
+      "series_premier": "03-04-2008",
+      "image": "https://i.imgur.com/iTQcLUn.jpg"
     }
   },
   {
@@ -68,7 +75,8 @@
     "fields": {
       "label": "The Real Housewives of Atlanta",
       "abbreviation": "RHOA",
-      "series_premier": "10-07-2008"
+      "series_premier": "10-07-2008",
+      "image": "https://i.imgur.com/djPMFrw.jpg"
     }
   },
   {
@@ -77,7 +85,8 @@
     "fields": {
       "label": "The Real Housewives of Orange County",
       "abbreviation": "RHOC",
-      "series_premier": "03-21-2006"
+      "series_premier": "03-21-2006",
+      "image": "https://i.imgur.com/JTp0dw6.jpg"
     }
   }
 ]
