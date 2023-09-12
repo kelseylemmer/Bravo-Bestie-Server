@@ -4,7 +4,7 @@
     "pk": 1,
     "fields": {
       "name": "Taylor Armstrong",
-      "img_url": "",
+      "img_url": "https://i.imgur.com/bbPJK5I.jpg",
       "instagram": "https://www.instagram.com/taylorarmstrong/",
       "twitter": "https://twitter.com/taylorarmstrong"
     }
@@ -14,7 +14,7 @@
     "pk": 2,
     "fields": {
       "name": "Camille Grammer",
-      "img_url": "",
+      "img_url": "https://i.imgur.com/yorNHxv.jpg",
       "instagram": "https://www.instagram.com/therealcamille/",
       "twitter": "https://twitter.com/TheRealCamilleG"
     }
@@ -34,7 +34,7 @@
     "pk": 4,
     "fields": {
       "name": "Kim Richards",
-      "img_url": "",
+      "img_url": "https://i.imgur.com/mEzGnRP.jpg",
       "instagram": "https://www.instagram.com/kimrichards11/",
       "twitter": "https://twitter.com/KimRichards11"
     }
@@ -44,9 +44,9 @@
     "pk": 5,
     "fields": {
       "name": "Kyle Richards",
-      "img_url": "https://twitter.com/KyleRichards",
+      "img_url": "https://i.imgur.com/WQwcj5Z.jpg",
       "instagram": "https://www.instagram.com/kylerichards18/",
-      "twitter": ""
+      "twitter": "https://twitter.com/KyleRichards"
     }
   },
   {
@@ -54,7 +54,7 @@
     "pk": 6,
     "fields": {
       "name": "Lisa Vanderpump",
-      "img_url": "",
+      "img_url": "https://i.imgur.com/VOsSGFX.jpg",
       "instagram": "https://www.instagram.com/lisavanderpump/",
       "twitter": "https://twitter.com/LisaVanderpump"
     }
@@ -64,9 +64,9 @@
     "pk": 7,
     "fields": {
       "name": "Brandi Glanville",
-      "img_url": "https://twitter.com/BrandiGlanville",
+      "img_url": "https://i.imgur.com/Mzj83JY.jpg",
       "instagram": "https://www.instagram.com/brandiglanville/",
-      "twitter": ""
+      "twitter": "https://twitter.com/BrandiGlanville"
     }
   },
   {
@@ -74,7 +74,7 @@
     "pk": 8,
     "fields": {
       "name": "Yolanda Hadid",
-      "img_url": "",
+      "img_url": "https://i.imgur.com/7YdsOAG.jpg",
       "instagram": "https://www.instagram.com/yolanda.hadid/",
       "twitter": "https://twitter.com/YolandaHadid"
     }
@@ -84,7 +84,7 @@
     "pk": 9,
     "fields": {
       "name": "Carlton Gebbia",
-      "img_url": "",
+      "img_url": "https://i.imgur.com/fT8fw6U.jpg",
       "instagram": "https://www.instagram.com/carlton1311/",
       "twitter": "https://twitter.com/CarltonGebbia13"
     }
@@ -94,7 +94,7 @@
     "pk": 10,
     "fields": {
       "name": "Joyce Giraud de Ohoven",
-      "img_url": "",
+      "img_url": "https://i.imgur.com/ddDCb8j.jpg",
       "instagram": "https://www.instagram.com/joyce_giraud/",
       "twitter": "https://twitter.com/joycegiraud"
     }
@@ -104,7 +104,7 @@
     "pk": 11,
     "fields": {
       "name": "Eileen Davidson",
-      "img_url": "",
+      "img_url": "https://i.imgur.com/8jMZcoV.jpg",
       "instagram": "https://www.instagram.com/eileendavidsonofficial/",
       "twitter": "https://twitter.com/eileen_davidson"
     }
@@ -114,7 +114,7 @@
     "pk": 12,
     "fields": {
       "name": "Lisa Rinna",
-      "img_url": "",
+      "img_url": "https://i.imgur.com/HhOb9CF.jpg",
       "instagram": "https://www.instagram.com/lisarinna/",
       "twitter": ""
     }
@@ -124,7 +124,7 @@
     "pk": 13,
     "fields": {
       "name": "Kathryn Edwards",
-      "img_url": "",
+      "img_url": "https://i.imgur.com/j5eGlHT.jpg",
       "instagram": "https://www.instagram.com/katedwards8/",
       "twitter": "https://twitter.com/_KathrynEdwards"
     }
@@ -133,8 +133,8 @@
     "model": "bravoapi.cast",
     "pk": 14,
     "fields": {
-      "name": "Erika Jane",
-      "img_url": "",
+      "name": "Erika Jayne",
+      "img_url": "https://i.imgur.com/xdPLzpy.jpg",
       "instagram": "https://www.instagram.com/theprettymess/",
       "twitter": "https://twitter.com/erikajayne"
     }
@@ -144,9 +144,9 @@
     "pk": 15,
     "fields": {
       "name": "Dorit Kemsley",
-      "img_url": "https://twitter.com/doritkemsley1",
+      "img_url": "https://i.imgur.com/lLbAks3.jpg",
       "instagram": "https://www.instagram.com/doritkemsley/",
-      "twitter": ""
+      "twitter": "https://twitter.com/doritkemsley1"
     }
   },
   {
@@ -154,7 +154,7 @@
     "pk": 16,
     "fields": {
       "name": "Teddi Mellencamp Arroyave",
-      "img_url": "",
+      "img_url": "https://i.imgur.com/4IzB3d6.jpg",
       "instagram": "https://www.instagram.com/teddimellencamp/",
       "twitter": "https://twitter.com/TeddiMellencamp"
     }
@@ -164,7 +164,7 @@
     "pk": 17,
     "fields": {
       "name": "Denise Richards",
-      "img_url": "",
+      "img_url": "https: //i.imgur.com/k3yXROA.jpg",
       "instagram": "https://www.instagram.com/deniserichards/",
       "twitter": "https://twitter.com/DENISE_RICHARDS"
     }
@@ -174,7 +174,7 @@
     "pk": 18,
     "fields": {
       "name": "Garcelle Beauvais",
-      "img_url": "",
+      "img_url": "https://i.imgur.com/Tejv98x.jpg",
       "instagram": "https://www.instagram.com/garcelle/",
       "twitter": "https://twitter.com/GarcelleB"
     }
@@ -184,7 +184,7 @@
     "pk": 19,
     "fields": {
       "name": "Crystal Kung Minkoff",
-      "img_url": "",
+      "img_url": "https://i.imgur.com/4nG3pNR.jpg",
       "instagram": "https://www.instagram.com/crystalkungminkoff/",
       "twitter": ""
     }
@@ -194,7 +194,7 @@
     "pk": 20,
     "fields": {
       "name": "Sutton Stracke",
-      "img_url": "",
+      "img_url": "https://i.imgur.com/7XAPtz5.jpg",
       "instagram": "https://www.instagram.com/suttonstracke/",
       "twitter": "https://twitter.com/SuttonBStracke"
     }
@@ -204,9 +204,9 @@
     "pk": 21,
     "fields": {
       "name": "Diana Jenkins",
-      "img_url": "https://twitter.com/SanelaJenkins",
+      "img_url": "https://i.imgur.com/SftUN4X.jpg",
       "instagram": "https://www.instagram.com/sdjneuro/",
-      "twitter": ""
+      "twitter": "https://twitter.com/SanelaJenkins"
     }
   },
   {
@@ -214,7 +214,7 @@
     "pk": 22,
     "fields": {
       "name": "Kristen Doute",
-      "img_url": "",
+      "img_url": "https://i.imgur.com/vwYyDmk.jpg",
       "instagram": "https://www.instagram.com/kristendoute/",
       "twitter": ""
     }
@@ -224,9 +224,9 @@
     "pk": 23,
     "fields": {
       "name": "Katie Maloney",
-      "img_url": "https://twitter.com/MusicKillsKate",
+      "img_url": "https://i.imgur.com/44e9MSs.jpg",
       "instagram": "https://www.instagram.com/musickillskate/",
-      "twitter": ""
+      "twitter": "https://twitter.com/MusicKillsKate"
     }
   },
   {
@@ -234,7 +234,7 @@
     "pk": 24,
     "fields": {
       "name": "Tom Sandoval",
-      "img_url": "",
+      "img_url": "https://i.imgur.com/3qSNNw3.jpg",
       "instagram": "https://www.instagram.com/tomsandoval1/",
       "twitter": ""
     }
@@ -244,9 +244,9 @@
     "pk": 25,
     "fields": {
       "name": "Stassi Schroeder",
-      "img_url": "https://twitter.com/stassi",
+      "img_url": "",
       "instagram": "https://www.instagram.com/stassischroeder/",
-      "twitter": ""
+      "twitter": "https://twitter.com/stassi"
     }
   },
   {
