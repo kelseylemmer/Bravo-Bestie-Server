@@ -1,3 +1,5 @@
+
+
 rm db.sqlite3
 rm -rf ./bravoapi/migrations
 python3 manage.py migrate
