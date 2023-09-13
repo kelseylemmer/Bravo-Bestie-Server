@@ -1,4 +1,4 @@
-"""View module for handling requests about event"""
+"""View module for handling requests about franchises"""
 from django.http import HttpResponseServerError
 from rest_framework.authentication import SessionAuthentication, BasicAuthentication
 from rest_framework.permissions import IsAuthenticatedOrReadOnly, IsAuthenticated
