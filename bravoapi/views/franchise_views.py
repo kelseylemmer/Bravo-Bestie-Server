@@ -54,4 +54,4 @@ class FranchiseSerializer(serializers.ModelSerializer):
     class Meta:
         model = Franchise
         fields = ('id', 'label', 'abbreviation', 'series_premier',
-                  'seasons')
+                  'seasons', 'image')
