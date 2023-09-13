@@ -17,12 +17,16 @@ class ProfileEpisodeView(ViewSet):
         Returns:
             Response -- JSON serialized list of posts
         """
-        profileEpisodes = ProfileEpisode.objects.order_by('-episode')
-        if "user" in request.query_params:
-            profile = Profile.objects.get(user=request.auth.user)
-            profileEpisodes = profileEpisodes.filter(profile=profile)
 
-        serializer = ProfileEpisodesSerializer(profileEpisodes, many=True)
+        profile_episodes = []
+        profile_episodes = ProfileEpisode.objects.all()
+        profile = Profile.objects.get(user=request.auth.user.id)
+
+        if "current" in request.query_params:
+
+            profile_episodes = profile_episodes.filter(profile=profile)
+
+        serializer = ProfileEpisodesSerializer(profile_episodes, many=True)
         return Response(serializer.data)
 
     def destroy(self, request, pk):

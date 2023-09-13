@@ -1,0 +1,18 @@
+[
+  {
+    "model": "bravoapi.profileepisode",
+    "pk": 1,
+    "fields": {
+      "profile": 2,
+      "episode": 1
+    }
+  },
+  {
+    "model": "bravoapi.profileepisode",
+    "pk": 2,
+    "fields": {
+      "profile": 1,
+      "episode": 1
+    }
+  }
+]
