@@ -16,7 +16,9 @@ class ProfileView(ViewSet):
             Response -- JSON serialized profile
         """
 
-        profile = Profile.objects.get(pk=pk)
+        if "current" in request.query_params:
+            profile = Profile.objects.get(user=request.auth.user.id)
+
         serializer = ProfileSerializer(profile)
         return Response(serializer.data)
 
@@ -62,7 +64,7 @@ class ProfileSerializer(serializers.ModelSerializer):
     """JSON serializer for Profile
     """
 
-    favorite_franchise = ProfileFranchiseSerializer(many=True)
+    favorite_franchise = ProfileFranchiseSerializer(many=False)
     user = ProfileUserSerializer(many=False)
 
     class Meta:

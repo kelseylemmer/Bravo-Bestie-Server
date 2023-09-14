@@ -244,7 +244,7 @@
     "pk": 25,
     "fields": {
       "name": "Stassi Schroeder",
-      "img_url": "",
+      "img_url": "https://i.imgur.com/dF3J8dV.jpg",
       "instagram": "https://www.instagram.com/stassischroeder/",
       "twitter": "https://twitter.com/stassi"
     }
@@ -254,7 +254,7 @@
     "pk": 26,
     "fields": {
       "name": "Scheana Shay",
-      "img_url": "",
+      "img_url": "https://i.imgur.com/MdvJBeX.jpg",
       "instagram": "https://www.instagram.com/scheana/",
       "twitter": "https://twitter.com/scheana"
     }
@@ -264,18 +264,8 @@
     "pk": 27,
     "fields": {
       "name": "Jax Taylor",
-      "img_url": "",
+      "img_url": "https://i.imgur.com/pUAIKXV.jpg",
       "instagram": "https://www.instagram.com/mrjaxtaylor/",
-      "twitter": ""
-    }
-  },
-  {
-    "model": "bravoapi.cast",
-    "pk": 28,
-    "fields": {
-      "name": "Lisa Vanderpump",
-      "img_url": "https://twitter.com/LisaVanderpump",
-      "instagram": "https://www.instagram.com/lisavanderpump/",
       "twitter": ""
     }
   },
@@ -284,7 +274,7 @@
     "pk": 29,
     "fields": {
       "name": "Ariana Madix",
-      "img_url": "",
+      "img_url": "https://i.imgur.com/bTA0XCh.jpg",
       "instagram": "https://www.instagram.com/arianamadix/",
       "twitter": ""
     }
@@ -294,7 +284,7 @@
     "pk": 30,
     "fields": {
       "name": "Tom Schwartz",
-      "img_url": "",
+      "img_url": "https://i.imgur.com/1AiDvlt.jpg",
       "instagram": "https://www.instagram.com/twschwa/",
       "twitter": ""
     }
@@ -304,7 +294,7 @@
     "pk": 31,
     "fields": {
       "name": "James Kennedy",
-      "img_url": "",
+      "img_url": "https://i.imgur.com/pHaeQ9E.jpg",
       "instagram": "https://www.instagram.com/itsjameskennedy/",
       "twitter": ""
     }

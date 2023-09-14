@@ -3,7 +3,7 @@
     "model": "bravoapi.profileepisode",
     "pk": 1,
     "fields": {
-      "profile": 2,
+      "profile": 1,
       "episode": 1
     }
   },
@@ -12,7 +12,15 @@
     "pk": 2,
     "fields": {
       "profile": 1,
-      "episode": 1
+      "episode": 3
+    }
+  },
+  {
+    "model": "bravoapi.profileepisode",
+    "pk": 3,
+    "fields": {
+      "profile": 1,
+      "episode": 2
     }
   }
 ]

@@ -5,7 +5,7 @@ from rest_framework.permissions import IsAuthenticatedOrReadOnly, IsAuthenticate
 from rest_framework.viewsets import ViewSet
 from rest_framework.response import Response
 from rest_framework import serializers, status
-from bravoapi.models import Franchise, Season
+from bravoapi.models import Franchise, Season, Episode
 from django.contrib.auth.models import User
 
 
@@ -36,13 +36,24 @@ class FranchiseView(ViewSet):
         return Response(serialized.data, status=status.HTTP_200_OK)
 
 
-class FranchiseSeasonsSerializer(serializers.ModelSerializer):
+class FranchiseSeasonEpisodesSerializer(serializers.ModelSerializer):
     """JSON serializer for franchise seasons
     """
 
     class Meta:
+        model = Episode
+        fields = ('id', 'title', 'episode')
+
+
+class FranchiseSeasonsSerializer(serializers.ModelSerializer):
+    """JSON serializer for franchise seasons
+    """
+
+    episodes = FranchiseSeasonEpisodesSerializer(many=True)
+
+    class Meta:
         model = Season
-        fields = ('id', 'season_number', 'premier_date')
+        fields = ('id', 'season_number', 'premier_date', 'episodes')
 
 
 class FranchiseSerializer(serializers.ModelSerializer):
