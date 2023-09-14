@@ -5,7 +5,7 @@ from rest_framework.permissions import IsAuthenticatedOrReadOnly, IsAuthenticate
 from rest_framework.viewsets import ViewSet
 from rest_framework.response import Response
 from rest_framework import serializers, status
-from bravoapi.models import Profile, ProfileEpisode, Episode
+from bravoapi.models import Profile, ProfileEpisode, Episode, Season, Franchise
 from django.contrib.auth.models import User
 
 
@@ -53,9 +53,42 @@ class ProfileEpisodeView(ViewSet):
         return Response(serialized.data, status=status.HTTP_201_CREATED)
 
 
+class ProfileEpisodeEpisodeSeasonFranchiseSerializer(serializers.ModelSerializer):
+    """JSON serializer for Profile episodes - episode season
+    """
+
+    class Meta:
+        model = Franchise
+        fields = ('id', 'label')
+
+
+class ProfileEpisodeEpisodeSeasonSerializer(serializers.ModelSerializer):
+    """JSON serializer for Profile episodes - episode season
+    """
+
+    franchise = ProfileEpisodeEpisodeSeasonFranchiseSerializer(many=False)
+
+    class Meta:
+        model = Season
+        fields = ('id', 'season_number', 'franchise')
+
+
+class ProfileEpisodeEpisodeSerializer(serializers.ModelSerializer):
+    """JSON serializer for Profile episodes - episodes
+    """
+
+    season = ProfileEpisodeEpisodeSeasonSerializer(many=False)
+
+    class Meta:
+        model = Episode
+        fields = ('id', 'title', 'season', 'episode')
+
+
 class ProfileEpisodesSerializer(serializers.ModelSerializer):
     """JSON serializer for Profile episodes
     """
+
+    episode = ProfileEpisodeEpisodeSerializer(many=False)
 
     class Meta:
         model = ProfileEpisode
