@@ -19,7 +19,7 @@ class ProfileEpisodeView(ViewSet):
         """
 
         profile_episodes = []
-        profile_episodes = ProfileEpisode.objects.all()
+        profile_episodes = ProfileEpisode.objects.order_by('episode')
         profile = Profile.objects.get(user=request.auth.user.id)
 
         if "current" in request.query_params:
@@ -89,6 +89,15 @@ class ProfileEpisodesSerializer(serializers.ModelSerializer):
     """
 
     episode = ProfileEpisodeEpisodeSerializer(many=False)
+
+    class Meta:
+        model = ProfileEpisode
+        fields = ('id', 'profile', 'episode')
+
+
+class BasicProfileEpisodesSerializer(serializers.ModelSerializer):
+    """JSON serializer for Profile episodes
+    """
 
     class Meta:
         model = ProfileEpisode

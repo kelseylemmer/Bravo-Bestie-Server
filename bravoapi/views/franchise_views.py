@@ -32,7 +32,7 @@ class FranchiseView(ViewSet):
             Response -- JSON serialized list of franchises
         """
         franchises = Franchise.objects.all()
-        serialized = FranchiseSerializer(franchises, many=True)
+        serialized = BasicFranchiseSerializer(franchises, many=True)
         return Response(serialized.data, status=status.HTTP_200_OK)
 
 
@@ -66,3 +66,12 @@ class FranchiseSerializer(serializers.ModelSerializer):
         model = Franchise
         fields = ('id', 'label', 'abbreviation', 'series_premier',
                   'seasons', 'image')
+
+
+class BasicFranchiseSerializer(serializers.ModelSerializer):
+    """JSON serializer for Franchise
+    """
+
+    class Meta:
+        model = Franchise
+        fields = ('id', 'label', 'abbreviation', 'image')
