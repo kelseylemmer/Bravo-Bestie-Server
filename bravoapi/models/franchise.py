@@ -7,4 +7,5 @@ class Franchise(models.Model):
     label = models.CharField(max_length=70)
     abbreviation = models.CharField(max_length=10)
     series_premier = models.CharField(max_length=10)
-    image = models.URLField()
+    list_image = models.URLField()
+    banner_image = models.URLField()
