@@ -1,0 +1,23 @@
+[
+  {
+    "model": "bravoapi.role",
+    "pk": 1,
+    "fields": {
+      "label": "Cast"
+    }
+  },
+  {
+    "model": "bravoapi.role",
+    "pk": 2,
+    "fields": {
+      "label": "Friend"
+    }
+  },
+  {
+    "model": "bravoapi.role",
+    "pk": 3,
+    "fields": {
+      "label": "Guest"
+    }
+  }
+]

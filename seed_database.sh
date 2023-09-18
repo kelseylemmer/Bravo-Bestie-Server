@@ -11,3 +11,6 @@ python3 manage.py loaddata episodes
 python3 manage.py loaddata users
 python3 manage.py loaddata tokens
 python3 manage.py loaddata profile_episode
+python3 manage.py loaddata cast
+python3 manage.py loaddata roles
+python3 manage.py loaddata season_cast

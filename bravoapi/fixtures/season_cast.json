@@ -1,0 +1,380 @@
+[
+  {
+    "model": "bravoapi.seasoncast",
+    "pk": 1,
+    "fields": {
+      "cast": 1,
+      "season": 1,
+      "role": 1
+    }
+  },
+  {
+    "model": "bravoapi.seasoncast",
+    "pk": 2,
+    "fields": {
+      "cast": 1,
+      "season": 2,
+      "role": 1
+    }
+  },
+  {
+    "model": "bravoapi.seasoncast",
+    "pk": 3,
+    "fields": {
+      "cast": 1,
+      "season": 3,
+      "role": 1
+    }
+  },
+  {
+    "model": "bravoapi.seasoncast",
+    "pk": 4,
+    "fields": {
+      "cast": 1,
+      "season": 4,
+      "role": 3
+    }
+  },
+  {
+    "model": "bravoapi.seasoncast",
+    "pk": 5,
+    "fields": {
+      "cast": 1,
+      "season": 5,
+      "role": 3
+    }
+  },
+  {
+    "model": "bravoapi.seasoncast",
+    "pk": 6,
+    "fields": {
+      "cast": 1,
+      "season": 6,
+      "role": 3
+    }
+  },
+  {
+    "model": "bravoapi.seasoncast",
+    "pk": 7,
+    "fields": {
+      "cast": 2,
+      "season": 1,
+      "role": 1
+    }
+  },
+  {
+    "model": "bravoapi.seasoncast",
+    "pk": 8,
+    "fields": {
+      "cast": 2,
+      "season": 2,
+      "role": 1
+    }
+  },
+  {
+    "model": "bravoapi.seasoncast",
+    "pk": 9,
+    "fields": {
+      "cast": 2,
+      "season": 3,
+      "role": 2
+    }
+  },
+  {
+    "model": "bravoapi.seasoncast",
+    "pk": 10,
+    "fields": {
+      "cast": 2,
+      "season": 5,
+      "role": 3
+    }
+  },
+  {
+    "model": "bravoapi.seasoncast",
+    "pk": 11,
+    "fields": {
+      "cast": 2,
+      "season": 6,
+      "role": 3
+    }
+  },
+  {
+    "model": "bravoapi.seasoncast",
+    "pk": 12,
+    "fields": {
+      "cast": 2,
+      "season": 7,
+      "role": 3
+    }
+  },
+  {
+    "model": "bravoapi.seasoncast",
+    "pk": 13,
+    "fields": {
+      "cast": 2,
+      "season": 8,
+      "role": 2
+    }
+  },
+  {
+    "model": "bravoapi.seasoncast",
+    "pk": 14,
+    "fields": {
+      "cast": 2,
+      "season": 9,
+      "role": 2
+    }
+  },
+  {
+    "model": "bravoapi.seasoncast",
+    "pk": 15,
+    "fields": {
+      "cast": 2,
+      "season": 10,
+      "role": 3
+    }
+  },
+  {
+    "model": "bravoapi.seasoncast",
+    "pk": 16,
+    "fields": {
+      "cast": 3,
+      "season": 1,
+      "role": 1
+    }
+  },
+  {
+    "model": "bravoapi.seasoncast",
+    "pk": 17,
+    "fields": {
+      "cast": 3,
+      "season": 2,
+      "role": 1
+    }
+  },
+  {
+    "model": "bravoapi.seasoncast",
+    "pk": 18,
+    "fields": {
+      "cast": 3,
+      "season": 5,
+      "role": 3
+    }
+  },
+  {
+    "model": "bravoapi.seasoncast",
+    "pk": 19,
+    "fields": {
+      "cast": 3,
+      "season": 6,
+      "role": 3
+    }
+  },
+  {
+    "model": "bravoapi.seasoncast",
+    "pk": 20,
+    "fields": {
+      "cast": 3,
+      "season": 8,
+      "role": 3
+    }
+  },
+  {
+    "model": "bravoapi.seasoncast",
+    "pk": 21,
+    "fields": {
+      "cast": 3,
+      "season": 10,
+      "role": 3
+    }
+  },
+  {
+    "model": "bravoapi.seasoncast",
+    "pk": 22,
+    "fields": {
+      "cast": 4,
+      "season": 1,
+      "role": 1
+    }
+  },
+  {
+    "model": "bravoapi.seasoncast",
+    "pk": 23,
+    "fields": {
+      "cast": 4,
+      "season": 2,
+      "role": 1
+    }
+  },
+  {
+    "model": "bravoapi.seasoncast",
+    "pk": 24,
+    "fields": {
+      "cast": 4,
+      "season": 3,
+      "role": 1
+    }
+  },
+  {
+    "model": "bravoapi.seasoncast",
+    "pk": 25,
+    "fields": {
+      "cast": 4,
+      "season": 4,
+      "role": 1
+    }
+  },
+  {
+    "model": "bravoapi.seasoncast",
+    "pk": 26,
+    "fields": {
+      "cast": 4,
+      "season": 5,
+      "role": 1
+    }
+  },
+  {
+    "model": "bravoapi.seasoncast",
+    "pk": 27,
+    "fields": {
+      "cast": 4,
+      "season": 6,
+      "role": 3
+    }
+  },
+  {
+    "model": "bravoapi.seasoncast",
+    "pk": 28,
+    "fields": {
+      "cast": 4,
+      "season": 7,
+      "role": 3
+    }
+  },
+  {
+    "model": "bravoapi.seasoncast",
+    "pk": 29,
+    "fields": {
+      "cast": 4,
+      "season": 9,
+      "role": 3
+    }
+  },
+  {
+    "model": "bravoapi.seasoncast",
+    "pk": 30,
+    "fields": {
+      "cast": 4,
+      "season": 10,
+      "role": 3
+    }
+  },
+  {
+    "model": "bravoapi.seasoncast",
+    "pk": 31,
+    "fields": {
+      "cast": 5,
+      "season": 1,
+      "role": 1
+    }
+  },
+  {
+    "model": "bravoapi.seasoncast",
+    "pk": 32,
+    "fields": {
+      "cast": 5,
+      "season": 2,
+      "role": 1
+    }
+  },
+  {
+    "model": "bravoapi.seasoncast",
+    "pk": 33,
+    "fields": {
+      "cast": 5,
+      "season": 3,
+      "role": 1
+    }
+  },
+  {
+    "model": "bravoapi.seasoncast",
+    "pk": 34,
+    "fields": {
+      "cast": 5,
+      "season": 4,
+      "role": 1
+    }
+  },
+  {
+    "model": "bravoapi.seasoncast",
+    "pk": 35,
+    "fields": {
+      "cast": 5,
+      "season": 5,
+      "role": 1
+    }
+  },
+  {
+    "model": "bravoapi.seasoncast",
+    "pk": 36,
+    "fields": {
+      "cast": 5,
+      "season": 6,
+      "role": 1
+    }
+  },
+  {
+    "model": "bravoapi.seasoncast",
+    "pk": 37,
+    "fields": {
+      "cast": 5,
+      "season": 7,
+      "role": 1
+    }
+  },
+  {
+    "model": "bravoapi.seasoncast",
+    "pk": 38,
+    "fields": {
+      "cast": 5,
+      "season": 8,
+      "role": 1
+    }
+  },
+  {
+    "model": "bravoapi.seasoncast",
+    "pk": 39,
+    "fields": {
+      "cast": 5,
+      "season": 9,
+      "role": 1
+    }
+  },
+  {
+    "model": "bravoapi.seasoncast",
+    "pk": 40,
+    "fields": {
+      "cast": 5,
+      "season": 10,
+      "role": 1
+    }
+  },
+  {
+    "model": "bravoapi.seasoncast",
+    "pk": 41,
+    "fields": {
+      "cast": 5,
+      "season": 11,
+      "role": 1
+    }
+  },
+  {
+    "model": "bravoapi.seasoncast",
+    "pk": 42,
+    "fields": {
+      "cast": 5,
+      "season": 12,
+      "role": 1
+    }
+  }
+]
