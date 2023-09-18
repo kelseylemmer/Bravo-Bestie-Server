@@ -65,7 +65,7 @@ class ProfileFranchiseSerializer(serializers.ModelSerializer):
 
     class Meta:
         model = Franchise
-        fields = ('id', 'label')
+        fields = ('id', 'label', 'list_image')
 
 
 class ProfileSerializer(serializers.ModelSerializer):
