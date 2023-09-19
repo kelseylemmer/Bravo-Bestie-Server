@@ -9,7 +9,7 @@ from bravoapi.models import Profile, ProfileEpisode, Episode, Season, Franchise
 from django.contrib.auth.models import User
 
 
-class ProfileEpisodeView(ViewSet):
+class FranchiseProfileEpisodeView(ViewSet):
     """Bravo Bestie profile episode view"""
 
     def list(self, request):
@@ -26,7 +26,7 @@ class ProfileEpisodeView(ViewSet):
 
             profile_episodes = profile_episodes.filter(profile=profile)
 
-        serializer = ProfileEpisodesSerializer(profile_episodes, many=True)
+        serializer = EpisodesSerializer(profile_episodes, many=True)
         return Response(serializer.data)
 
     def destroy(self, request, pk):
@@ -49,11 +49,11 @@ class ProfileEpisodeView(ViewSet):
         new_profile_episode.episode = episode
         new_profile_episode.save()
 
-        serialized = ProfileEpisodesSerializer(new_profile_episode, many=False)
+        serialized = EpisodesSerializer(new_profile_episode, many=False)
         return Response(serialized.data, status=status.HTTP_201_CREATED)
 
 
-class ProfileEpisodeEpisodeSeasonFranchiseSerializer(serializers.ModelSerializer):
+class EpisodeEpisodeSeasonFranchiseSerializer(serializers.ModelSerializer):
     """JSON serializer for Profile episodes - episode season
     """
 
@@ -62,42 +62,33 @@ class ProfileEpisodeEpisodeSeasonFranchiseSerializer(serializers.ModelSerializer
         fields = ('id', 'label')
 
 
-class ProfileEpisodeEpisodeSeasonSerializer(serializers.ModelSerializer):
+class EpisodeEpisodeSeasonSerializer(serializers.ModelSerializer):
     """JSON serializer for Profile episodes - episode season
     """
 
-    franchise = ProfileEpisodeEpisodeSeasonFranchiseSerializer(many=False)
+    franchise = EpisodeEpisodeSeasonFranchiseSerializer(many=False)
 
     class Meta:
         model = Season
         fields = ('id', 'season_number', 'franchise')
 
 
-class ProfileEpisodeEpisodeSerializer(serializers.ModelSerializer):
+class EpisodeEpisodeSerializer(serializers.ModelSerializer):
     """JSON serializer for Profile episodes - episodes
     """
 
-    season = ProfileEpisodeEpisodeSeasonSerializer(many=False)
+    season = EpisodeEpisodeSeasonSerializer(many=False)
 
     class Meta:
         model = Episode
         fields = ('id', 'title', 'season', 'episode')
 
 
-class ProfileEpisodesSerializer(serializers.ModelSerializer):
+class EpisodesSerializer(serializers.ModelSerializer):
     """JSON serializer for Profile episodes
     """
 
-    episode = ProfileEpisodeEpisodeSerializer(many=False)
-
-    class Meta:
-        model = ProfileEpisode
-        fields = ('id', 'profile', 'episode')
-
-
-class BasicProfileEpisodesSerializer(serializers.ModelSerializer):
-    """JSON serializer for Profile episodes
-    """
+    episode = EpisodeEpisodeSerializer(many=False)
 
     class Meta:
         model = ProfileEpisode
