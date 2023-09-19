@@ -6,7 +6,7 @@ from django.contrib import admin
 from django.urls import path
 from django.conf.urls import include
 from rest_framework import routers
-from bravoapi.views import EpisodeView, SeasonView, FranchiseView, register_user, login_user, ProfileProfileEpisodeView, ProfileView, FranchiseProfileEpisodeView
+from bravoapi.views import EpisodeView, SeasonView, FranchiseView, register_user, login_user, ProfileProfileEpisodeView, ProfileView, SeasonCastView, FranchiseProfileEpisodeView
 
 router = routers.DefaultRouter(trailing_slash=False)
 router.register(r'episodes', EpisodeView, 'episode')
@@ -17,6 +17,8 @@ router.register(r'profileEpisodes',
 router.register(r'profiles', ProfileView, 'profile')
 router.register(r'profileEpisode',
                 FranchiseProfileEpisodeView, 'profile episode')
+router.register(r'seasonCast',
+                SeasonCastView, 'profile episode')
 
 urlpatterns = [
     path('admin/', admin.site.urls),

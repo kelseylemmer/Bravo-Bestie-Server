@@ -6,3 +6,4 @@ from .auth import register_user, login_user
 from .profile_views import ProfileView
 from .profile_episodes_view_p import ProfileProfileEpisodeView
 from .profile_episode_views_f import FranchiseProfileEpisodeView
+from .season_cast_views import SeasonCastView
