@@ -60,7 +60,7 @@ class ProfileEpisodeEpisodeSerializer(serializers.ModelSerializer):
 
     class Meta:
         model = Episode
-        fields = ('id', 'title')
+        fields = ('id', 'title', 'episode')
 
 
 class ProfileEpisodeSeasonSerializer(serializers.ModelSerializer):
