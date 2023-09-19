@@ -4,8 +4,7 @@ from rest_framework.viewsets import ViewSet
 from rest_framework.response import Response
 from rest_framework import serializers, status
 from bravoapi.models import Franchise, Season, Role, Cast, SeasonCast
-from django.contrib.auth.models import User
-from rest_framework.authtoken.models import Token
+from django.db.models import F
 
 
 class SeasonCastView(ViewSet):
@@ -31,7 +30,8 @@ class SeasonCastView(ViewSet):
 
         if franchise is not None:
             season_cast = SeasonCast.objects.filter(
-                season__franchise__id=franchise)
+                season__franchise__id=franchise
+            ).order_by('season')
         else:
             season_cast = SeasonCast.objects.all()
 

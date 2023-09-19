@@ -20,6 +20,7 @@ router.register(r'profileepisode',
 router.register(r'seasoncast',
                 SeasonCastView, 'profile episode')
 
+
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('login', login_user),
