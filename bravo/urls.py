@@ -12,12 +12,12 @@ router = routers.DefaultRouter(trailing_slash=False)
 router.register(r'episodes', EpisodeView, 'episode')
 router.register(r'seasons', SeasonView, 'season')
 router.register(r'franchises', FranchiseView, 'franchise')
-router.register(r'profileEpisodes',
+router.register(r'profileepisodes',
                 ProfileProfileEpisodeView, 'profileEpisode')
 router.register(r'profiles', ProfileView, 'profile')
-router.register(r'profileEpisode',
+router.register(r'profileepisode',
                 FranchiseProfileEpisodeView, 'profile episode')
-router.register(r'seasonCast',
+router.register(r'seasoncast',
                 SeasonCastView, 'profile episode')
 
 urlpatterns = [
