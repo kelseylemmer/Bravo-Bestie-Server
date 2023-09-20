@@ -8,3 +8,4 @@ from .profile_episodes_view_p import ProfileProfileEpisodeView
 from .profile_episode_views_f import FranchiseProfileEpisodeView
 from .season_cast_views import SeasonCastView
 from .franchise_cast_views import FranchiseCastView
+from .cast_views import CastView
