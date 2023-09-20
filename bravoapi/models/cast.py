@@ -8,3 +8,4 @@ class Cast(models.Model):
     img_url = models.URLField(max_length=100)
     instagram = models.URLField(max_length=100)
     twitter = models.URLField(max_length=100)
+    bio = models.CharField(max_length=5000, blank=True)
