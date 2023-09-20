@@ -304,7 +304,7 @@
     "pk": 32,
     "fields": {
       "name": "Brittany Cartwright",
-      "img_url": "",
+      "img_url": "https://i.imgur.com/3xWxblI.png",
       "instagram": "https://www.instagram.com/brittany/",
       "twitter": "https://twitter.com/BNCartwright"
     }
@@ -314,7 +314,7 @@
     "pk": 33,
     "fields": {
       "name": "Lala Kent",
-      "img_url": "",
+      "img_url": "https://i.imgur.com/mz78YxR.jpg",
       "instagram": "https://www.instagram.com/lalakent/",
       "twitter": "https://twitter.com/Lalakentbeauty"
     }
@@ -324,7 +324,7 @@
     "pk": 34,
     "fields": {
       "name": "Max Boyens",
-      "img_url": "",
+      "img_url": "https://i.imgur.com/wGEYRCu.jpg",
       "instagram": "https://www.instagram.com/issamaximillian/",
       "twitter": ""
     }
@@ -334,7 +334,7 @@
     "pk": 35,
     "fields": {
       "name": "Brett Caprioni",
-      "img_url": "",
+      "img_url": "https://i.imgur.com/ocut4iJ.jpg",
       "instagram": "",
       "twitter": ""
     }
@@ -344,7 +344,7 @@
     "pk": 36,
     "fields": {
       "name": "Beau Clark",
-      "img_url": "",
+      "img_url": "https://i.imgur.com/GjG5iWQ.jpg",
       "instagram": "https://www.instagram.com/thegoodthebadthebogie/",
       "twitter": "https://twitter.com/iambeau"
     }
@@ -354,7 +354,7 @@
     "pk": 37,
     "fields": {
       "name": "Dayna Kathan",
-      "img_url": "",
+      "img_url": "https://i.imgur.com/cbQsMrq.jpg",
       "instagram": "https://www.instagram.com/dadadayns/",
       "twitter": ""
     }
@@ -364,7 +364,7 @@
     "pk": 38,
     "fields": {
       "name": "Charli Burnett",
-      "img_url": "",
+      "img_url": "https://i.imgur.com/yAWecIM.jpg",
       "instagram": "https://www.instagram.com/charliburnett/",
       "twitter": "https://twitter.com/CharliBurnett_"
     }
@@ -374,7 +374,7 @@
     "pk": 39,
     "fields": {
       "name": "Brock Davies",
-      "img_url": "",
+      "img_url": "https://i.imgur.com/TmCs9SX.jpg",
       "instagram": "https://www.instagram.com/brock__davies/",
       "twitter": ""
     }
@@ -384,7 +384,7 @@
     "pk": 40,
     "fields": {
       "name": "Raquel Leviss",
-      "img_url": "",
+      "img_url": "https://i.imgur.com/jnHlGRH.jpg",
       "instagram": "https://www.instagram.com/raquelleviss/",
       "twitter": "https://twitter.com/RaquelLeviss"
     }
@@ -394,7 +394,7 @@
     "pk": 41,
     "fields": {
       "name": "Lea Black",
-      "img_url": "",
+      "img_url": "https://i.imgur.com/VdQWDVF.jpg",
       "instagram": "https://www.instagram.com/leablackmiami/",
       "twitter": "https://twitter.com/LeaBlackMiami"
     }
@@ -404,7 +404,7 @@
     "pk": 42,
     "fields": {
       "name": "Adriana de Moura",
-      "img_url": "",
+      "img_url": "https://i.imgur.com/UkYWMK8.jpg",
       "instagram": "https://www.instagram.com/realadrianademoura/",
       "twitter": ""
     }
@@ -414,7 +414,7 @@
     "pk": 43,
     "fields": {
       "name": "Alexia Nepola",
-      "img_url": "",
+      "img_url": "https://i.imgur.com/Lw6iQY6.jpg",
       "instagram": "https://www.instagram.com/alexiae_says/",
       "twitter": ""
     }
@@ -424,7 +424,7 @@
     "pk": 44,
     "fields": {
       "name": "Marysol Patton",
-      "img_url": "",
+      "img_url": "https://i.imgur.com/TOFoS3U.jpg",
       "instagram": "https://www.instagram.com/marysolpatton/",
       "twitter": ""
     }
@@ -434,7 +434,7 @@
     "pk": 45,
     "fields": {
       "name": "Larsa Pippen",
-      "img_url": "",
+      "img_url": "https://i.imgur.com/R3POQyf.jpg",
       "instagram": "https://www.instagram.com/larsapippen/",
       "twitter": "https://twitter.com/larsapippen"
     }
@@ -444,7 +444,7 @@
     "pk": 46,
     "fields": {
       "name": "Cristy Rice",
-      "img_url": "",
+      "img_url": "https://i.imgur.com/HlXZf3h.png",
       "instagram": "https://www.instagram.com/cristyrice12/",
       "twitter": "https://twitter.com/cubanrice"
     }
@@ -454,7 +454,7 @@
     "pk": 47,
     "fields": {
       "name": "Lisa Hochstein",
-      "img_url": "",
+      "img_url": "https://i.imgur.com/cr6TlZd.jpg",
       "instagram": "instagram.com/lisahochstein/",
       "twitter": ""
     }
@@ -464,7 +464,7 @@
     "pk": 48,
     "fields": {
       "name": "Joanna Krupa",
-      "img_url": "",
+      "img_url": "https://i.imgur.com/7xwlLMU.jpg",
       "instagram": "https://www.instagram.com/joannakrupa/",
       "twitter": ""
     }
@@ -474,7 +474,7 @@
     "pk": 49,
     "fields": {
       "name": "Ana Quincoces",
-      "img_url": "",
+      "img_url": "https: //i.imgur.com/3uIru0K.png",
       "instagram": "https://www.instagram.com/anaqooks/",
       "twitter": "https://twitter.com/OfficialAnaQ"
     }
@@ -484,7 +484,7 @@
     "pk": 50,
     "fields": {
       "name": "Karent Sierra",
-      "img_url": "",
+      "img_url": "https://i.imgur.com/njbFgSk.png",
       "instagram": "https://www.instagram.com/karentsierra/",
       "twitter": ""
     }
@@ -494,7 +494,7 @@
     "pk": 51,
     "fields": {
       "name": "Guerdy Abraira",
-      "img_url": "",
+      "img_url": "https://i.imgur.com/sVwcAxK.jpg",
       "instagram": "https://www.instagram.com/guerdydesign/",
       "twitter": ""
     }
@@ -504,7 +504,7 @@
     "pk": 52,
     "fields": {
       "name": "Julia Lemigova",
-      "img_url": "",
+      "img_url": "https://i.imgur.com/in3UC0H.jpg",
       "instagram": "https://www.instagram.com/julialemigova/",
       "twitter": "https://twitter.com/JLemigova"
     }
@@ -514,7 +514,7 @@
     "pk": 53,
     "fields": {
       "name": "Nicole Martin",
-      "img_url": "",
+      "img_url": "https://i.imgur.com/9nhnCQU.jpg",
       "instagram": "https://www.instagram.com/drnicolemartin/",
       "twitter": "https://twitter.com/DrNicoleMartin"
     }
@@ -524,7 +524,7 @@
     "pk": 54,
     "fields": {
       "name": "Gizelle Bryant",
-      "img_url": "",
+      "img_url": "https://i.imgur.com/avnz51K.jpg",
       "instagram": "https://www.instagram.com/gizellebryant/",
       "twitter": "https://twitter.com/gizellebryant"
     }
@@ -534,7 +534,7 @@
     "pk": 55,
     "fields": {
       "name": "Ashley Darby",
-      "img_url": "",
+      "img_url": "https://i.imgur.com/QbuouC0.jpg",
       "instagram": "https://www.instagram.com/ashleyboalchdarby/",
       "twitter": "https://twitter.com/_AshleyDarby"
     }
@@ -544,7 +544,7 @@
     "pk": 56,
     "fields": {
       "name": "Robyn Dixon",
-      "img_url": "",
+      "img_url": "https://i.imgur.com/61ot5EY.jpg",
       "instagram": "https://www.instagram.com/robyndixon10/",
       "twitter": "https://twitter.com/RobynDixonRHOP"
     }
@@ -554,7 +554,7 @@
     "pk": 57,
     "fields": {
       "name": "Karen Huger",
-      "img_url": "",
+      "img_url": "https://i.imgur.com/4P5qlBt.jpg",
       "instagram": "https://www.instagram.com/officialkarenhuger/",
       "twitter": "https://twitter.com/KarenHuger"
     }
@@ -564,7 +564,7 @@
     "pk": 58,
     "fields": {
       "name": "Charrisse Jackson-Jordan",
-      "img_url": "",
+      "img_url": "https://i.imgur.com/ziYuJDL.png",
       "instagram": "",
       "twitter": "https://twitter.com/charrissejordan"
     }
@@ -574,7 +574,7 @@
     "pk": 59,
     "fields": {
       "name": "Katie Rost",
-      "img_url": "",
+      "img_url": "https://i.imgur.com/ti8bGNh.png",
       "instagram": "https://www.instagram.com/katierostofficial/",
       "twitter": "https://twitter.com/katierost"
     }
@@ -584,7 +584,7 @@
     "pk": 60,
     "fields": {
       "name": "Monique Samuels",
-      "img_url": "",
+      "img_url": "https://i.imgur.com/iv5STLk.jpg",
       "instagram": "https://www.instagram.com/mrsmoniquesamuels/",
       "twitter": "https://twitter.com/iammrssamuels"
     }
@@ -594,7 +594,7 @@
     "pk": 61,
     "fields": {
       "name": "Candiace Dillard-Bassett",
-      "img_url": "",
+      "img_url": "https://i.imgur.com/NsnK1Bh.jpg",
       "instagram": "https://www.instagram.com/therealcandiace/",
       "twitter": "https://twitter.com/TherealCANDIACE"
     }
@@ -604,7 +604,7 @@
     "pk": 62,
     "fields": {
       "name": "Wendy Osefo",
-      "img_url": "https://www.instagram.com/wendyosefo/",
+      "img_url": "https://i.imgur.com/C4X5cFU.jpg",
       "instagram": "https://www.instagram.com/wendyosefo/",
       "twitter": ""
     }
@@ -614,9 +614,99 @@
     "pk": 63,
     "fields": {
       "name": "Mia Thornton",
-      "img_url": "",
+      "img_url": "https://i.imgur.com/nXE9wD6.jpg",
       "instagram": "https://www.instagram.com/mrsmiathornton/",
       "twitter": ""
+    }
+  },
+  {
+    "model": "bravoapi.cast",
+    "pk": 64,
+    "fields": {
+      "name": "Lisa Barlow",
+      "img_url": "https://i.imgur.com/okiz6oQ.jpg",
+      "instagram": "https://www.instagram.com/lisabarlow14/",
+      "twitter": "https://twitter.com/LisaBarlow7"
+    }
+  },
+  {
+    "model": "bravoapi.cast",
+    "pk": 65,
+    "fields": {
+      "name": "Mary Cosby",
+      "img_url": "https://i.imgur.com/6ErlOvE.jpg",
+      "instagram": "https://www.instagram.com/mary_m_cosby/",
+      "twitter": "https://twitter.com/Mary_M_Cosby"
+    }
+  },
+  {
+    "model": "bravoapi.cast",
+    "pk": 66,
+    "fields": {
+      "name": "Heather Gay",
+      "img_url": "https://i.imgur.com/ZLIjMSX.jpg",
+      "instagram": "https://www.instagram.com/heathergay/",
+      "twitter": "https://twitter.com/heathergay29y"
+    }
+  },
+  {
+    "model": "bravoapi.cast",
+    "pk": 67,
+    "fields": {
+      "name": "Meredith Marks",
+      "img_url": "https://i.imgur.com/IgTQcSr.jpg",
+      "instagram": "https://www.instagram.com/meredithmarks/",
+      "twitter": "https://twitter.com/MeredithMarks0"
+    }
+  },
+  {
+    "model": "bravoapi.cast",
+    "pk": 68,
+    "fields": {
+      "name": "Whitney Rose",
+      "img_url": "https://i.imgur.com/sNgRcd9.jpg",
+      "instagram": "https://www.instagram.com/whitneywildrose/",
+      "twitter": "https://twitter.com/whitneywildrose"
+    }
+  },
+  {
+    "model": "bravoapi.cast",
+    "pk": 69,
+    "fields": {
+      "name": "Jen Shah",
+      "img_url": "https://i.imgur.com/9UDjpuf.jpg",
+      "instagram": "https://www.instagram.com/therealjenshah/",
+      "twitter": "https://twitter.com/TheRealJenShah"
+    }
+  },
+  {
+    "model": "bravoapi.cast",
+    "pk": 70,
+    "fields": {
+      "name": "Jennie Nguyen",
+      "img_url": "https://i.imgur.com/QiMxDjw.jpg",
+      "instagram": "https://www.instagram.com/jennienguyenluv/",
+      "twitter": ""
+    }
+  },
+  {
+    "model": "bravoapi.cast",
+    "pk": 71,
+    "fields": {
+      "name": "Monica Garcia",
+      "img_url": "https://i.imgur.com/smjfELk.jpg",
+      "instagram": "https://www.instagram.com/monicanikigarcia/",
+      "twitter": "https://twitter.com/monicangarcia"
+    }
+  },
+  {
+    "model": "bravoapi.cast",
+    "pk": 72,
+    "fields": {
+      "name": "Angie Katsanevas",
+      "img_url": "https://i.imgur.com/UEPo3ai.jpgg",
+      "instagram": "https://www.instagram.com/angiekatsanevas/",
+      "twitter": "https://twitter.com/angiekatsanevas"
     }
   }
 ]

@@ -1,0 +1,578 @@
+[
+  {
+    "model": "bravoapi.franchisecast",
+    "pk": 1,
+    "fields": {
+      "cast": 1,
+      "franchise": 1
+    }
+  },
+  {
+    "model": "bravoapi.franchisecast",
+    "pk": 2,
+    "fields": {
+      "cast": 2,
+      "franchise": 1
+    }
+  },
+  {
+    "model": "bravoapi.franchisecast",
+    "pk": 3,
+    "fields": {
+      "cast": 3,
+      "franchise": 1
+    }
+  },
+  {
+    "model": "bravoapi.franchisecast",
+    "pk": 4,
+    "fields": {
+      "cast": 4,
+      "franchise": 1
+    }
+  },
+  {
+    "model": "bravoapi.franchisecast",
+    "pk": 5,
+    "fields": {
+      "cast": 5,
+      "franchise": 1
+    }
+  },
+  {
+    "model": "bravoapi.franchisecast",
+    "pk": 6,
+    "fields": {
+      "cast": 6,
+      "franchise": 1
+    }
+  },
+  {
+    "model": "bravoapi.franchisecast",
+    "pk": 7,
+    "fields": {
+      "cast": 7,
+      "franchise": 1
+    }
+  },
+  {
+    "model": "bravoapi.franchisecast",
+    "pk": 8,
+    "fields": {
+      "cast": 8,
+      "franchise": 1
+    }
+  },
+  {
+    "model": "bravoapi.franchisecast",
+    "pk": 9,
+    "fields": {
+      "cast": 9,
+      "franchise": 1
+    }
+  },
+  {
+    "model": "bravoapi.franchisecast",
+    "pk": 10,
+    "fields": {
+      "cast": 10,
+      "franchise": 1
+    }
+  },
+  {
+    "model": "bravoapi.franchisecast",
+    "pk": 11,
+    "fields": {
+      "cast": 11,
+      "franchise": 1
+    }
+  },
+  {
+    "model": "bravoapi.franchisecast",
+    "pk": 12,
+    "fields": {
+      "cast": 12,
+      "franchise": 1
+    }
+  },
+  {
+    "model": "bravoapi.franchisecast",
+    "pk": 13,
+    "fields": {
+      "cast": 13,
+      "franchise": 1
+    }
+  },
+  {
+    "model": "bravoapi.franchisecast",
+    "pk": 14,
+    "fields": {
+      "cast": 14,
+      "franchise": 1
+    }
+  },
+  {
+    "model": "bravoapi.franchisecast",
+    "pk": 15,
+    "fields": {
+      "cast": 15,
+      "franchise": 1
+    }
+  },
+  {
+    "model": "bravoapi.franchisecast",
+    "pk": 16,
+    "fields": {
+      "cast": 16,
+      "franchise": 1
+    }
+  },
+  {
+    "model": "bravoapi.franchisecast",
+    "pk": 17,
+    "fields": {
+      "cast": 17,
+      "franchise": 1
+    }
+  },
+  {
+    "model": "bravoapi.franchisecast",
+    "pk": 18,
+    "fields": {
+      "cast": 18,
+      "franchise": 1
+    }
+  },
+  {
+    "model": "bravoapi.franchisecast",
+    "pk": 19,
+    "fields": {
+      "cast": 19,
+      "franchise": 1
+    }
+  },
+  {
+    "model": "bravoapi.franchisecast",
+    "pk": 20,
+    "fields": {
+      "cast": 20,
+      "franchise": 1
+    }
+  },
+  {
+    "model": "bravoapi.franchisecast",
+    "pk": 21,
+    "fields": {
+      "cast": 21,
+      "franchise": 1
+    }
+  },
+  {
+    "model": "bravoapi.franchisecast",
+    "pk": 22,
+    "fields": {
+      "cast": 22,
+      "franchise": 2
+    }
+  },
+  {
+    "model": "bravoapi.franchisecast",
+    "pk": 23,
+    "fields": {
+      "cast": 23,
+      "franchise": 2
+    }
+  },
+  {
+    "model": "bravoapi.franchisecast",
+    "pk": 24,
+    "fields": {
+      "cast": 24,
+      "franchise": 2
+    }
+  },
+  {
+    "model": "bravoapi.franchisecast",
+    "pk": 25,
+    "fields": {
+      "cast": 25,
+      "franchise": 2
+    }
+  },
+  {
+    "model": "bravoapi.franchisecast",
+    "pk": 26,
+    "fields": {
+      "cast": 26,
+      "franchise": 2
+    }
+  },
+  {
+    "model": "bravoapi.franchisecast",
+    "pk": 27,
+    "fields": {
+      "cast": 27,
+      "franchise": 2
+    }
+  },
+  {
+    "model": "bravoapi.franchisecast",
+    "pk": 28,
+    "fields": {
+      "cast": 28,
+      "franchise": 2
+    }
+  },
+  {
+    "model": "bravoapi.franchisecast",
+    "pk": 29,
+    "fields": {
+      "cast": 29,
+      "franchise": 2
+    }
+  },
+  {
+    "model": "bravoapi.franchisecast",
+    "pk": 30,
+    "fields": {
+      "cast": 30,
+      "franchise": 2
+    }
+  },
+  {
+    "model": "bravoapi.franchisecast",
+    "pk": 31,
+    "fields": {
+      "cast": 31,
+      "franchise": 2
+    }
+  },
+  {
+    "model": "bravoapi.franchisecast",
+    "pk": 32,
+    "fields": {
+      "cast": 32,
+      "franchise": 2
+    }
+  },
+  {
+    "model": "bravoapi.franchisecast",
+    "pk": 33,
+    "fields": {
+      "cast": 33,
+      "franchise": 2
+    }
+  },
+  {
+    "model": "bravoapi.franchisecast",
+    "pk": 34,
+    "fields": {
+      "cast": 34,
+      "franchise": 2
+    }
+  },
+  {
+    "model": "bravoapi.franchisecast",
+    "pk": 35,
+    "fields": {
+      "cast": 35,
+      "franchise": 2
+    }
+  },
+  {
+    "model": "bravoapi.franchisecast",
+    "pk": 36,
+    "fields": {
+      "cast": 36,
+      "franchise": 2
+    }
+  },
+  {
+    "model": "bravoapi.franchisecast",
+    "pk": 37,
+    "fields": {
+      "cast": 37,
+      "franchise": 2
+    }
+  },
+  {
+    "model": "bravoapi.franchisecast",
+    "pk": 38,
+    "fields": {
+      "cast": 38,
+      "franchise": 2
+    }
+  },
+  {
+    "model": "bravoapi.franchisecast",
+    "pk": 39,
+    "fields": {
+      "cast": 39,
+      "franchise": 2
+    }
+  },
+  {
+    "model": "bravoapi.franchisecast",
+    "pk": 40,
+    "fields": {
+      "cast": 40,
+      "franchise": 2
+    }
+  },
+  {
+    "model": "bravoapi.franchisecast",
+    "pk": 41,
+    "fields": {
+      "cast": 41,
+      "franchise": 3
+    }
+  },
+  {
+    "model": "bravoapi.franchisecast",
+    "pk": 42,
+    "fields": {
+      "cast": 42,
+      "franchise": 3
+    }
+  },
+  {
+    "model": "bravoapi.franchisecast",
+    "pk": 43,
+    "fields": {
+      "cast": 43,
+      "franchise": 3
+    }
+  },
+  {
+    "model": "bravoapi.franchisecast",
+    "pk": 44,
+    "fields": {
+      "cast": 44,
+      "franchise": 3
+    }
+  },
+  {
+    "model": "bravoapi.franchisecast",
+    "pk": 45,
+    "fields": {
+      "cast": 45,
+      "franchise": 3
+    }
+  },
+  {
+    "model": "bravoapi.franchisecast",
+    "pk": 46,
+    "fields": {
+      "cast": 46,
+      "franchise": 3
+    }
+  },
+  {
+    "model": "bravoapi.franchisecast",
+    "pk": 47,
+    "fields": {
+      "cast": 47,
+      "franchise": 3
+    }
+  },
+  {
+    "model": "bravoapi.franchisecast",
+    "pk": 48,
+    "fields": {
+      "cast": 48,
+      "franchise": 3
+    }
+  },
+  {
+    "model": "bravoapi.franchisecast",
+    "pk": 49,
+    "fields": {
+      "cast": 49,
+      "franchise": 3
+    }
+  },
+  {
+    "model": "bravoapi.franchisecast",
+    "pk": 50,
+    "fields": {
+      "cast": 50,
+      "franchise": 3
+    }
+  },
+  {
+    "model": "bravoapi.franchisecast",
+    "pk": 51,
+    "fields": {
+      "cast": 51,
+      "franchise": 3
+    }
+  },
+  {
+    "model": "bravoapi.franchisecast",
+    "pk": 52,
+    "fields": {
+      "cast": 52,
+      "franchise": 3
+    }
+  },
+  {
+    "model": "bravoapi.franchisecast",
+    "pk": 53,
+    "fields": {
+      "cast": 53,
+      "franchise": 3
+    }
+  },
+  {
+    "model": "bravoapi.franchisecast",
+    "pk": 54,
+    "fields": {
+      "cast": 54,
+      "franchise": 4
+    }
+  },
+  {
+    "model": "bravoapi.franchisecast",
+    "pk": 55,
+    "fields": {
+      "cast": 55,
+      "franchise": 4
+    }
+  },
+  {
+    "model": "bravoapi.franchisecast",
+    "pk": 56,
+    "fields": {
+      "cast": 56,
+      "franchise": 4
+    }
+  },
+  {
+    "model": "bravoapi.franchisecast",
+    "pk": 57,
+    "fields": {
+      "cast": 57,
+      "franchise": 4
+    }
+  },
+  {
+    "model": "bravoapi.franchisecast",
+    "pk": 58,
+    "fields": {
+      "cast": 58,
+      "franchise": 4
+    }
+  },
+  {
+    "model": "bravoapi.franchisecast",
+    "pk": 59,
+    "fields": {
+      "cast": 59,
+      "franchise": 4
+    }
+  },
+  {
+    "model": "bravoapi.franchisecast",
+    "pk": 60,
+    "fields": {
+      "cast": 60,
+      "franchise": 4
+    }
+  },
+  {
+    "model": "bravoapi.franchisecast",
+    "pk": 61,
+    "fields": {
+      "cast": 61,
+      "franchise": 4
+    }
+  },
+  {
+    "model": "bravoapi.franchisecast",
+    "pk": 62,
+    "fields": {
+      "cast": 62,
+      "franchise": 4
+    }
+  },
+  {
+    "model": "bravoapi.franchisecast",
+    "pk": 63,
+    "fields": {
+      "cast": 63,
+      "franchise": 4
+    }
+  },
+  {
+    "model": "bravoapi.franchisecast",
+    "pk": 64,
+    "fields": {
+      "cast": 64,
+      "franchise": 5
+    }
+  },
+  {
+    "model": "bravoapi.franchisecast",
+    "pk": 65,
+    "fields": {
+      "cast": 65,
+      "franchise": 5
+    }
+  },
+  {
+    "model": "bravoapi.franchisecast",
+    "pk": 66,
+    "fields": {
+      "cast": 66,
+      "franchise": 5
+    }
+  },
+  {
+    "model": "bravoapi.franchisecast",
+    "pk": 67,
+    "fields": {
+      "cast": 67,
+      "franchise": 5
+    }
+  },
+  {
+    "model": "bravoapi.franchisecast",
+    "pk": 68,
+    "fields": {
+      "cast": 68,
+      "franchise": 5
+    }
+  },
+  {
+    "model": "bravoapi.franchisecast",
+    "pk": 70,
+    "fields": {
+      "cast": 69,
+      "franchise": 5
+    }
+  },
+  {
+    "model": "bravoapi.franchisecast",
+    "pk": 70,
+    "fields": {
+      "cast": 69,
+      "franchise": 5
+    }
+  },
+  {
+    "model": "bravoapi.franchisecast",
+    "pk": 71,
+    "fields": {
+      "cast": 71,
+      "franchise": 5
+    }
+  },
+  {
+    "model": "bravoapi.franchisecast",
+    "pk": 72,
+    "fields": {
+      "cast": 72,
+      "franchise": 5
+    }
+  }
+]
