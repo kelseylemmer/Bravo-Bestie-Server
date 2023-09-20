@@ -217,14 +217,6 @@
   },
   {
     "model": "bravoapi.franchisecast",
-    "pk": 28,
-    "fields": {
-      "cast": 28,
-      "franchise": 2
-    }
-  },
-  {
-    "model": "bravoapi.franchisecast",
     "pk": 29,
     "fields": {
       "cast": 29,
@@ -573,6 +565,22 @@
     "fields": {
       "cast": 72,
       "franchise": 5
+    }
+  },
+  {
+    "model": "bravoapi.franchisecast",
+    "pk": 73,
+    "fields": {
+      "cast": 1,
+      "franchise": 9
+    }
+  },
+  {
+    "model": "bravoapi.franchisecast",
+    "pk": 74,
+    "fields": {
+      "cast": 6,
+      "franchise": 2
     }
   }
 ]
