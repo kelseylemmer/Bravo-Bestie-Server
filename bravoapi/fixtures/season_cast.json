@@ -376,5 +376,14 @@
       "season": 12,
       "role": 1
     }
+  },
+  {
+    "model": "bravoapi.seasoncast",
+    "pk": 43,
+    "fields": {
+      "cast": 6,
+      "season": 1,
+      "role": 1
+    }
   }
 ]

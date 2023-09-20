@@ -14,7 +14,7 @@
     "pk": 2,
     "fields": {
       "name": "Camille Grammer",
-      "img_url": "https://i.imgur.com/yorNHxv.jpg",
+      "img_url": "https://i.imgur.com/TMYeVV2.jpg",
       "instagram": "https://www.instagram.com/therealcamille/",
       "twitter": "https://twitter.com/TheRealCamilleG"
     }
@@ -24,9 +24,9 @@
     "pk": 3,
     "fields": {
       "name": "Adrienne Maloof",
-      "img_url": "https://twitter.com/AdrienneMaloof",
+      "img_url": "https://i.imgur.com/KcFm9Bf.png",
       "instagram": "https://www.instagram.com/adriennemaloof/",
-      "twitter": ""
+      "twitter": "https://twitter.com/AdrienneMaloof"
     }
   },
   {
@@ -34,7 +34,7 @@
     "pk": 4,
     "fields": {
       "name": "Kim Richards",
-      "img_url": "https://i.imgur.com/mEzGnRP.jpg",
+      "img_url": "https://i.imgur.com/jZGGIC5.png",
       "instagram": "https://www.instagram.com/kimrichards11/",
       "twitter": "https://twitter.com/KimRichards11"
     }
@@ -54,7 +54,7 @@
     "pk": 6,
     "fields": {
       "name": "Lisa Vanderpump",
-      "img_url": "https://i.imgur.com/VOsSGFX.jpg",
+      "img_url": "https://i.imgur.com/wiRM4q9.jpg",
       "instagram": "https://www.instagram.com/lisavanderpump/",
       "twitter": "https://twitter.com/LisaVanderpump"
     }
@@ -64,7 +64,7 @@
     "pk": 7,
     "fields": {
       "name": "Brandi Glanville",
-      "img_url": "https://i.imgur.com/Mzj83JY.jpg",
+      "img_url": "https://i.imgur.com/K6fZvz6.png",
       "instagram": "https://www.instagram.com/brandiglanville/",
       "twitter": "https://twitter.com/BrandiGlanville"
     }
