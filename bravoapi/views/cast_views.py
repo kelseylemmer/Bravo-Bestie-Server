@@ -29,4 +29,4 @@ class CastSerializer(serializers.ModelSerializer):
     class Meta:
         model = Cast
         fields = ('id', 'name', 'img_url', 'instagram',
-                  'twitter')
+                  'twitter', 'bio')
