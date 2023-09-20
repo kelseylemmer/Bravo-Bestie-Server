@@ -1,0 +1,296 @@
+[
+  {
+    "model": "bravoapi.cast",
+    "pk": 1,
+    "fields": {
+      "cast": 1,
+      "title": "Hiding from Reality: My Story of Love, Loss, and Finding the Courage Within ",
+      "synopsis": "A star of The Real Housewives of Beverly Hills details her abusive six-year marriage to a man who killed himself in August 2011. Armstrong’s earliest memory is of witnessing her father attack her mother. Shortly thereafter he abandoned the family. Born Shana Hughes, the Oklahoma native changed her name to Shana Taylor, for her stepfather, then to Taylor Ford, in homage to her favorite fashion designer, Tom Ford. Lifelong insecurities led her to get a permanent lip implant and breast augmentation and to cultivate unhealthy relationships with men. In 2004, she moved from Florida to Beverly Hills, where she ran her fledgling textile company out of her condo. 'There were red flags all over the place' when she met Russell, an investor with a history of domestic abuse and bankruptcy, but she doggedly pursued him. Despite his verbal and physical attacks, they married. Russell shut down her business, and Armstrong, now financially dependent on him, lived in a state of anxiety about setting him off. When Armstrong got pregnant, Russell claimed he only wanted to keep the baby if it was a girl because he already had two sons. Luckily, it was a girl. Armstrong is candid about her low self-esteem but takes no real accountability for herself, opting instead to reveal the laundry list of Russell's endless demands and paranoia. Appearing on Housewives added stress to their already fractured marriage, and Armstrong's decision to tell her cast mates about Russell's dark side, including his allegedly popping her jaw out of its socket, resulted in her secrets being revealed by them on air. Armstrong separated from Russell after an alleged vicious attack requiring surgery. Months after he left, she discovered his body in a friend's house. Despite her story's dramatic events, Armstrong's writing is tepid, and she demonstrates very little growth over the course of the narrative.",
+      "pages": 274,
+      "publisher": "Gallery Books/Simon & Schuster",
+      "img_url": "https://twitter.com/taylorarmstrong",
+      "publish_date": "02/07/2012",
+      "purchase": "https://www.barnesandnoble.com/w/hiding-from-reality-taylor-armstrong/1110789336?ean=9781476704623"
+    }
+  },
+  {
+    "model": "bravoapi.cast",
+    "pk": 2,
+    "fields": {
+      "cast": 5,
+      "title": "Life Is Not a Reality Show: Keeping It Real with the Housewife Who Does It All",
+      "synopsis": "In Life Is Not a Reality Show, breakout star of Bravo's The Real Housewives of Beverly Hills Kyle Richards reveals everything she’s learned about succeeding without getting stuck up, with insights into everything from keeping a marriage fresh while juggling four kids (with not a nanny in sight) to finding the best beauty steals and home-decorating inspirations.",
+      "pages": 272,
+      "publisher": "Harper Collins Publisher",
+      "img_url": "https://i.imgur.com/5szsg9j.jpg",
+      "publish_date": "12/27/2011",
+      "purchase": "https://www.barnesandnoble.com/w/life-is-not-a-reality-show-kyle-richards/1100588327"
+    }
+  },
+  {
+    "model": "bravoapi.cast",
+    "pk": 3,
+    "fields": {
+      "cast": 6,
+      "title": "Simply Divine: A Guide to Easy, Elegant, and Affordable Entertaining",
+      "synopsis": "Lisa Vanderpump has become the breakout star of The Real Housewives of Beverly Hills. Her unique mix of sparkling glamour and down-to-earth style has appealed to thousands of fans. On the show, viewers can see her hosting dinner parties and running her popular Beverly Hills restaurant Villa Blanca with what can best be termed 'easy elegance.' Now Lisa shares her tips and tricks for creating the perfect gathering: whether you're hosting a cozy winter dinner for six, throwing a poolside BBQ, or just hanging out with your closest friends, Lisa has just the menu and entertaining hints that will make it both simple AND divine.  Lisa offers simple d'cor ideas and more than 50 recipes in mix-and-match menus for any kind of 'Day'",
+      "pages": 224,
+      "publisher": "Running Press Book Publishers",
+      "img_url": "https://i.imgur.com/sg8DCP2.jpg",
+      "publish_date": "11/08/2011",
+      "purchase": "https://www.barnesandnoble.com/w/simply-divine-lisa-vanderpump/1104732904?ean=9780762445226"
+    }
+  },
+  {
+    "model": "bravoapi.cast",
+    "pk": 4,
+    "fields": {
+      "cast": 7,
+      "title": "Drinking and Tweeting: And Other Brandi Blunders",
+      "synopsis": "She's the brutally honest breath of fresh air on The Real Housewives of Beverly Hills, known for her dramatic divorce, her barely-there clothing, and her inability to keep her mouth shut. So why should she change now? Brandi Glanville tells all in this hilarious, no-holds-barred memoir.",
+      "pages": 256,
+      "publisher": "Gallery Books",
+      "img_url": "https://i.imgur.com/OXtwta8.jpg",
+      "publish_date": "01/07/2014",
+      "purchase": "https://www.barnesandnoble.com/w/drinking-and-tweeting-brandi-glanville/1113784587?ean=9781476707631"
+    }
+  },
+  {
+    "model": "bravoapi.cast",
+    "pk": 5,
+    "fields": {
+      "cast": 7,
+      "title": "Drinking and Dating: P.S. Social Media Is Ruining Romance",
+      "synopsis": "America's favorite hashtagger has gone through hell, but now she's back, hilariously sharing what she's learned—why a man would wear his hat during sex, why you should close your legs when you get out of a car, and why yes is the new no.",
+      "pages": 256,
+      "publisher": "Harper Collins Publisher",
+      "img_url": "https://i.imgur.com/YMNfaO0.jpg",
+      "publish_date": "02/03/2015",
+      "purchase": "https://www.barnesandnoble.com/w/drinking-and-dating-brandi-glanville/1117137871?ean=9780062297167"
+    }
+  },
+  {
+    "model": "bravoapi.cast",
+    "pk": 6,
+    "fields": {
+      "cast": 8,
+      "title": "Believe Me: My Battle with the Invisible Disability of Lyme Disease",
+      "synopsis": "From the star of The Real Housewives of Beverly Hills comes an emotional and eye opening behind-the-scenes look at her descent into uncovering the mystery of chronic Lyme disease.",
+      "pages": 320,
+      "publisher": "St. Martin's Publishing Group",
+      "img_url": "https://i.imgur.com/p7GRTFV.jpg",
+      "publish_date": "10/02/2018",
+      "purchase": "https://www.barnesandnoble.com/w/believe-me-yolanda-hadid/1123909656?ean=9781250132772"
+    }
+  },
+  {
+    "model": "bravoapi.cast",
+    "pk": 7,
+    "fields": {
+      "cast": 12,
+      "title": "Starlit: A Novel",
+      "synopsis": "New York Times bestselling author and television star Lisa Rinna delivers a “dishy” (Huffington Post) and deliciously revealing novel, a titillating Hollywood drama packed with sexy secrets and juicy scandal. In this town, you're either it or you're out.  Glamorous parties, paparazzi, red carpets—Tally Jones has worked hard to join Hollywood's A-list since she moved to Los Angeles. She finally gets her break on the hit nighttime soap opera Dana Point with a coveted role that allows the former small-town girl to trade her crisp waiter uniform for a breathtaking ball gown and an Emmy nomination. With her real-life leading mean, film producer Mac Carlton, by her side, Tally is living the Hollywood dream—until veteran diva Susie Sheppard schemes to oust the starlet from the limelight. Susie sharpens her claws to snap Mac and sets out to ruin Tally's life completely. But Tally won't go down without a fight. She's determined to bring down her on- and off-screen nemesis and claim the sparkling happy ending she deserves.",
+      "pages": 336,
+      "publisher": "Gallery Books",
+      "img_url": "https://i.imgur.com/pTCryKg.jpg",
+      "publish_date": "10/05/2010",
+      "purchase": "https://www.barnesandnoble.com/w/starlit-lisa-rinna/1100363935?ean=9781476788333"
+    }
+  },
+  {
+    "model": "bravoapi.cast",
+    "pk": 8,
+    "fields": {
+      "cast": 12,
+      "title": "Rinnavation: Getting Your Best Life Ever",
+      "synopsis": "GET READY TO 'RINNAVATE' YOUR LIFE! Look better, feel better, live better, love better—the Lisa Rinna way! Whether she's interviewing celebrities on the red carpet, or 'movin' what she's got' on Dancing with the Stars, Lisa Rinna always looks absolutely sensational. Now for the first time, the award-winning actress reveals her best-kept secrets for staying fit, managing weight, looking beautiful, feeling sexy, and living the best life possible.",
+      "pages": 206,
+      "publisher": "Gallery Books",
+      "img_url": "https://i.imgur.com/7t1hu5X.jpg",
+      "publish_date": "05/18/2010",
+      "purchase": "https://www.barnesandnoble.com/w/rinnavation-lisa-rinna/1102262149?ean=9781439171523"
+    }
+  },
+  {
+    "model": "bravoapi.cast",
+    "pk": 10,
+    "fields": {
+      "cast": 14,
+      "title": "Pretty Mess",
+      "synopsis": "Without her alter-ego Erika Jayne, Erika Girardi says she’d just be “another rich bitch with a plane”—so get ready for the dishy, tell-all memoir from show-stopping performer, model, singer, and beloved star of The Real Housewives of Beverly Hills, Erika Jayne.",
+      "pages": 304,
+      "publisher": "Gallery Books",
+      "img_url": "https://i.imgur.com/8e7JUeg.jpg",
+      "publish_date": "03/20/2018",
+      "purchase": "https://www.barnesandnoble.com/w/pretty-mess-erika-jayne/1108112832?ean=9781501181900"
+    }
+  },
+  {
+    "model": "bravoapi.cast",
+    "pk": 11,
+    "fields": {
+      "cast": 18,
+      "title": "Love Me as I Am: My Journey from Haiti to Hollywood to Happiness",
+      "synopsis": "Love Me As I Am is Garcelle Beauvais's smart, inspiring, and raw memoir—an entertaining and unforgettable emotional rollercoaster ride that moves from her early childhood years in Haiti to her adolescence in Boston; from her heady days as a young model in New York—her first taste of real freedom—to Los Angeles and the many ups, downs, and then more ups, both personal and professional, she experienced in her three-decade acting career, including her massive fame as a star of The Real Housewives of Beverly Hills. ",
+      "pages": 240,
+      "publisher": "Harper Collins Publisher",
+      "img_url": "https://i.imgur.com/R50UN08.jpg",
+      "publish_date": "04/04/2023",
+      "purchase": "https://www.barnesandnoble.com/w/love-me-as-i-am-garcelle-beauvais/1140139252?ean=9780063099593"
+    }
+  },
+  {
+    "model": "bravoapi.cast",
+    "pk": 12,
+    "fields": {
+      "cast": 21,
+      "title": "Room 23",
+      "synopsis": "ROOM 23 depicts a year in the life of a private penthouse suite in a hotel in Beverly Hills, California. The year is 2008. The protagonists: Hollywood's characters and elite. The host: Diana Jenkins. The photographer: Deborah Anderson. The photographs glamorously unveil the story of what takes place behind these closed doors in provocative and intimate images.",
+      "pages": 384,
+      "publisher": "Daab Pub",
+      "img_url": "https://i.imgur.com/dSxRotc.jpg",
+      "publish_date": "09/08/2009",
+      "purchase": "https://www.amazon.com/Room-23-Diana-Jenkins/dp/3866541252"
+    }
+  },
+  {
+    "model": "bravoapi.cast",
+    "pk": 13,
+    "fields": {
+      "cast": 22,
+      "title": "He's Making You Crazy: How to Get the Guy, Get Even, and Get Over It",
+      "synopsis": "Unpacking the ups and downs of Kristen's laugh-out-loud funny, sometimes cringe-worthy dating history, He's Making You Crazy will hold your hand through deep self-reflection—while giving you that push to put on your detective's hat and hack your man's email account if you need to. From trapping your boyfriend in ridiculous lies to gathering all your crush’s security question answers on the first date, Kristen shares her no-holds-barred, hysterically funny, and hard-earned advice on men, love, and modern dating. ",
+      "pages": 224,
+      "publisher": "Chicago Review Press",
+      "img_url": "https://i.imgur.com/o1hnoTd.jpg",
+      "publish_date": "06/02/2020",
+      "purchase": "https://www.barnesandnoble.com/w/hes-making-you-crazy-kristen-doute/1134951371?ean=9781641603799"
+    }
+  },
+  {
+    "model": "bravoapi.cast",
+    "pk": 14,
+    "fields": {
+      "cast": 25,
+      "title": "Next Level Basic: The Definitive Basic Bitch Handbook",
+      "synopsis": "Discover how to embrace your best basic self in this instant New York Times bestselling, laugh-out-loud hilarious, and 'refreshing to read' (The Cut) guidebook from the breakout star of Bravo's hit reality show Vanderpump Rules.",
+      "pages": 240,
+      "publisher": "Gallery Books",
+      "img_url": "https://i.imgur.com/g8bHRH0.jpg",
+      "publish_date": "09/06/2022",
+      "purchase": "https://www.barnesandnoble.com/w/next-level-basic-stassi-schroeder/1129942015?ean=9781982112479&aug=1"
+    }
+  },
+  {
+    "model": "bravoapi.cast",
+    "pk": 15,
+    "fields": {
+      "cast": 25,
+      "title": "Off with My Head: The Definitive Basic B*tch Handbook to Surviving Rock Bottom",
+      "synopsis": "The year 2020 was going to be the best year of Stassi's life. Besides getting engaged and feeling like she was on top of the world career-wise, she bought her first house and was planning her dream Italian wedding. The future showed so much freaking promise—until it all went to hell. Stassi may not be perfect—she may have made some (major) mistakes—but she does feel like she has some insight (and plenty of hilarious tales) about getting knocked up, called out, and learning from what went wrong.",
+      "pages": 288,
+      "publisher": "Gallery Books",
+      "img_url": "https://i.imgur.com/VAd58xL.jpg",
+      "publish_date": "03/28/2023",
+      "purchase": "https://www.barnesandnoble.com/w/off-with-my-head-stassi-schroeder/1140933298?ean=9781982142568"
+    }
+  },
+  {
+    "model": "bravoapi.cast",
+    "pk": 17,
+    "fields": {
+      "cast": 29,
+      "title": "Fancy Af Cocktails: Drink Recipes from a Couple of Professional Drinkers",
+      "synopsis": "Bravo's hit show Vanderpump Rules, which Vogue recently called 'America's perfect reality show,' is a spin-off of The Real Housewives of Beverly Hills. The show is centered around the crazy, booze-fueled lives of the staff at Lisa Vanderpump's wildly popular SUR restaurant in West Hollywood. Ariana Madix and Tom Sandoval, two of the show's stars, fell in love on the show and have stuck together through it all. They've been talking about writing a cocktail book on the show for a few seasons, and now they're finally delivering the goods with this book that has drinks for every situation. It features a mix of classy cocktails for fancy special occasions and trashier recipes for those times when you just have a few random ingredients in your kitchen and want to keep the buzz going. Shots and recovery recipes are also included, so your pregame and morning after will be covered too. Woven throughout are brand-new photos and behind-the-scenes stories crafted with the help of Bravo insider and co-author Danny Pellegrino, making this a true must-have for fans of the show.",
+      "pages": 208,
+      "publisher": "Harper Collins Publisher",
+      "img_url": "https://i.imgur.com/EcYDhTA.jpg",
+      "publish_date": "12/03/2019",
+      "purchase": "https://www.barnesandnoble.com/w/fancy-af-cocktails-ms-ariana-madix/1131398463"
+    }
+  },
+  {
+    "model": "bravoapi.cast",
+    "pk": 18,
+    "fields": {
+      "cast": 29,
+      "title": "Single AF Cocktails: Drinks for Bad B*tches",
+      "synopsis": "Celebrate reality television star and beloved bartender Ariana Madix's journey from heartbreak to empowerment with 60 high-drama cocktails that are as strong and inspiring as she is.  Full of stunning, powerful photography and never-before-told stories, Single AF Cocktails is a singular experience for the reader as they ride the rollercoaster of Ariana’s story alongside her. Whether you’re a longtime fan or a newcomer to Ariana’s world, Single AF Cocktails promises a captivating and cathartic experience for all.",
+      "pages": 176,
+      "publisher": "Clarkson Potter/Ten Speed",
+      "img_url": "https://i.imgur.com/0LC4FHP.jpg",
+      "publish_date": "12/05/2023",
+      "purchase": "https://www.barnesandnoble.com/w/untitled-6870s-clarkson-potter/1143928666?ean=9780593796870"
+    }
+  },
+  {
+    "model": "bravoapi.cast",
+    "pk": 19,
+    "fields": {
+      "cast": 33,
+      "title": "Give Them Lala",
+      "synopsis": "The Vanderpump Rules breakout star and provocateur brings her signature sharp wit to the page with this collection of humorous and brutally honest essays exploring her rocky road to fame, sobriety, and beyond.",
+      "pages": 240,
+      "publisher": "Gallery Books",
+      "img_url": "https://i.imgur.com/2FkxNdF.jpg",
+      "publish_date": "04/12/2022",
+      "purchase": "https://www.barnesandnoble.com/w/give-them-lala-lala-kent/1138704698?ean=9781982153854"
+    }
+  },
+  {
+    "model": "bravoapi.cast",
+    "pk": 20,
+    "fields": {
+      "cast": 41,
+      "title": "Red Carpets & White Lies: A Novel",
+      "synopsis": "In a city known for its never-ending parties, Miami socialite Leigh Anatole White hosts the most extravagant party of them all. Her annual Charity Ball, a star-studded benefit for troubled teens, is the most highly anticipated event of the season, and Leigh pulls out all the stops to ensure it doesn't disappoint.",
+      "pages": 417,
+      "publisher": "Beaufort Books, Incorporated",
+      "img_url": "https://i.imgur.com/5GGb2Vl.jpg",
+      "publish_date": "05/05/2015",
+      "purchase": "https://www.barnesandnoble.com/w/red-carpets-white-lies-lea-black/1120636038?ean=9780825307485"
+    }
+  },
+  {
+    "model": "bravoapi.cast",
+    "pk": 21,
+    "fields": {
+      "cast": 54,
+      "title": "My Word",
+      "synopsis": "With every part of her life—family faith, and finances—hanging in the balance, Ginger must decide if she will continue to live in the shadow of the sins of her husband…or face life on the other side of the pulpit.",
+      "pages": 292,
+      "publisher": "Brown Girls Publishing",
+      "img_url": "https://i.imgur.com/8B3jdNp.jpg",
+      "publish_date": "04/30/2019",
+      "purchase": "https://www.barnesandnoble.com/w/my-word-gizelle-bryant/1130409362?ean=9781944359805"
+    }
+  },
+  {
+    "model": "bravoapi.cast",
+    "pk": 22,
+    "fields": {
+      "cast": 62,
+      "title": "Tears of My Mother: The Legacy of My Nigerian Upbringing",
+      "synopsis": "When star of Bravo's The Real Housewives of Potomac Dr. Wendy Osefo was growing up, her mother was her everything. But when she became a mother herself, everything changed. In this 'exquisitely-drawn portrait of the intense bond that only a mother can have with a daughter' (Katie Haufner, author of Mother Daughter Me), Wendy explores how her Nigerian upbringing has affected her life, her success, and her role as a parent.",
+      "pages": 288,
+      "publisher": "Gallery Books",
+      "img_url": "https://i.imgur.com/RLBUacG.jpg",
+      "publish_date": "05/23/2023",
+      "purchase": "https://www.barnesandnoble.com/w/tears-of-my-mother-dr-wendy-osefo/1139794784?ean=9781982194512"
+    }
+  },
+  {
+    "model": "bravoapi.cast",
+    "pk": 23,
+    "fields": {
+      "cast": 66,
+      "title": "Bad Mormon: A Memoir",
+      "synopsis": "With writing that is beautiful, sad, funny, and true, Heather recounts the difficult discovery of the darkness and damage that often exists behind a picture-perfect life, while examining the nuanced relationship between duty to self and duty to God. “An eye-opening firsthand account of religious indoctrination told with candor and sincerity” (Interview magazine), Bad Mormon is an unfiltered look at the religion that broke her heart.",
+      "pages": 304,
+      "publisher": "Gallery Books",
+      "img_url": "https://i.imgur.com/PYVOdmV.jpg",
+      "publish_date": "02/07/2023",
+      "purchase": "https://www.barnesandnoble.com/w/bad-mormon-heather-gay/1140360541?ean=9781982199531"
+    }
+  }
+]

@@ -43,7 +43,6 @@ class ProfileView(ViewSet):
             pk=request.data['favorite_franchise'])
 
         profile = Profile.objects.get(pk=pk)
-        profile.user = request.auth.user
         profile.display_name = request.data["display_name"]
         profile.bio = request.data["bio"]
         profile.picture = request.data["picture"]
