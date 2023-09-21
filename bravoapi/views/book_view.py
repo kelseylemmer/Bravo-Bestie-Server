@@ -5,6 +5,7 @@ from rest_framework.response import Response
 from rest_framework import serializers, status
 from bravoapi.models import Book, Cast
 from django.contrib.auth.models import User
+from django.db.models import F
 
 
 class BookView(ViewSet):
@@ -14,18 +15,13 @@ class BookView(ViewSet):
         """Handle GET requests for single book
 
         Returns:
-            Response -- JSON serialized cast member
+            Response -- JSON serialized book
         """
         book = Book.objects.get(pk=pk)
         serializer = BookSerializer(book)
         return Response(serializer.data)
 
     def list(self, request):
-        """Handle GET requests to get all books
-
-        Returns:
-            Response -- JSON serialized list of books
-        """
         books = Book.objects.all()
 
         cast_id = request.query_params.get("cast")
@@ -38,6 +34,13 @@ class BookView(ViewSet):
                     {"error": "Not found."},
                     status=status.HTTP_404_NOT_FOUND
                 )
+
+        # Sorting books by franchise when getting all
+        if not cast_id:
+            books = books.annotate(
+                franchise_label=F('cast__franchises__label'))
+            books = books.order_by('franchise_label', 'title')
+
         serialized = BookSerializer(books, many=True)
         return Response(serialized.data, status=status.HTTP_200_OK)
 

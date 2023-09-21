@@ -9,3 +9,4 @@ class Cast(models.Model):
     instagram = models.URLField(max_length=100)
     twitter = models.URLField(max_length=100)
     bio = models.CharField(max_length=5000, blank=True)
+    franchises = models.ManyToManyField("Franchise", through="FranchiseCast")
