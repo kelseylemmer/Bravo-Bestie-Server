@@ -45,9 +45,20 @@ class BookView(ViewSet):
         return Response(serialized.data, status=status.HTTP_200_OK)
 
 
+class BookCastSerializer(serializers.ModelSerializer):
+    """JSON serializer for book
+    """
+
+    class Meta:
+        model = Cast
+        fields = ('id', 'name')
+
+
 class BookSerializer(serializers.ModelSerializer):
     """JSON serializer for book
     """
+
+    cast = BookCastSerializer(many=False)
 
     class Meta:
         model = Book
