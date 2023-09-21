@@ -9,3 +9,4 @@ from .season_cast import SeasonCast
 from .role import Role
 from .franchise_cast import FranchiseCast
 from .book import Book
+from .review import Review

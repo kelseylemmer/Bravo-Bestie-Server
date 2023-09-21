@@ -13,3 +13,7 @@ class Profile(models.Model):
     favorite_franchise = models.ForeignKey(
         'Franchise', on_delete=models.CASCADE, null=True, blank=True)
     # stretch goal: add top 5 cast members
+
+    @property
+    def full_name(self):
+        return f"{self.user.first_name} {self.user.last_name}"
