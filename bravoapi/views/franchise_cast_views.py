@@ -33,7 +33,7 @@ class FranchiseCastCastSerializer(serializers.ModelSerializer):
 
     class Meta:
         model = Cast
-        fields = ('id', 'img_url')
+        fields = ('id', 'img_url', 'name')
 
 
 class FranchiseCastSerializer(serializers.ModelSerializer):

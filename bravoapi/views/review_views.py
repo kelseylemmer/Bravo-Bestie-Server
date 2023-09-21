@@ -26,9 +26,9 @@ class ReviewView(ViewSet):
         serialized = ReviewSerializer(reviews, many=True)
         return Response(serialized.data, status=status.HTTP_200_OK)
 
-    def destroy(self, pk):
-        Review = Review.objects.get(pk=pk)
-        Review.delete()
+    def destroy(self, request, pk):
+        review = Review.objects.get(pk=pk)
+        review.delete()
         return Response(None, status=status.HTTP_204_NO_CONTENT)
 
     def create(self, request):
@@ -37,18 +37,18 @@ class ReviewView(ViewSet):
         Returns:
             Response -- JSON serialized review record
         """
+
+        print(request.data)
         book = Book.objects.get(pk=request.data["book"])
         profile = Profile.objects.get(user=request.auth.user.id)
 
-        new_review = Review()
+        review = Review.objects.create(
+            profile=profile,
+            book=book,
+            review=request.data["review"]
+        )
 
-        new_review.profile = profile
-        new_review.book = book
-        review = request.data['review']
-        date = request.data['date']
-        new_review.save()
-
-        serialized = ReviewSerializer(new_review, many=False)
+        serialized = ReviewSerializer(review, many=False)
         return Response(serialized.data, status=status.HTTP_201_CREATED)
 
 
@@ -58,7 +58,7 @@ class ReviewProfileSerializer(serializers.ModelSerializer):
 
     class Meta:
         model = Profile
-        fields = ('id', 'full_name')
+        fields = ('id', 'full_name', 'picture')
 
 
 class ReviewSerializer(serializers.ModelSerializer):
