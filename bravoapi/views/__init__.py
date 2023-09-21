@@ -9,3 +9,4 @@ from .profile_episode_views_f import FranchiseProfileEpisodeView
 from .season_cast_views import SeasonCastView
 from .franchise_cast_views import FranchiseCastView
 from .cast_views import CastView
+from .book_view import BookView

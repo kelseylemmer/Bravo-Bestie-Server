@@ -1,11 +1,11 @@
 [
   {
-    "model": "bravoapi.cast",
+    "model": "bravoapi.book",
     "pk": 1,
     "fields": {
       "cast": 1,
       "title": "Hiding from Reality: My Story of Love, Loss, and Finding the Courage Within ",
-      "synopsis": "A star of The Real Housewives of Beverly Hills details her abusive six-year marriage to a man who killed himself in August 2011. Armstrong’s earliest memory is of witnessing her father attack her mother. Shortly thereafter he abandoned the family. Born Shana Hughes, the Oklahoma native changed her name to Shana Taylor, for her stepfather, then to Taylor Ford, in homage to her favorite fashion designer, Tom Ford. Lifelong insecurities led her to get a permanent lip implant and breast augmentation and to cultivate unhealthy relationships with men. In 2004, she moved from Florida to Beverly Hills, where she ran her fledgling textile company out of her condo. 'There were red flags all over the place' when she met Russell, an investor with a history of domestic abuse and bankruptcy, but she doggedly pursued him. Despite his verbal and physical attacks, they married. Russell shut down her business, and Armstrong, now financially dependent on him, lived in a state of anxiety about setting him off. When Armstrong got pregnant, Russell claimed he only wanted to keep the baby if it was a girl because he already had two sons. Luckily, it was a girl. Armstrong is candid about her low self-esteem but takes no real accountability for herself, opting instead to reveal the laundry list of Russell's endless demands and paranoia. Appearing on Housewives added stress to their already fractured marriage, and Armstrong's decision to tell her cast mates about Russell's dark side, including his allegedly popping her jaw out of its socket, resulted in her secrets being revealed by them on air. Armstrong separated from Russell after an alleged vicious attack requiring surgery. Months after he left, she discovered his body in a friend's house. Despite her story's dramatic events, Armstrong's writing is tepid, and she demonstrates very little growth over the course of the narrative.",
+      "synopsis": "Taylor Armstrong, star of The Real Housewives of Beverly Hills on Bravo, pulls back the curtain on the years she suffered in silence through domestic violence in this searingly honest account of her troubled marriage to the late Russell Armstrong.",
       "pages": 274,
       "publisher": "Gallery Books/Simon & Schuster",
       "img_url": "https://twitter.com/taylorarmstrong",
@@ -14,12 +14,12 @@
     }
   },
   {
-    "model": "bravoapi.cast",
+    "model": "bravoapi.book",
     "pk": 2,
     "fields": {
       "cast": 5,
       "title": "Life Is Not a Reality Show: Keeping It Real with the Housewife Who Does It All",
-      "synopsis": "In Life Is Not a Reality Show, breakout star of Bravo's The Real Housewives of Beverly Hills Kyle Richards reveals everything she’s learned about succeeding without getting stuck up, with insights into everything from keeping a marriage fresh while juggling four kids (with not a nanny in sight) to finding the best beauty steals and home-decorating inspirations.",
+      "synopsis": "In Life Is Not a Reality Show, breakout star of Bravo's The Real Housewives of Beverly Hills Kyle Richards reveals everything she's learned about succeeding without getting stuck up, with insights into everything from keeping a marriage fresh while juggling four kids (with not a nanny in sight) to finding the best beauty steals and home-decorating inspirations.",
       "pages": 272,
       "publisher": "Harper Collins Publisher",
       "img_url": "https://i.imgur.com/5szsg9j.jpg",
@@ -28,7 +28,7 @@
     }
   },
   {
-    "model": "bravoapi.cast",
+    "model": "bravoapi.book",
     "pk": 3,
     "fields": {
       "cast": 6,
@@ -42,7 +42,7 @@
     }
   },
   {
-    "model": "bravoapi.cast",
+    "model": "bravoapi.book",
     "pk": 4,
     "fields": {
       "cast": 7,
@@ -56,7 +56,7 @@
     }
   },
   {
-    "model": "bravoapi.cast",
+    "model": "bravoapi.book",
     "pk": 5,
     "fields": {
       "cast": 7,
@@ -70,7 +70,7 @@
     }
   },
   {
-    "model": "bravoapi.cast",
+    "model": "bravoapi.book",
     "pk": 6,
     "fields": {
       "cast": 8,
@@ -84,7 +84,7 @@
     }
   },
   {
-    "model": "bravoapi.cast",
+    "model": "bravoapi.book",
     "pk": 7,
     "fields": {
       "cast": 12,
@@ -98,7 +98,7 @@
     }
   },
   {
-    "model": "bravoapi.cast",
+    "model": "bravoapi.book",
     "pk": 8,
     "fields": {
       "cast": 12,
@@ -112,7 +112,7 @@
     }
   },
   {
-    "model": "bravoapi.cast",
+    "model": "bravoapi.book",
     "pk": 10,
     "fields": {
       "cast": 14,
@@ -126,7 +126,7 @@
     }
   },
   {
-    "model": "bravoapi.cast",
+    "model": "bravoapi.book",
     "pk": 11,
     "fields": {
       "cast": 18,
@@ -140,7 +140,7 @@
     }
   },
   {
-    "model": "bravoapi.cast",
+    "model": "bravoapi.book",
     "pk": 12,
     "fields": {
       "cast": 21,
@@ -154,7 +154,7 @@
     }
   },
   {
-    "model": "bravoapi.cast",
+    "model": "bravoapi.book",
     "pk": 13,
     "fields": {
       "cast": 22,
@@ -168,7 +168,7 @@
     }
   },
   {
-    "model": "bravoapi.cast",
+    "model": "bravoapi.book",
     "pk": 14,
     "fields": {
       "cast": 25,
@@ -182,7 +182,7 @@
     }
   },
   {
-    "model": "bravoapi.cast",
+    "model": "bravoapi.book",
     "pk": 15,
     "fields": {
       "cast": 25,
@@ -196,7 +196,7 @@
     }
   },
   {
-    "model": "bravoapi.cast",
+    "model": "bravoapi.book",
     "pk": 17,
     "fields": {
       "cast": 29,
@@ -210,7 +210,7 @@
     }
   },
   {
-    "model": "bravoapi.cast",
+    "model": "bravoapi.book",
     "pk": 18,
     "fields": {
       "cast": 29,
@@ -224,7 +224,7 @@
     }
   },
   {
-    "model": "bravoapi.cast",
+    "model": "bravoapi.book",
     "pk": 19,
     "fields": {
       "cast": 33,
@@ -238,7 +238,7 @@
     }
   },
   {
-    "model": "bravoapi.cast",
+    "model": "bravoapi.book",
     "pk": 20,
     "fields": {
       "cast": 41,
@@ -252,7 +252,7 @@
     }
   },
   {
-    "model": "bravoapi.cast",
+    "model": "bravoapi.book",
     "pk": 21,
     "fields": {
       "cast": 54,
@@ -266,7 +266,7 @@
     }
   },
   {
-    "model": "bravoapi.cast",
+    "model": "bravoapi.book",
     "pk": 22,
     "fields": {
       "cast": 62,
@@ -280,7 +280,7 @@
     }
   },
   {
-    "model": "bravoapi.cast",
+    "model": "bravoapi.book",
     "pk": 23,
     "fields": {
       "cast": 66,
@@ -294,7 +294,7 @@
     }
   },
   {
-    "model": "bravoapi.cast",
+    "model": "bravoapi.book",
     "pk": 24,
     "fields": {
       "cast": 11,
@@ -308,7 +308,7 @@
     }
   },
   {
-    "model": "bravoapi.cast",
+    "model": "bravoapi.book",
     "pk": 25,
     "fields": {
       "cast": 11,
@@ -322,7 +322,7 @@
     }
   },
   {
-    "model": "bravoapi.cast",
+    "model": "bravoapi.book",
     "pk": 26,
     "fields": {
       "cast": 11,
@@ -336,7 +336,7 @@
     }
   },
   {
-    "model": "bravoapi.cast",
+    "model": "bravoapi.book",
     "pk": 27,
     "fields": {
       "cast": 11,
