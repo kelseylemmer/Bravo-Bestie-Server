@@ -1,0 +1,57 @@
+[
+  {
+    "model": "bravoapi.profile",
+    "pk": 1,
+    "fields": {
+      "user": 1,
+      "display_name": "Bri",
+      "bio": "Sitting is the opposite of standing",
+      "picture": "https://i.imgur.com/cIHSphf.jpg",
+      "favorite_franchise": "8"
+    }
+  },
+  {
+    "model": "bravoapi.profile",
+    "pk": 2,
+    "fields": {
+      "user": 2,
+      "display_name": "Elena",
+      "bio": "Beautify!!",
+      "picture": "https://i.imgur.com/vS805Xk.png",
+      "favorite_franchise": "7"
+    }
+  },
+  {
+    "model": "bravoapi.profile",
+    "pk": 3,
+    "fields": {
+      "user": 3,
+      "display_name": "Abbey",
+      "bio": "spooky cute! <3",
+      "picture": "https://i.imgur.com/gZUsaCa.jpg",
+      "favorite_franchise": "6"
+    }
+  },
+  {
+    "model": "bravoapi.profile",
+    "pk": 4,
+    "fields": {
+      "user": 4,
+      "display_name": "Sam",
+      "bio": "Its the mormons",
+      "picture": "https://i.imgur.com/uLL4y8I.png",
+      "favorite_franchise": "5"
+    }
+  },
+  {
+    "model": "bravoapi.profile",
+    "pk": 5,
+    "fields": {
+      "user": 5,
+      "display_name": "Belle",
+      "bio": "Just a girlie",
+      "picture": "https://i.imgur.com/PHhR2iJ.png",
+      "favorite_franchise": "1"
+    }
+  }
+]
