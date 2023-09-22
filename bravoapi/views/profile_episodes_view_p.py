@@ -1,7 +1,6 @@
 """View module for handling requests about profile episodes"""
 from rest_framework import serializers
 from bravoapi.models import ProfileEpisode, Episode, Season, Franchise
-from django.http import HttpResponseServerError
 from rest_framework.authentication import SessionAuthentication, BasicAuthentication
 from rest_framework.permissions import IsAuthenticatedOrReadOnly, IsAuthenticated
 from rest_framework.viewsets import ViewSet

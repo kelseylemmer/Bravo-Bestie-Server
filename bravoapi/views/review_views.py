@@ -5,6 +5,7 @@ from rest_framework.response import Response
 from rest_framework import serializers, status
 from bravoapi.models import Review, Profile, Book
 from rest_framework.authtoken.models import Token
+from django.contrib.auth.models import User
 
 
 class ReviewView(ViewSet):
@@ -58,7 +59,7 @@ class ReviewProfileSerializer(serializers.ModelSerializer):
 
     class Meta:
         model = Profile
-        fields = ('id', 'full_name', 'picture')
+        fields = ('id', 'full_name', 'picture', 'user')
 
 
 class ReviewSerializer(serializers.ModelSerializer):

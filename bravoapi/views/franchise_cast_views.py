@@ -4,7 +4,6 @@ from rest_framework.viewsets import ViewSet
 from rest_framework.response import Response
 from rest_framework import serializers, status
 from bravoapi.models import FranchiseCast, Cast
-from django.contrib.auth.models import User
 
 
 class FranchiseCastView(ViewSet):
